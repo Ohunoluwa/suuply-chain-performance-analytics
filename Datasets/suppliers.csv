@@ -1,0 +1,331 @@
+supplier_id,supplier_name,country,lead_time_days
+1000.0,Supplier_0,India,41.0
+1001.0,Supplier_1,nigeria,82.0
+1002.0,Supplier_2,china,4.0
+1003.0,Supplier_3,Nigeria ,61.0
+1004.0,Supplier_4,USA,50.0
+1005.0,Supplier_5,Nigeria ,10.0
+1006.0,Supplier_6,China ,72.0
+1007.0,Supplier_7,Germany ,76.0
+1008.0,Supplier_8,nigeria,64.0
+1009.0,Supplier_9,UAE,64.0
+1010.0,Supplier_10,Usa,77.0
+1011.0,Supplier_11,GERMANY,89.0
+1012.0,Supplier_12,Germany,
+,Supplier_13,UAE,-8.0
+1014.0,,usa,11.0
+1015.0,Supplier_15,,42.0
+1016.0,Supplier_16,India,-9.0
+1017.0,Supplier_17,CHINA,77.0
+1018.0,Supplier_18,NIGERIA,19.0
+1019.0,Supplier_19,UAE,27.0
+1020.0,Supplier_20,germany,-9.0
+1021.0,Supplier_21,,53.0
+1022.0,Supplier_22,Nigeria ,49.0
+1023.0,,,10.0
+1024.0,Supplier_24,Nigeria ,22.0
+1025.0,Supplier_25,china,65.0
+1026.0,Supplier_26,UAE,47.0
+,Supplier_27,Nigeria ,
+1028.0,Supplier_28,Nigeria,78.0
+,Supplier_29, Nigeria,38.0
+1030.0,Supplier_30,uae,80.0
+1031.0,Supplier_31,UAE ,48.0
+1032.0,Supplier_32,china,31.0
+1033.0,Supplier_33,china,81.0
+1034.0,Supplier_34,INDIA,49.0
+1035.0,Supplier_35,India,69.0
+1036.0,Supplier_36, UAE,4.0
+1037.0,Supplier_37,China,51.0
+1038.0,Supplier_38,NIGERIA,51.0
+1039.0,Supplier_39,UAE ,36.0
+,Supplier_40,,51.0
+1041.0,Supplier_41,USA ,40.0
+1042.0,Supplier_42,nigeria,44.0
+1043.0,Supplier_43,india,53.0
+,Supplier_44,nigeria,-8.0
+1045.0,Supplier_45,USA ,40.0
+1046.0,Supplier_46,INDIA,-4.0
+1047.0,Supplier_47,USA,10.0
+1048.0,Supplier_48,india,62.0
+1049.0,Supplier_49,,
+1050.0,Supplier_50,USA,7.0
+1051.0,Supplier_51, China,-7.0
+1052.0,Supplier_52,Uae,78.0
+1053.0,Supplier_53,,49.0
+1054.0,Supplier_54,germany,3.0
+,Supplier_55,China,-2.0
+1056.0,Supplier_56,India ,79.0
+1057.0,Supplier_57,Nigeria,
+1058.0,Supplier_58,China ,-9.0
+1059.0,Supplier_59,China,73.0
+1060.0,Supplier_60,CHINA,81.0
+1061.0,Supplier_61,USA,49.0
+1062.0,Supplier_62,UAE,60.0
+1063.0,Supplier_63,uae,33.0
+1064.0,Supplier_64,USA,-3.0
+1065.0,Supplier_65, UAE,36.0
+1066.0,Supplier_66,CHINA,24.0
+1067.0,,nigeria,67.0
+1068.0,Supplier_68,China,70.0
+1069.0,Supplier_69, India,25.0
+1070.0,Supplier_70, Germany,39.0
+1071.0,Supplier_71,Germany ,-7.0
+1072.0,Supplier_72,INDIA,-9.0
+,Supplier_73,china,-5.0
+1074.0,Supplier_74,Uae,43.0
+1075.0,Supplier_75,India,-7.0
+1076.0,Supplier_76,USA,43.0
+1077.0,Supplier_77,Germany,82.0
+1078.0,Supplier_78,India,52.0
+1079.0,Supplier_79,Uae,7.0
+1080.0,Supplier_80,nigeria,79.0
+1081.0,Supplier_81,,33.0
+,Supplier_82,Uae,23.0
+1083.0,Supplier_83,UAE,63.0
+1084.0,Supplier_84,usa,51.0
+1085.0,Supplier_85,USA,89.0
+1086.0,,UAE ,3.0
+1087.0,,China,84.0
+1088.0,Supplier_88, China,37.0
+1089.0,Supplier_89,NIGERIA,4.0
+,Supplier_90,Nigeria ,61.0
+1091.0,Supplier_91,Uae,67.0
+1092.0,Supplier_92, Nigeria,76.0
+1093.0,Supplier_93,Uae,51.0
+1094.0,Supplier_94,china,29.0
+1095.0,,,74.0
+1096.0,, Nigeria,69.0
+1097.0,Supplier_97,India ,71.0
+1098.0,Supplier_98,,42.0
+1099.0,Supplier_99,Uae,13.0
+1100.0,Supplier_100,INDIA,
+1101.0,Supplier_101,UAE,78.0
+1102.0,,india,49.0
+1103.0,Supplier_103,Nigeria ,
+1104.0,Supplier_104,china,18.0
+1105.0,Supplier_105,,4.0
+1106.0,Supplier_106, Nigeria,34.0
+1107.0,Supplier_107,,54.0
+1108.0,Supplier_108, China,78.0
+1109.0,Supplier_109,NIGERIA,60.0
+1110.0,Supplier_110,CHINA,
+1111.0,,USA ,77.0
+1112.0,Supplier_112,CHINA,-10.0
+1113.0,Supplier_113,India,-3.0
+1114.0,Supplier_114,Usa,77.0
+1115.0,Supplier_115, China,52.0
+1116.0,Supplier_116,India,0.0
+1117.0,Supplier_117,Nigeria,70.0
+,Supplier_118, USA,-3.0
+1119.0,Supplier_119, Nigeria,24.0
+1120.0,Supplier_120, Germany,
+1121.0,Supplier_121,,22.0
+,Supplier_122,china,-6.0
+1123.0,, USA,30.0
+1124.0,Supplier_124,Nigeria ,17.0
+1125.0,Supplier_125,Nigeria ,-4.0
+1126.0,Supplier_126, Germany,62.0
+1127.0,Supplier_127,uae,61.0
+1128.0,Supplier_128, China,1.0
+1129.0,Supplier_129,UAE ,23.0
+1130.0,Supplier_130,India,22.0
+1131.0,Supplier_131,UAE,37.0
+1132.0,Supplier_132,Nigeria ,
+1133.0,Supplier_133,China ,
+1134.0,Supplier_134,,77.0
+1135.0,Supplier_135,CHINA,26.0
+1136.0,Supplier_136,CHINA,88.0
+1137.0,,India,
+1138.0,Supplier_138,Nigeria,75.0
+1139.0,Supplier_139,nigeria,80.0
+1140.0,Supplier_140,Germany,24.0
+1141.0,Supplier_141,UAE ,54.0
+1142.0,Supplier_142, Nigeria,88.0
+1143.0,Supplier_143,India ,36.0
+1144.0,Supplier_144,china,67.0
+1145.0,Supplier_145,germany,-8.0
+1146.0,Supplier_146,India ,-10.0
+1147.0,Supplier_147, USA,-6.0
+1148.0,Supplier_148,,
+1149.0,Supplier_149,GERMANY,3.0
+1150.0,Supplier_150,China ,16.0
+1151.0,Supplier_151,UAE ,-2.0
+1152.0,Supplier_152,uae,68.0
+,Supplier_153,Nigeria,4.0
+1154.0,Supplier_154,Germany ,
+1155.0,Supplier_155,uae,31.0
+1156.0,Supplier_156,UAE ,66.0
+1157.0,,,40.0
+1158.0,Supplier_158,CHINA,52.0
+1159.0,Supplier_159,India ,85.0
+1160.0,Supplier_160,USA ,41.0
+1161.0,,,85.0
+1162.0,Supplier_162,nigeria,-7.0
+1163.0,Supplier_163,,83.0
+1164.0,Supplier_164, Nigeria,12.0
+1165.0,Supplier_165,,4.0
+1166.0,Supplier_166,UAE ,32.0
+,Supplier_167,NIGERIA,18.0
+1168.0,Supplier_168,,25.0
+1169.0,Supplier_169, USA,2.0
+1170.0,Supplier_170, Germany,
+1171.0,Supplier_171,nigeria,60.0
+1172.0,Supplier_172, Germany,48.0
+1173.0,Supplier_173, USA,
+1174.0,Supplier_174,USA ,17.0
+1175.0,Supplier_175,,55.0
+,Supplier_176,uae,31.0
+1177.0,,UAE,34.0
+1178.0,Supplier_178, China,51.0
+1179.0,Supplier_179,China,46.0
+1180.0,Supplier_180, Nigeria,-5.0
+1181.0,Supplier_181, USA,17.0
+1182.0,Supplier_182,,17.0
+1183.0,Supplier_183,nigeria,33.0
+1184.0,Supplier_184,India,73.0
+1185.0,Supplier_185,CHINA,19.0
+,Supplier_186, China,51.0
+1187.0,Supplier_187,,64.0
+1188.0,Supplier_188,GERMANY,81.0
+1189.0,Supplier_189, India,78.0
+1190.0,Supplier_190,Germany,
+1191.0,Supplier_191,UAE ,
+1192.0,Supplier_192,Germany,-10.0
+1193.0,Supplier_193,India,16.0
+1194.0,Supplier_194, UAE,51.0
+1195.0,Supplier_195,,66.0
+1196.0,Supplier_196,India,-8.0
+1197.0,Supplier_197,india,59.0
+1198.0,,Germany ,61.0
+1199.0,Supplier_199, Nigeria,16.0
+1200.0,Supplier_200,USA ,-2.0
+1201.0,Supplier_201,Nigeria ,51.0
+1202.0,, China,
+1203.0,,USA ,86.0
+1204.0,Supplier_204,GERMANY,40.0
+,Supplier_205,india,33.0
+1206.0,Supplier_206,UAE ,13.0
+1207.0,,india,68.0
+1208.0,Supplier_208, Nigeria,48.0
+1209.0,Supplier_209,Usa,21.0
+1210.0,Supplier_210, Germany,85.0
+1211.0,Supplier_211,INDIA,77.0
+1212.0,Supplier_212,India ,
+1213.0,Supplier_213,GERMANY,51.0
+1214.0,Supplier_214,nigeria,47.0
+1215.0,Supplier_215,India,41.0
+1216.0,Supplier_216, UAE,
+1217.0,Supplier_217,Usa,28.0
+1218.0,Supplier_218,India,-9.0
+1219.0,Supplier_219, China,-8.0
+1220.0,Supplier_220, India,45.0
+1221.0,Supplier_221,Germany,70.0
+1222.0,Supplier_222,India,
+1223.0,Supplier_223, Germany,-9.0
+1224.0,Supplier_224,CHINA,-9.0
+1225.0,Supplier_225, India,81.0
+1226.0,Supplier_226, USA,43.0
+1227.0,Supplier_227, India,76.0
+,Supplier_228,nigeria,85.0
+1229.0,Supplier_229,nigeria,86.0
+1230.0,, USA,-10.0
+1231.0,Supplier_231,Germany ,8.0
+1232.0,Supplier_232,Usa,
+,Supplier_233,Nigeria ,
+,Supplier_234, UAE,33.0
+1235.0,Supplier_235,CHINA,79.0
+1236.0,,Germany ,21.0
+1237.0,Supplier_237,China ,59.0
+1238.0,Supplier_238,Nigeria,21.0
+1239.0,Supplier_239,China ,57.0
+1240.0,Supplier_240,uae,
+1241.0,Supplier_241,usa,64.0
+1242.0,Supplier_242,,45.0
+1243.0,Supplier_243,INDIA,6.0
+1244.0,Supplier_244,,
+1245.0,Supplier_245,,13.0
+,Supplier_246, USA,58.0
+,Supplier_247,,87.0
+1248.0,Supplier_248,CHINA,59.0
+1249.0,Supplier_249,Nigeria,75.0
+1250.0,,China,0.0
+1251.0,Supplier_251,USA ,
+1252.0,Supplier_252,germany,86.0
+1253.0,Supplier_253,Germany,62.0
+1254.0,Supplier_254,India ,
+1255.0,Supplier_255,India ,59.0
+,Supplier_256,,69.0
+1257.0,Supplier_257, India,82.0
+1258.0,, India,-8.0
+,Supplier_259,China ,9.0
+1260.0,Supplier_260,China,48.0
+1261.0,Supplier_261,India ,25.0
+1262.0,Supplier_262,nigeria,8.0
+1263.0,Supplier_263,INDIA,79.0
+1264.0,Supplier_264, Nigeria,56.0
+,Supplier_265,,8.0
+1266.0,Supplier_266,Uae,9.0
+1267.0,,INDIA,85.0
+,Supplier_268,china,60.0
+,Supplier_269, India,41.0
+1270.0,Supplier_270,China ,22.0
+1271.0,, India,29.0
+1272.0,,India,28.0
+1273.0,Supplier_273,india,71.0
+1274.0,Supplier_274,usa,-10.0
+1275.0,Supplier_275,Germany ,0.0
+1276.0,Supplier_276, Germany,81.0
+1277.0,Supplier_277,USA,
+1278.0,, China,78.0
+,Supplier_279, China,39.0
+1280.0,Supplier_280,Uae,12.0
+,Supplier_281,china,20.0
+1282.0,Supplier_282,germany,83.0
+,Supplier_283,China,31.0
+1284.0,Supplier_284,Uae,88.0
+1285.0,Supplier_285,,-4.0
+1286.0,Supplier_286,UAE,5.0
+1287.0,Supplier_287,Uae,79.0
+1288.0,Supplier_288,China ,49.0
+1289.0,Supplier_289,Usa,-9.0
+1290.0,Supplier_290,China,-10.0
+1291.0,Supplier_291, USA,37.0
+,Supplier_292,India,1.0
+1293.0,,nigeria,
+1294.0,Supplier_294, USA,26.0
+1295.0,Supplier_295,India ,
+1296.0,Supplier_296,Usa,-2.0
+1297.0,,India,88.0
+1298.0,,Uae,8.0
+1299.0,,Nigeria,37.0
+1208.0,Supplier_208, Nigeria,48.0
+1189.0,Supplier_189, India,78.0
+1117.0,Supplier_117,Nigeria,70.0
+1158.0,Supplier_158,CHINA,52.0
+1165.0,Supplier_165,,4.0
+1023.0,,,10.0
+1181.0,Supplier_181, USA,17.0
+1074.0,Supplier_74,Uae,43.0
+1084.0,Supplier_84,usa,51.0
+1163.0,Supplier_163,,83.0
+1065.0,Supplier_65, UAE,36.0
+1083.0,Supplier_83,UAE,63.0
+,Supplier_283,China,31.0
+1211.0,Supplier_211,INDIA,77.0
+1179.0,Supplier_179,China,46.0
+1191.0,Supplier_191,UAE ,
+1048.0,Supplier_48,india,62.0
+1007.0,Supplier_7,Germany ,76.0
+1149.0,Supplier_149,GERMANY,3.0
+1137.0,,India,
+1052.0,Supplier_52,Uae,78.0
+1017.0,Supplier_17,CHINA,77.0
+1101.0,Supplier_101,UAE,78.0
+1042.0,Supplier_42,nigeria,44.0
+1216.0,Supplier_216, UAE,
+1068.0,Supplier_68,China,70.0
+1212.0,Supplier_212,India ,
+1077.0,Supplier_77,Germany,82.0
+1041.0,Supplier_41,USA ,40.0
+1289.0,Supplier_289,Usa,-9.0

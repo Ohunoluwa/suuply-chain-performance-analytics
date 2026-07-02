@@ -1,0 +1,4401 @@
+customer_id,customer_name,city,segment
+9000.0,Customer_0,Ibadan, Corporate
+9001.0,Customer_1,Lagos,
+9002.0,Customer_2,PH, Retail
+9003.0,Customer_3,Ibadan, CORPORATE 
+9004.0,Customer_4,Kano,Corporate 
+9005.0,Customer_5,Lagos,corporate
+9006.0,Customer_6,Ibadan,Sme
+9007.0,,Lagos,Retail
+9008.0,Customer_8,PH,
+9009.0,Customer_9,Kano,RETAIL
+9010.0,Customer_10,Lagos, retail
+9011.0,Customer_11,Abuja,
+,Customer_12,Ibadan,CORPORATE
+9013.0,,PH, Corporate
+9014.0,Customer_14,Kano, Retail
+9015.0,,Kano,Corporate 
+9016.0,Customer_16,Abuja,CORPORATE
+9017.0,Customer_17,Lagos, SME
+,Customer_18,Ibadan,Corporate 
+9019.0,Customer_19,Abuja, Retail
+9020.0,Customer_20,Abuja, retail
+9021.0,Customer_21,Lagos,Corporate 
+9022.0,Customer_22,Kano,CORPORATE
+9023.0,Customer_23,Kano,Corporate 
+9024.0,Customer_24,PH,
+9025.0,Customer_25,Abuja, Corporate
+9026.0,Customer_26,PH,CORPORATE 
+9027.0,Customer_27,PH,RETAIL
+9028.0,Customer_28,Abuja,Corporate 
+9029.0,Customer_29,Abuja, Corporate
+9030.0,Customer_30,Lagos,Retail
+9031.0,Customer_31,Abuja,Corporate
+9032.0,Customer_32,Lagos,
+9033.0,Customer_33,Lagos,CORPORATE  
+,Customer_34,Ibadan,Corporate 
+9035.0,Customer_35,Abuja,corporate 
+9036.0,Customer_36,Ibadan,SME
+9037.0,Customer_37,Kano, retail
+9038.0,Customer_38,Kano, Corporate
+9039.0,Customer_39,, SME
+9040.0,Customer_40,Ibadan,Corporate 
+9041.0,Customer_41,Ibadan,Retail
+9042.0,Customer_42,Kano,Retail
+9043.0,Customer_43,Kano,Retail
+9044.0,Customer_44,Abuja, Retail
+9045.0,Customer_45,Ibadan,
+9046.0,Customer_46,PH,retail
+9047.0,Customer_47,Abuja,corporate
+,,Kano,Retail
+,Customer_49,PH,
+9050.0,Customer_50,Abuja,Corporate
+9051.0,Customer_51,Kano,SME
+9052.0,Customer_52,Abuja,SME
+9053.0,Customer_53,Ibadan,
+9054.0,Customer_54,PH,sme
+9055.0,Customer_55,Ibadan,CORPORATE 
+9056.0,Customer_56,Abuja,
+9057.0,Customer_57,PH,RETAIL
+9058.0,Customer_58,Kano,RETAIL
+9059.0,Customer_59,,Corporate
+9060.0,Customer_60,Abuja,
+9061.0,Customer_61,Lagos,
+9062.0,Customer_62,Kano,Retail 
+9063.0,Customer_63,,Retail 
+9064.0,Customer_64,Kano,Retail
+9065.0,Customer_65,,
+,Customer_66,Abuja,
+9067.0,,Kano,Sme
+,Customer_68,Kano,corporate 
+9069.0,Customer_69,Ibadan,Corporate 
+9070.0,Customer_70,Lagos, Corporate
+9071.0,Customer_71,Ibadan,CORPORATE
+9072.0,Customer_72,,CORPORATE
+9073.0,Customer_73,Lagos,SME
+9074.0,,Ibadan,Retail
+9075.0,Customer_75,Abuja,Corporate 
+9076.0,Customer_76,Ibadan,Retail
+9077.0,Customer_77,Kano,SME
+9078.0,Customer_78,Lagos,Sme
+9079.0,,Abuja,
+9080.0,Customer_80,,SME 
+,Customer_81,Ibadan,
+9082.0,Customer_82,Lagos,Retail
+9083.0,Customer_83,Ibadan,Corporate 
+9084.0,Customer_84,Kano, Retail
+9085.0,Customer_85,Ibadan, retail
+9086.0,Customer_86,PH,Sme
+9087.0,Customer_87,,corporate
+9088.0,,,retail
+9089.0,Customer_89,Lagos,CORPORATE 
+9090.0,,PH, Retail
+9091.0,Customer_91,Abuja,RETAIL
+9092.0,Customer_92,Lagos, CORPORATE 
+,Customer_93,Ibadan,corporate
+,Customer_94,Abuja,Corporate
+9095.0,Customer_95,Lagos,retail
+9096.0,Customer_96,Kano, CORPORATE 
+9097.0,Customer_97,Lagos,Corporate 
+9098.0,Customer_98,Lagos,Sme
+9099.0,Customer_99,Kano,corporate 
+,Customer_100,PH,retail
+,Customer_101,, retail
+9102.0,Customer_102,Kano,CORPORATE 
+9103.0,Customer_103,Ibadan,corporate 
+9104.0,Customer_104,PH,RETAIL
+9105.0,Customer_105,Ibadan,RETAIL
+9106.0,,Abuja,CORPORATE
+9107.0,Customer_107,PH,retail 
+9108.0,Customer_108,Lagos, CORPORATE 
+9109.0,Customer_109,Lagos,SME
+9110.0,Customer_110,,SME 
+,,Abuja,RETAIL
+9112.0,Customer_112,Abuja,Retail
+9113.0,Customer_113,Abuja,retail 
+9114.0,,PH,Corporate 
+9115.0,Customer_115,Lagos,Sme
+9116.0,Customer_116,Lagos,Sme
+9117.0,Customer_117,Lagos, Retail
+9118.0,Customer_118,Kano, Corporate
+9119.0,Customer_119,PH,corporate 
+9120.0,Customer_120,Abuja,CORPORATE 
+9121.0,Customer_121,Abuja, Retail
+,Customer_122,Lagos,
+9123.0,Customer_123,,
+9124.0,Customer_124,Abuja,
+9125.0,Customer_125,Lagos,sme
+9126.0,Customer_126,PH,Sme
+9127.0,Customer_127,Kano,Corporate 
+9128.0,Customer_128,PH,RETAIL
+9129.0,Customer_129,Kano,Corporate
+9130.0,Customer_130,Kano,sme
+9131.0,Customer_131,Kano,CORPORATE
+9132.0,Customer_132,,Sme
+9133.0,Customer_133,PH,Corporate 
+9134.0,Customer_134,Lagos,retail
+9135.0,Customer_135,Lagos,SME
+9136.0,Customer_136,,CORPORATE 
+9137.0,Customer_137,Ibadan,CORPORATE 
+9138.0,Customer_138,Kano,Retail
+9139.0,Customer_139,Abuja, Corporate
+9140.0,Customer_140,, Corporate
+9141.0,Customer_141,Lagos,retail 
+9142.0,Customer_142,Abuja,Corporate 
+9143.0,,Abuja, Corporate
+9144.0,Customer_144,Ibadan,sme
+9145.0,Customer_145,Abuja,
+9146.0,Customer_146,Ibadan,Sme
+9147.0,Customer_147,Lagos,corporate
+9148.0,Customer_148,Abuja, Corporate
+,Customer_149,Abuja,Corporate 
+9150.0,Customer_150,Kano,RETAIL
+9151.0,Customer_151,Ibadan,SME 
+9152.0,Customer_152,,sme
+9153.0,Customer_153,PH,CORPORATE 
+9154.0,Customer_154,Abuja,retail
+9155.0,Customer_155,,corporate
+9156.0,Customer_156,Ibadan,Retail
+9157.0,Customer_157,,Retail
+9158.0,Customer_158,PH,
+9159.0,,,Sme
+9160.0,Customer_160,PH, SME
+9161.0,Customer_161,PH,SME
+,,,
+9163.0,Customer_163,Abuja, CORPORATE 
+9164.0,Customer_164,PH, Retail
+9165.0,Customer_165,Abuja, SME
+9166.0,Customer_166,Abuja,RETAIL
+9167.0,Customer_167,PH,Retail
+9168.0,Customer_168,Ibadan, Corporate
+9169.0,Customer_169,Kano,corporate
+9170.0,Customer_170,Lagos,SME 
+9171.0,Customer_171,PH,retail
+9172.0,Customer_172,Ibadan,CORPORATE
+9173.0,Customer_173,Ibadan,SME
+9174.0,,PH,Corporate
+9175.0,Customer_175,Abuja,
+9176.0,Customer_176,Abuja,CORPORATE
+9177.0,Customer_177,Abuja,Sme
+,Customer_178,Ibadan,Corporate
+9179.0,Customer_179,Lagos,Corporate 
+9180.0,,Kano,SME
+9181.0,Customer_181,Kano,corporate
+9182.0,Customer_182,PH,CORPORATE
+9183.0,Customer_183,,Retail
+9184.0,Customer_184,Abuja,RETAIL
+9185.0,Customer_185,Lagos,CORPORATE  
+9186.0,Customer_186,PH,Retail
+9187.0,,PH,Retail 
+9188.0,Customer_188,PH,RETAIL
+9189.0,Customer_189,PH, SME
+9190.0,Customer_190,PH, retail
+9191.0,Customer_191,,
+9192.0,Customer_192,PH,CORPORATE 
+9193.0,Customer_193,Ibadan,SME 
+9194.0,Customer_194,Ibadan, Retail
+9195.0,Customer_195,Kano, Corporate
+9196.0,Customer_196,PH,Sme
+9197.0,Customer_197,Kano,Sme
+9198.0,Customer_198,Ibadan, CORPORATE 
+9199.0,Customer_199,,CORPORATE  
+9200.0,Customer_200,, Retail
+9201.0,Customer_201,,Corporate 
+9202.0,Customer_202,PH,Corporate 
+9203.0,Customer_203,PH,
+9204.0,Customer_204,Ibadan,corporate
+9205.0,Customer_205,PH,SME
+9206.0,Customer_206,Ibadan,Corporate
+9207.0,Customer_207,Kano,corporate 
+9208.0,,Lagos,Retail 
+9209.0,,Ibadan,Retail 
+9210.0,Customer_210,Abuja, CORPORATE 
+9211.0,Customer_211,Lagos,retail
+9212.0,,Abuja, Corporate
+9213.0,Customer_213,Abuja,Retail
+9214.0,Customer_214,PH, CORPORATE 
+9215.0,Customer_215,Abuja,CORPORATE
+,Customer_216,Ibadan,corporate
+9217.0,Customer_217,Kano,RETAIL
+,Customer_218,,retail
+9219.0,Customer_219,Abuja,Corporate
+9220.0,Customer_220,Lagos,retail
+9221.0,Customer_221,Kano,
+9222.0,Customer_222,Lagos,
+9223.0,Customer_223,Kano,Retail 
+9224.0,Customer_224,Abuja,CORPORATE
+9225.0,Customer_225,Lagos,Retail
+9226.0,Customer_226,Abuja,Sme
+9227.0,Customer_227,PH,CORPORATE  
+9228.0,,PH,Sme
+9229.0,Customer_229,PH,Retail 
+9230.0,,Kano,Retail
+,Customer_231,Ibadan,Sme
+9232.0,,PH, Corporate
+9233.0,Customer_233,Ibadan, Retail
+9234.0,,Abuja, retail
+9235.0,Customer_235,PH,Retail 
+,Customer_236,PH, Retail
+9237.0,Customer_237,Kano,Sme
+9238.0,Customer_238,Abuja,CORPORATE  
+9239.0,Customer_239,Kano,Retail
+9240.0,Customer_240,,SME
+9241.0,Customer_241,,corporate
+9242.0,Customer_242,Kano,Corporate 
+9243.0,Customer_243,Kano,sme
+,Customer_244,Kano,
+9245.0,Customer_245,PH, SME
+,Customer_246,PH,RETAIL
+9247.0,Customer_247,Abuja,SME 
+9248.0,Customer_248,Abuja, SME
+9249.0,Customer_249,Abuja,sme
+9250.0,Customer_250,Ibadan, Retail
+9251.0,Customer_251,Kano, Corporate
+9252.0,Customer_252,Abuja,CORPORATE
+9253.0,Customer_253,PH, CORPORATE 
+9254.0,Customer_254,Abuja,RETAIL
+,,PH,corporate 
+9256.0,Customer_256,PH,SME
+9257.0,Customer_257,Ibadan,retail
+9258.0,Customer_258,Abuja,corporate 
+9259.0,Customer_259,, SME
+9260.0,Customer_260,Ibadan, Corporate
+9261.0,Customer_261,Lagos,RETAIL
+9262.0,Customer_262,Lagos, Corporate
+9263.0,,Lagos,retail 
+9264.0,Customer_264,PH,Retail
+9265.0,Customer_265,Abuja, CORPORATE 
+,Customer_266,Kano,Retail
+9267.0,Customer_267,Abuja,
+9268.0,Customer_268,,Retail 
+9269.0,Customer_269,PH,retail 
+,Customer_270,Abuja,retail
+9271.0,Customer_271,Ibadan, Retail
+9272.0,,Abuja,Corporate 
+9273.0,Customer_273,PH,
+9274.0,Customer_274,Kano,RETAIL
+9275.0,Customer_275,Ibadan,corporate
+9276.0,Customer_276,,SME
+9277.0,Customer_277,Kano,Corporate
+,Customer_278,Abuja,CORPORATE
+9279.0,Customer_279,Lagos,Corporate 
+9280.0,Customer_280,Abuja,Retail
+9281.0,Customer_281,Lagos, retail
+9282.0,Customer_282,Lagos,
+9283.0,Customer_283,Abuja,Sme
+9284.0,Customer_284,PH,CORPORATE  
+9285.0,Customer_285,Abuja,CORPORATE 
+9286.0,Customer_286,PH,SME
+9287.0,Customer_287,Kano,retail 
+9288.0,,Ibadan,retail
+9289.0,Customer_289,PH,Sme
+9290.0,Customer_290,Kano,SME 
+9291.0,Customer_291,Kano,SME
+9292.0,Customer_292,Lagos,Retail
+9293.0,Customer_293,,RETAIL
+9294.0,Customer_294,,Corporate 
+9295.0,,Lagos,CORPORATE  
+9296.0,Customer_296,Kano,
+9297.0,Customer_297,Ibadan,Corporate 
+,Customer_298,Lagos,
+9299.0,Customer_299,Abuja,RETAIL
+9300.0,Customer_300,,retail
+9301.0,Customer_301,Kano,Retail
+9302.0,Customer_302,Abuja,RETAIL
+9303.0,Customer_303,PH,CORPORATE  
+9304.0,Customer_304,Abuja, Retail
+9305.0,Customer_305,Abuja,Corporate 
+9306.0,Customer_306,Kano,Retail
+,Customer_307,Abuja,Corporate 
+9308.0,,Ibadan,CORPORATE
+9309.0,,Ibadan,Sme
+9310.0,Customer_310,Lagos,CORPORATE 
+9311.0,Customer_311,Kano,
+9312.0,Customer_312,Abuja, SME
+9313.0,Customer_313,Lagos,Retail 
+,Customer_314,Ibadan, Corporate
+9315.0,,Ibadan,retail
+9316.0,Customer_316,,retail
+9317.0,Customer_317,Ibadan,retail
+9318.0,Customer_318,Lagos,RETAIL
+9319.0,Customer_319,Ibadan, Corporate
+9320.0,Customer_320,PH,retail
+9321.0,Customer_321,Ibadan, SME
+9322.0,,Abuja,RETAIL
+9323.0,Customer_323,Ibadan,SME 
+9324.0,Customer_324,Abuja,SME
+9325.0,Customer_325,Lagos, SME
+9326.0,Customer_326,Abuja,SME
+9327.0,Customer_327,Kano,sme
+9328.0,Customer_328,Kano, Corporate
+9329.0,Customer_329,Ibadan, Retail
+9330.0,Customer_330,Abuja,
+9331.0,Customer_331,Abuja,corporate 
+9332.0,Customer_332,Lagos,Corporate 
+9333.0,Customer_333,, Corporate
+9334.0,Customer_334,Lagos,Corporate 
+9335.0,,Ibadan,RETAIL
+9336.0,Customer_336,Kano,CORPORATE  
+9337.0,Customer_337,Ibadan,Retail
+9338.0,Customer_338,Lagos, CORPORATE 
+9339.0,Customer_339,PH,CORPORATE  
+9340.0,Customer_340,PH,Retail
+9341.0,Customer_341,Lagos,CORPORATE
+9342.0,Customer_342,PH,corporate 
+9343.0,Customer_343,Kano,Retail 
+9344.0,Customer_344,Kano,corporate 
+9345.0,Customer_345,, Corporate
+9346.0,Customer_346,Ibadan,retail
+9347.0,Customer_347,,SME
+9348.0,Customer_348,Kano,Corporate
+9349.0,Customer_349,Abuja,CORPORATE
+9350.0,,,corporate
+9351.0,Customer_351,Ibadan,Retail
+9352.0,Customer_352,Ibadan,Corporate
+9353.0,Customer_353,Abuja,Corporate 
+,Customer_354,Abuja, CORPORATE 
+9355.0,Customer_355,Lagos, retail
+,Customer_356,Ibadan,CORPORATE
+9357.0,Customer_357,PH,corporate 
+9358.0,Customer_358,PH,CORPORATE 
+9359.0,Customer_359,Kano,Corporate
+9360.0,Customer_360,Kano,Corporate 
+9361.0,Customer_361,Kano,Retail
+,Customer_362,Abuja,SME 
+,Customer_363,PH,retail 
+9364.0,Customer_364,Kano,Corporate 
+9365.0,Customer_365,Abuja, Retail
+9366.0,Customer_366,Kano,RETAIL
+9367.0,Customer_367,PH,
+9368.0,Customer_368,Ibadan,CORPORATE
+9369.0,Customer_369,,CORPORATE  
+9370.0,Customer_370,Lagos, Corporate
+9371.0,,, Retail
+9372.0,Customer_372,Ibadan, retail
+9373.0,Customer_373,Abuja, CORPORATE 
+9374.0,Customer_374,,corporate
+9375.0,Customer_375,Abuja,CORPORATE
+9376.0,Customer_376,Kano,CORPORATE  
+9377.0,Customer_377,Abuja,retail
+9378.0,Customer_378,Ibadan,
+9379.0,Customer_379,Abuja,CORPORATE 
+9380.0,Customer_380,Lagos,Sme
+9381.0,,Abuja,RETAIL
+9382.0,Customer_382,PH,SME 
+9383.0,Customer_383,Ibadan,SME 
+9384.0,Customer_384,Kano,SME 
+9385.0,Customer_385,Ibadan,sme
+9386.0,,PH, Corporate
+9387.0,Customer_387,PH,Retail
+,Customer_388,Lagos,Corporate 
+9389.0,Customer_389,Kano, Retail
+9390.0,Customer_390,Kano,CORPORATE
+9391.0,Customer_391,PH, SME
+9392.0,Customer_392,Abuja,SME
+9393.0,Customer_393,Abuja,
+9394.0,Customer_394,Abuja,retail
+9395.0,Customer_395,PH,corporate
+9396.0,Customer_396,Lagos,retail
+9397.0,Customer_397,PH,Retail
+9398.0,Customer_398,, Corporate
+9399.0,,Lagos,Retail
+9400.0,Customer_400,PH, SME
+9401.0,Customer_401,Kano,Corporate 
+9402.0,Customer_402,PH,RETAIL
+9403.0,Customer_403,PH,RETAIL
+9404.0,Customer_404,Kano,retail 
+9405.0,Customer_405,Ibadan,corporate
+9406.0,Customer_406,Abuja,SME 
+9407.0,Customer_407,Ibadan,CORPORATE 
+9408.0,,Ibadan,Corporate 
+9409.0,Customer_409,Lagos, retail
+9410.0,Customer_410,Kano, Corporate
+,Customer_411,Abuja,CORPORATE  
+9412.0,Customer_412,PH,Corporate 
+9413.0,Customer_413,PH,Retail 
+9414.0,Customer_414,Abuja,Corporate
+9415.0,Customer_415,Ibadan, Retail
+9416.0,Customer_416,Abuja,Retail
+,Customer_417,Abuja,corporate 
+9418.0,Customer_418,Abuja,sme
+9419.0,Customer_419,Abuja,SME 
+9420.0,Customer_420,Abuja,RETAIL
+,Customer_421,Kano,Sme
+9422.0,Customer_422,Kano,SME
+,Customer_423,Lagos,corporate
+9424.0,Customer_424,Lagos,corporate
+9425.0,Customer_425,PH,retail
+9426.0,Customer_426,Abuja,Sme
+,Customer_427,Ibadan,CORPORATE  
+9428.0,Customer_428,Abuja,
+9429.0,Customer_429,Kano,Retail 
+9430.0,Customer_430,PH,retail
+9431.0,Customer_431,PH,
+9432.0,Customer_432,PH,Retail 
+,Customer_433,Abuja,corporate 
+9434.0,Customer_434,Kano,RETAIL
+9435.0,,PH,retail
+9436.0,Customer_436,Lagos,retail
+9437.0,,Abuja,corporate 
+9438.0,,,
+9439.0,Customer_439,Ibadan,CORPORATE
+9440.0,Customer_440,Lagos,sme
+,Customer_441,Lagos,CORPORATE
+,Customer_442,Ibadan,corporate 
+9443.0,Customer_443,Abuja,retail 
+9444.0,Customer_444,Kano,sme
+9445.0,Customer_445,PH, Corporate
+9446.0,Customer_446,PH,CORPORATE 
+9447.0,Customer_447,PH,
+9448.0,Customer_448,Ibadan,retail
+9449.0,Customer_449,Ibadan,retail 
+9450.0,Customer_450,PH,SME
+9451.0,Customer_451,,Corporate 
+9452.0,Customer_452,Abuja,
+,Customer_453,Abuja,Corporate 
+9454.0,Customer_454,Lagos,Retail 
+9455.0,Customer_455,Abuja,retail 
+9456.0,Customer_456,,Corporate 
+9457.0,Customer_457,Abuja, SME
+9458.0,Customer_458,Kano,RETAIL
+9459.0,Customer_459,Kano,SME 
+9460.0,Customer_460,Kano,corporate 
+9461.0,Customer_461,PH,Corporate 
+,Customer_462,Abuja,CORPORATE
+9463.0,Customer_463,Ibadan,retail 
+9464.0,Customer_464,Kano, CORPORATE 
+,Customer_465,Abuja, CORPORATE 
+,Customer_466,,CORPORATE
+9467.0,Customer_467,Ibadan,Corporate
+9468.0,Customer_468,Kano, retail
+9469.0,Customer_469,Lagos,Retail 
+9470.0,Customer_470,,Corporate 
+9471.0,Customer_471,Abuja,RETAIL
+9472.0,Customer_472,PH,CORPORATE
+9473.0,,,sme
+9474.0,Customer_474,Ibadan,Corporate 
+9475.0,Customer_475,Kano, Corporate
+9476.0,Customer_476,Lagos, CORPORATE 
+9477.0,Customer_477,Abuja,sme
+9478.0,Customer_478,Abuja,CORPORATE  
+9479.0,Customer_479,Kano,RETAIL
+9480.0,,Kano,Corporate
+9481.0,Customer_481,Abuja,RETAIL
+9482.0,,Lagos,Corporate 
+9483.0,Customer_483,Kano,Corporate 
+9484.0,,Ibadan,RETAIL
+9485.0,Customer_485,Abuja,
+9486.0,Customer_486,Kano,CORPORATE  
+9487.0,Customer_487,Ibadan,CORPORATE 
+9488.0,Customer_488,Kano,CORPORATE
+9489.0,Customer_489,Abuja, CORPORATE 
+,Customer_490,Abuja,retail
+9491.0,Customer_491,Lagos, SME
+9492.0,Customer_492,Ibadan,SME
+9493.0,Customer_493,Lagos,CORPORATE 
+9494.0,,Kano,SME
+9495.0,Customer_495,Abuja,corporate 
+9496.0,Customer_496,,
+9497.0,,Ibadan,SME 
+9498.0,Customer_498,Kano,RETAIL
+9499.0,Customer_499,Lagos,Sme
+9500.0,Customer_500,PH,CORPORATE  
+9501.0,Customer_501,Lagos,
+9502.0,Customer_502,Lagos,Corporate 
+9503.0,Customer_503,,Retail 
+9504.0,Customer_504,PH, SME
+9505.0,Customer_505,Abuja, Corporate
+,Customer_506,,Retail
+9507.0,Customer_507,Kano,corporate
+9508.0,Customer_508,Ibadan,Corporate
+9509.0,Customer_509,Ibadan,Retail
+9510.0,Customer_510,Ibadan, Retail
+9511.0,Customer_511,Lagos,Corporate
+9512.0,Customer_512,Ibadan,CORPORATE
+9513.0,Customer_513,Abuja,CORPORATE 
+9514.0,Customer_514,Lagos,corporate 
+9515.0,Customer_515,Abuja,CORPORATE 
+9516.0,Customer_516,Kano,Retail
+9517.0,Customer_517,Ibadan,SME 
+9518.0,Customer_518,Abuja,RETAIL
+9519.0,Customer_519,Abuja,Retail
+,Customer_520,Lagos, SME
+9521.0,Customer_521,Ibadan,retail 
+9522.0,Customer_522,,CORPORATE  
+9523.0,Customer_523,Ibadan,retail 
+9524.0,Customer_524,Kano,Sme
+9525.0,Customer_525,PH,Sme
+9526.0,,PH,corporate
+9527.0,Customer_527,Ibadan, CORPORATE 
+9528.0,Customer_528,Lagos,RETAIL
+9529.0,Customer_529,PH,
+9530.0,,Ibadan,SME
+9531.0,Customer_531,Ibadan,Sme
+9532.0,Customer_532,,CORPORATE 
+9533.0,Customer_533,Kano,SME 
+9534.0,Customer_534,Lagos,sme
+9535.0,Customer_535,Ibadan,CORPORATE 
+9536.0,Customer_536,Lagos,Corporate 
+9537.0,Customer_537,Abuja, SME
+9538.0,Customer_538,Abuja,Corporate 
+,Customer_539,PH,
+,Customer_540,Abuja,RETAIL
+9541.0,Customer_541,Kano,
+9542.0,Customer_542,Kano,retail
+9543.0,Customer_543,Lagos, SME
+9544.0,Customer_544,Abuja,retail
+9545.0,Customer_545,Abuja,Retail
+9546.0,Customer_546,Lagos,retail
+9547.0,Customer_547,PH,Corporate 
+9548.0,Customer_548,Kano,
+9549.0,,Abuja, retail
+9550.0,Customer_550,Ibadan,RETAIL
+,Customer_551,Kano, Retail
+9552.0,Customer_552,Kano,SME
+9553.0,Customer_553,Ibadan,CORPORATE 
+9554.0,Customer_554,Abuja,corporate
+9555.0,Customer_555,Lagos, SME
+9556.0,Customer_556,Abuja,CORPORATE 
+9557.0,Customer_557,, CORPORATE 
+9558.0,Customer_558,PH,Corporate
+9559.0,,Kano,CORPORATE  
+9560.0,Customer_560,,SME 
+9561.0,Customer_561,Ibadan,Corporate 
+9562.0,Customer_562,Lagos, CORPORATE 
+9563.0,,Abuja,sme
+9564.0,Customer_564,Abuja,Retail
+9565.0,Customer_565,PH,retail 
+9566.0,Customer_566,Ibadan,corporate 
+9567.0,Customer_567,Ibadan,retail 
+9568.0,Customer_568,,retail
+9569.0,Customer_569,Lagos,corporate
+9570.0,Customer_570,,
+9571.0,Customer_571,Abuja, Corporate
+9572.0,Customer_572,Lagos,Retail 
+9573.0,Customer_573,,CORPORATE 
+9574.0,Customer_574,Kano,
+9575.0,Customer_575,Ibadan,SME
+9576.0,Customer_576,,corporate 
+9577.0,Customer_577,,Corporate 
+9578.0,Customer_578,PH,
+9579.0,Customer_579,Lagos,CORPORATE 
+9580.0,Customer_580,PH,sme
+9581.0,Customer_581,PH,SME 
+,Customer_582,Abuja,
+9583.0,Customer_583,Kano,CORPORATE 
+9584.0,Customer_584,,sme
+9585.0,Customer_585,Ibadan,corporate
+9586.0,Customer_586,PH, CORPORATE 
+9587.0,Customer_587,Ibadan, Retail
+9588.0,,Ibadan,retail 
+9589.0,,Ibadan,RETAIL
+,,Abuja,Corporate
+9591.0,Customer_591,PH,CORPORATE 
+9592.0,Customer_592,Abuja,Retail
+9593.0,Customer_593,Abuja, Corporate
+9594.0,Customer_594,Kano,CORPORATE
+9595.0,,Lagos,corporate
+9596.0,Customer_596,PH,retail
+9597.0,Customer_597,Abuja,retail
+9598.0,Customer_598,Kano,
+9599.0,Customer_599,Lagos,Retail 
+9600.0,Customer_600,Kano,retail
+9601.0,Customer_601,Abuja,Corporate
+9602.0,Customer_602,Abuja,retail
+9603.0,Customer_603,Kano,Retail
+9604.0,Customer_604,Abuja,sme
+9605.0,Customer_605,Ibadan,CORPORATE 
+9606.0,Customer_606,Abuja,retail 
+9607.0,,Lagos,Retail 
+9608.0,Customer_608,Kano,SME
+9609.0,Customer_609,Ibadan,corporate 
+9610.0,,Lagos,RETAIL
+9611.0,Customer_611,Ibadan,Retail
+9612.0,,PH,retail 
+9613.0,Customer_613,Lagos,
+9614.0,,PH,Corporate 
+9615.0,Customer_615,Abuja,retail
+9616.0,Customer_616,Lagos, Retail
+,Customer_617,PH,retail 
+9618.0,Customer_618,Ibadan,Sme
+9619.0,Customer_619,Abuja, Retail
+9620.0,Customer_620,Abuja,RETAIL
+,Customer_621,Kano,RETAIL
+9622.0,Customer_622,Lagos,CORPORATE 
+9623.0,,PH,CORPORATE
+9624.0,Customer_624,,Retail
+,Customer_625,,Sme
+9626.0,Customer_626,PH,Retail
+,Customer_627,Lagos,CORPORATE
+9628.0,Customer_628,Lagos,Sme
+9629.0,Customer_629,Abuja,RETAIL
+9630.0,Customer_630,,Corporate
+9631.0,Customer_631,,sme
+9632.0,Customer_632,PH,Corporate 
+9633.0,Customer_633,PH, CORPORATE 
+9634.0,Customer_634,Lagos,Sme
+9635.0,,Ibadan,CORPORATE
+9636.0,Customer_636,Lagos,sme
+,Customer_637,Abuja,Retail 
+9638.0,,Lagos,retail
+9639.0,Customer_639,Lagos,Retail
+9640.0,Customer_640,Abuja, Corporate
+9641.0,Customer_641,Kano,Retail
+9642.0,Customer_642,,
+9643.0,Customer_643,Ibadan,retail
+9644.0,,Ibadan,retail 
+9645.0,Customer_645,Ibadan,SME 
+9646.0,Customer_646,Ibadan,Retail
+9647.0,Customer_647,Abuja,Retail
+9648.0,Customer_648,,
+9649.0,Customer_649,Lagos,retail
+9650.0,Customer_650,Ibadan, Retail
+9651.0,,Kano,Corporate
+9652.0,Customer_652,Ibadan,retail
+9653.0,,Abuja,
+9654.0,,Kano, SME
+,,Ibadan,CORPORATE  
+9656.0,Customer_656,PH,
+9657.0,Customer_657,Lagos,
+9658.0,Customer_658,Lagos,CORPORATE 
+9659.0,,,Corporate 
+9660.0,Customer_660,Abuja,sme
+9661.0,Customer_661,Ibadan,sme
+9662.0,Customer_662,Abuja,Retail
+9663.0,Customer_663,Kano,Retail 
+,Customer_664,Kano,SME 
+9665.0,Customer_665,Ibadan,Retail
+9666.0,Customer_666,,RETAIL
+9667.0,Customer_667,Kano,retail 
+9668.0,Customer_668,,Retail
+9669.0,Customer_669,Lagos,
+9670.0,Customer_670,Lagos,
+9671.0,Customer_671,,
+9672.0,Customer_672,PH,corporate
+9673.0,Customer_673,Abuja, CORPORATE 
+9674.0,,Kano,sme
+9675.0,Customer_675,Kano,retail 
+9676.0,Customer_676,,SME
+9677.0,Customer_677,Kano,Corporate 
+,Customer_678,,Retail 
+9679.0,Customer_679,Lagos,sme
+9680.0,Customer_680,Kano, Corporate
+9681.0,Customer_681,Ibadan, Retail
+9682.0,Customer_682,Abuja,Corporate 
+9683.0,Customer_683,Lagos,
+9684.0,Customer_684,Ibadan,sme
+9685.0,Customer_685,Abuja,Retail 
+9686.0,Customer_686,Abuja,SME
+9687.0,Customer_687,Lagos, Retail
+9688.0,,Ibadan,Corporate 
+9689.0,Customer_689,,
+9690.0,Customer_690,Kano, Corporate
+9691.0,Customer_691,Lagos,CORPORATE 
+9692.0,Customer_692,PH,corporate 
+9693.0,Customer_693,Kano, SME
+9694.0,Customer_694,Abuja, Retail
+9695.0,Customer_695,Lagos,
+9696.0,Customer_696,Lagos, retail
+9697.0,Customer_697,Kano,Sme
+9698.0,Customer_698,PH, Corporate
+9699.0,,Ibadan,SME
+9700.0,Customer_700,Ibadan,Corporate 
+9701.0,Customer_701,Abuja, retail
+9702.0,Customer_702,Abuja, Retail
+9703.0,Customer_703,PH,Corporate 
+,Customer_704,, retail
+9705.0,Customer_705,Kano,corporate 
+9706.0,Customer_706,Lagos,SME
+9707.0,Customer_707,Ibadan,SME
+9708.0,Customer_708,Lagos, Corporate
+9709.0,Customer_709,PH,RETAIL
+,Customer_710,Lagos,RETAIL
+9711.0,Customer_711,Kano,
+,Customer_712,PH,CORPORATE  
+9713.0,Customer_713,Abuja,Sme
+9714.0,Customer_714,Abuja,SME
+9715.0,Customer_715,Kano,RETAIL
+9716.0,Customer_716,Abuja,Retail 
+9717.0,,PH,retail
+9718.0,Customer_718,Kano,Retail
+9719.0,Customer_719,Lagos,Corporate 
+9720.0,Customer_720,,Retail
+9721.0,Customer_721,Ibadan,SME
+9722.0,Customer_722,Ibadan,RETAIL
+9723.0,Customer_723,PH,Sme
+9724.0,Customer_724,PH,corporate
+9725.0,Customer_725,, SME
+9726.0,Customer_726,Kano,retail
+9727.0,Customer_727,Kano, retail
+9728.0,Customer_728,PH, SME
+9729.0,Customer_729,Ibadan,
+9730.0,,Abuja,corporate
+9731.0,Customer_731,Ibadan,
+9732.0,Customer_732,Lagos,corporate
+9733.0,Customer_733,,sme
+,Customer_734,PH, Corporate
+9735.0,Customer_735,Kano,RETAIL
+9736.0,Customer_736,Lagos, Retail
+9737.0,Customer_737,Kano, SME
+9738.0,Customer_738,Ibadan,CORPORATE  
+9739.0,Customer_739,Kano,CORPORATE 
+9740.0,,Kano,corporate 
+9741.0,Customer_741,Ibadan, SME
+9742.0,Customer_742,Ibadan,Retail
+9743.0,Customer_743,Lagos,Retail 
+9744.0,Customer_744,Lagos,SME
+,Customer_745,Kano,Corporate
+9746.0,Customer_746,PH,
+9747.0,Customer_747,Kano,CORPORATE
+,Customer_748,Kano, retail
+,Customer_749,Kano,corporate
+9750.0,Customer_750,Lagos,CORPORATE 
+9751.0,Customer_751,Lagos,RETAIL
+9752.0,Customer_752,Abuja,retail
+9753.0,Customer_753,Kano,Corporate 
+9754.0,,Lagos,Retail 
+9755.0,Customer_755,,Corporate 
+9756.0,Customer_756,Lagos,Corporate 
+9757.0,Customer_757,Abuja,
+9758.0,Customer_758,Abuja, SME
+9759.0,Customer_759,Kano,RETAIL
+9760.0,Customer_760,PH,
+9761.0,Customer_761,Abuja,corporate 
+,,PH,
+9763.0,Customer_763,Abuja,sme
+9764.0,Customer_764,Kano,Retail 
+,Customer_765,Lagos,sme
+,Customer_766,Abuja, Corporate
+9767.0,Customer_767,Ibadan,Corporate 
+9768.0,Customer_768,Abuja,retail
+9769.0,Customer_769,,Corporate 
+9770.0,Customer_770,PH, Retail
+9771.0,Customer_771,Abuja, SME
+9772.0,Customer_772,Kano,Sme
+9773.0,Customer_773,Kano,Corporate 
+9774.0,Customer_774,Ibadan,Corporate 
+9775.0,Customer_775,Ibadan, retail
+9776.0,Customer_776,PH,Retail 
+9777.0,Customer_777,PH, Corporate
+9778.0,Customer_778,PH,retail
+9779.0,Customer_779,Abuja,
+9780.0,Customer_780,PH,Sme
+9781.0,,Kano,Retail 
+9782.0,Customer_782,PH,corporate 
+9783.0,Customer_783,Kano,RETAIL
+,Customer_784,Lagos, Corporate
+9785.0,Customer_785,Lagos,sme
+9786.0,Customer_786,Ibadan,SME 
+9787.0,Customer_787,Ibadan,Sme
+,Customer_788,Ibadan, retail
+,Customer_789,Ibadan, Corporate
+9790.0,Customer_790,Abuja,
+9791.0,Customer_791,Kano,RETAIL
+9792.0,Customer_792,Kano,retail 
+,Customer_793,Abuja,retail
+9794.0,Customer_794,Kano, SME
+9795.0,Customer_795,Abuja,sme
+9796.0,,Ibadan,Corporate
+,Customer_797,PH,CORPORATE 
+9798.0,Customer_798,Lagos,SME 
+9799.0,Customer_799,PH, retail
+9800.0,Customer_800,Ibadan,
+9801.0,Customer_801,Abuja,RETAIL
+9802.0,Customer_802,Abuja, SME
+9803.0,Customer_803,PH,retail
+9804.0,Customer_804,PH,corporate 
+9805.0,Customer_805,PH,SME 
+9806.0,Customer_806,Lagos,
+9807.0,Customer_807,Lagos,CORPORATE
+9808.0,Customer_808,Kano,SME 
+,Customer_809,Kano,corporate
+9810.0,Customer_810,Abuja, CORPORATE 
+9811.0,Customer_811,Kano,retail
+9812.0,Customer_812,Kano,Corporate
+9813.0,Customer_813,,Retail
+,Customer_814,Ibadan,corporate 
+9815.0,Customer_815,Kano, SME
+9816.0,Customer_816,Ibadan,corporate
+9817.0,,PH,CORPORATE
+9818.0,,Lagos,CORPORATE  
+9819.0,Customer_819,, retail
+9820.0,Customer_820,Abuja,
+9821.0,Customer_821,Lagos,Retail 
+9822.0,Customer_822,Ibadan, CORPORATE 
+9823.0,Customer_823,Ibadan,
+9824.0,Customer_824,Lagos,Sme
+9825.0,Customer_825,Kano,retail
+9826.0,Customer_826,Lagos,CORPORATE 
+9827.0,Customer_827,Ibadan, Corporate
+9828.0,Customer_828,,
+9829.0,Customer_829,Abuja,Retail
+9830.0,Customer_830,Ibadan,corporate
+9831.0,Customer_831,PH,CORPORATE
+9832.0,Customer_832,Abuja,Retail
+9833.0,,Lagos,Retail 
+9834.0,Customer_834,Abuja,retail
+9835.0,,Ibadan,corporate 
+9836.0,Customer_836,Abuja,Sme
+9837.0,Customer_837,, Corporate
+9838.0,Customer_838,Ibadan,retail
+9839.0,Customer_839,,CORPORATE  
+9840.0,Customer_840,Kano,Corporate 
+9841.0,Customer_841,Ibadan, CORPORATE 
+,Customer_842,PH,SME 
+9843.0,Customer_843,Kano,
+9844.0,,Abuja,Retail
+9845.0,Customer_845,Lagos,
+9846.0,Customer_846,Lagos,corporate
+9847.0,Customer_847,Ibadan,SME
+9848.0,Customer_848,Lagos,
+9849.0,,PH,corporate 
+9850.0,Customer_850,Abuja,Retail
+9851.0,Customer_851,PH, Corporate
+9852.0,Customer_852,Lagos,RETAIL
+9853.0,Customer_853,Kano,Sme
+9854.0,Customer_854,PH,corporate 
+9855.0,Customer_855,Ibadan,
+9856.0,,,CORPORATE
+9857.0,Customer_857,Kano,Corporate 
+9858.0,Customer_858,Kano,retail
+9859.0,Customer_859,,SME
+9860.0,Customer_860,Abuja,CORPORATE  
+9861.0,Customer_861,PH,RETAIL
+9862.0,Customer_862,Kano, SME
+9863.0,Customer_863,,retail
+9864.0,Customer_864,Lagos,sme
+9865.0,Customer_865,Ibadan, SME
+,Customer_866,Ibadan,Retail
+9867.0,Customer_867,Lagos,retail
+9868.0,Customer_868,, Retail
+9869.0,Customer_869,Lagos,CORPORATE 
+9870.0,Customer_870,Ibadan, Retail
+9871.0,Customer_871,Ibadan,Retail
+9872.0,Customer_872,Abuja,corporate 
+9873.0,Customer_873,Abuja,retail
+9874.0,Customer_874,Lagos,RETAIL
+,Customer_875,Ibadan,Sme
+9876.0,Customer_876,Abuja,RETAIL
+9877.0,Customer_877,Abuja,Retail 
+9878.0,Customer_878,Abuja,retail
+9879.0,Customer_879,Lagos,corporate
+9880.0,Customer_880,Kano,retail
+9881.0,Customer_881,Kano,CORPORATE 
+9882.0,Customer_882,Lagos,retail
+9883.0,Customer_883,PH, SME
+9884.0,Customer_884,PH,Corporate 
+9885.0,Customer_885,Lagos,CORPORATE
+9886.0,Customer_886,Ibadan,SME 
+9887.0,Customer_887,Abuja,RETAIL
+9888.0,Customer_888,,Retail
+9889.0,Customer_889,Lagos, SME
+9890.0,Customer_890,Ibadan, Corporate
+9891.0,Customer_891,Lagos,sme
+9892.0,Customer_892,Abuja, Corporate
+9893.0,,Abuja,RETAIL
+9894.0,Customer_894,Abuja,retail 
+9895.0,Customer_895,Ibadan,CORPORATE  
+9896.0,Customer_896,Kano,RETAIL
+9897.0,Customer_897,Abuja,CORPORATE 
+9898.0,Customer_898,Abuja,CORPORATE  
+9899.0,Customer_899,Abuja,Sme
+9900.0,Customer_900,Ibadan,Retail 
+9901.0,Customer_901,Lagos,Corporate 
+9902.0,Customer_902,Kano,retail
+9903.0,Customer_903,Ibadan,CORPORATE
+9904.0,Customer_904,Lagos, retail
+9905.0,Customer_905,Ibadan,retail
+9906.0,Customer_906,PH,CORPORATE
+9907.0,Customer_907,Ibadan,retail
+9908.0,Customer_908,Kano,retail
+9909.0,Customer_909,Kano,retail
+9910.0,Customer_910,Lagos,
+9911.0,Customer_911,PH,CORPORATE
+9912.0,Customer_912,Ibadan,Corporate
+9913.0,Customer_913,Lagos,Sme
+9914.0,,Lagos,retail
+9915.0,Customer_915,Kano,
+9916.0,Customer_916,Lagos,Retail 
+9917.0,Customer_917,Ibadan,
+9918.0,Customer_918,Abuja,sme
+9919.0,Customer_919,Lagos,SME 
+9920.0,Customer_920,Kano,SME
+9921.0,Customer_921,Abuja,RETAIL
+9922.0,Customer_922,PH,Corporate 
+9923.0,Customer_923,Kano,Retail
+9924.0,Customer_924,,Corporate
+9925.0,Customer_925,Abuja, retail
+9926.0,Customer_926,PH,Retail 
+9927.0,Customer_927,Lagos, Corporate
+,Customer_928,Ibadan,retail 
+9929.0,Customer_929,Lagos,Retail
+9930.0,Customer_930,Lagos,retail
+9931.0,Customer_931,Ibadan,CORPORATE  
+9932.0,Customer_932,PH,SME 
+9933.0,,Lagos,CORPORATE  
+9934.0,Customer_934,PH,corporate
+9935.0,Customer_935,Kano,corporate
+9936.0,Customer_936,Kano,Sme
+9937.0,Customer_937,Kano,Sme
+9938.0,Customer_938,PH,sme
+9939.0,Customer_939,Kano, CORPORATE 
+9940.0,Customer_940,Ibadan,CORPORATE  
+,Customer_941,Lagos,SME 
+9942.0,Customer_942,Kano,retail
+9943.0,Customer_943,Kano, CORPORATE 
+9944.0,Customer_944,Lagos,SME
+9945.0,,Lagos,
+9946.0,Customer_946,Ibadan,Retail
+9947.0,Customer_947,PH,CORPORATE
+9948.0,Customer_948,Ibadan,
+9949.0,,Lagos,CORPORATE 
+9950.0,Customer_950,Kano,retail 
+9951.0,Customer_951,Kano,SME 
+9952.0,Customer_952,Abuja,CORPORATE 
+9953.0,Customer_953,Ibadan,Retail
+9954.0,Customer_954,Lagos,corporate
+9955.0,Customer_955,Kano,CORPORATE 
+9956.0,Customer_956,Kano,retail
+9957.0,Customer_957,PH,Retail 
+9958.0,Customer_958,Lagos, SME
+9959.0,Customer_959,PH,retail
+,Customer_960,, Retail
+9961.0,Customer_961,Abuja, SME
+9962.0,Customer_962,Abuja,retail 
+,Customer_963,PH,retail 
+9964.0,,Lagos, SME
+9965.0,Customer_965,,RETAIL
+9966.0,Customer_966,Abuja,sme
+9967.0,Customer_967,PH, Corporate
+,Customer_968,Kano, Retail
+9969.0,Customer_969,Ibadan,retail
+9970.0,Customer_970,Lagos,corporate 
+9971.0,Customer_971,PH,RETAIL
+9972.0,Customer_972,Kano,retail
+9973.0,Customer_973,,corporate
+9974.0,Customer_974,,Retail
+9975.0,Customer_975,Lagos,CORPORATE  
+9976.0,Customer_976,Abuja,Retail
+9977.0,Customer_977,,RETAIL
+9978.0,Customer_978,Ibadan,CORPORATE 
+9979.0,Customer_979,PH,CORPORATE 
+9980.0,Customer_980,Kano,Corporate 
+9981.0,Customer_981,Lagos,retail
+9982.0,Customer_982,Abuja,corporate
+9983.0,,Abuja,
+9984.0,Customer_984,Lagos,RETAIL
+9985.0,Customer_985,Ibadan,Corporate 
+9986.0,Customer_986,Lagos, CORPORATE 
+9987.0,Customer_987,Abuja,retail
+9988.0,Customer_988,PH,Retail
+9989.0,Customer_989,PH,Corporate 
+,Customer_990,PH,Corporate 
+9991.0,Customer_991,Lagos,Sme
+9992.0,Customer_992,Ibadan,
+9993.0,,Abuja,
+9994.0,Customer_994,Lagos,Retail
+9995.0,Customer_995,PH,sme
+9996.0,Customer_996,Lagos,CORPORATE  
+9997.0,Customer_997,Ibadan,corporate 
+9998.0,Customer_998,,corporate
+9999.0,Customer_999,Ibadan,
+,,PH,corporate
+10001.0,Customer_1001,Lagos,retail 
+10002.0,,,RETAIL
+10003.0,Customer_1003,,CORPORATE  
+10004.0,Customer_1004,Kano,Retail
+10005.0,Customer_1005,Kano,
+10006.0,Customer_1006,Lagos, Corporate
+10007.0,Customer_1007,PH, Corporate
+10008.0,Customer_1008,Ibadan,
+,Customer_1009,Abuja, retail
+10010.0,Customer_1010,PH,retail
+10011.0,,PH,corporate 
+10012.0,Customer_1012,PH,Retail
+,Customer_1013,Ibadan,sme
+10014.0,Customer_1014,Abuja,retail
+10015.0,Customer_1015,PH,retail
+10016.0,,PH,CORPORATE  
+10017.0,Customer_1017,,Sme
+10018.0,Customer_1018,Ibadan,
+10019.0,Customer_1019,Lagos,
+10020.0,Customer_1020,,retail 
+,Customer_1021,Ibadan,Retail 
+10022.0,Customer_1022,PH,CORPORATE
+10023.0,Customer_1023,Kano,sme
+10024.0,Customer_1024,Ibadan, Retail
+10025.0,Customer_1025,Abuja,RETAIL
+10026.0,Customer_1026,Abuja,retail
+10027.0,Customer_1027,Lagos,RETAIL
+10028.0,Customer_1028,Lagos,SME
+10029.0,Customer_1029,Abuja,retail 
+10030.0,Customer_1030,Abuja,Corporate
+10031.0,Customer_1031,PH,
+10032.0,Customer_1032,Lagos,CORPORATE  
+10033.0,Customer_1033,,Corporate 
+10034.0,Customer_1034,,CORPORATE  
+10035.0,Customer_1035,Ibadan,Corporate 
+10036.0,Customer_1036,Kano,Corporate 
+10037.0,Customer_1037,Kano, Corporate
+,,,corporate
+10039.0,Customer_1039,Lagos,
+10040.0,Customer_1040,PH,SME 
+10041.0,Customer_1041,Kano,retail
+10042.0,Customer_1042,Lagos,Retail 
+10043.0,Customer_1043,Kano,Corporate 
+10044.0,Customer_1044,Ibadan,RETAIL
+10045.0,Customer_1045,Abuja,Retail 
+10046.0,Customer_1046,Kano,
+10047.0,Customer_1047,Abuja,RETAIL
+10048.0,Customer_1048,Kano,RETAIL
+10049.0,Customer_1049,Lagos,Corporate
+10050.0,Customer_1050,Lagos,RETAIL
+10051.0,Customer_1051,Ibadan,CORPORATE 
+10052.0,Customer_1052,Kano,corporate 
+10053.0,Customer_1053,Abuja,Retail
+,Customer_1054,,RETAIL
+10055.0,Customer_1055,Kano,Retail
+10056.0,,Lagos,retail
+10057.0,Customer_1057,,corporate
+10058.0,Customer_1058,Kano,retail
+10059.0,,Lagos, CORPORATE 
+10060.0,Customer_1060,Kano, retail
+10061.0,Customer_1061,Kano, Retail
+,Customer_1062,Kano,SME
+10063.0,Customer_1063,Ibadan, CORPORATE 
+10064.0,Customer_1064,PH,retail
+10065.0,Customer_1065,Lagos,
+10066.0,Customer_1066,Ibadan,SME 
+10067.0,Customer_1067,Lagos,sme
+,Customer_1068,Ibadan,Sme
+10069.0,Customer_1069,,Corporate 
+10070.0,Customer_1070,Abuja,
+10071.0,Customer_1071,PH,SME
+10072.0,Customer_1072,Lagos,
+10073.0,Customer_1073,,
+10074.0,Customer_1074,Ibadan,SME 
+10075.0,Customer_1075,Ibadan,Corporate
+10076.0,Customer_1076,Lagos,
+10077.0,Customer_1077,Ibadan,Retail
+10078.0,Customer_1078,Abuja,CORPORATE 
+10079.0,Customer_1079,Lagos, Corporate
+10080.0,Customer_1080,Lagos,Corporate 
+10081.0,Customer_1081,Abuja, CORPORATE 
+10082.0,Customer_1082,Abuja,retail 
+10083.0,Customer_1083,Kano,SME
+,Customer_1084,Kano,RETAIL
+10085.0,Customer_1085,Lagos,retail
+10086.0,Customer_1086,Kano, CORPORATE 
+10087.0,Customer_1087,Lagos,CORPORATE
+10088.0,Customer_1088,Kano,corporate
+10089.0,,PH,CORPORATE
+10090.0,Customer_1090,Lagos,Corporate 
+10091.0,Customer_1091,Kano,
+,Customer_1092,Ibadan,corporate 
+10093.0,Customer_1093,Kano,Corporate
+10094.0,,,retail 
+10095.0,,PH,
+10096.0,,Ibadan,Retail
+10097.0,Customer_1097,Ibadan,Retail
+10098.0,Customer_1098,Kano,Retail 
+10099.0,,Ibadan,Corporate
+10100.0,Customer_1100,,
+,Customer_1101,PH,RETAIL
+10102.0,Customer_1102,Ibadan,Corporate 
+,Customer_1103,PH,retail 
+10104.0,Customer_1104,Ibadan, CORPORATE 
+10105.0,Customer_1105,,Corporate 
+,Customer_1106,Abuja,RETAIL
+,Customer_1107,Kano,retail
+10108.0,,PH,Corporate 
+,Customer_1109,Ibadan,Corporate 
+,Customer_1110,,Sme
+10111.0,Customer_1111,PH,Corporate 
+,Customer_1112,,CORPORATE
+10113.0,Customer_1113,Lagos, Corporate
+10114.0,Customer_1114,PH,
+,,Ibadan,Corporate 
+10116.0,Customer_1116,, retail
+10117.0,Customer_1117,Kano,
+10118.0,,Lagos,RETAIL
+10119.0,Customer_1119,Lagos, Corporate
+10120.0,Customer_1120,Ibadan,Retail
+10121.0,Customer_1121,Kano,
+,Customer_1122,Lagos,Retail
+10123.0,Customer_1123,Abuja,SME 
+10124.0,Customer_1124,Lagos,SME
+10125.0,Customer_1125,Abuja,CORPORATE  
+10126.0,Customer_1126,Ibadan,
+10127.0,Customer_1127,Lagos,Corporate 
+10128.0,,Abuja,Corporate
+10129.0,Customer_1129,Kano,Corporate
+10130.0,,Kano,retail
+10131.0,Customer_1131,PH,corporate 
+,Customer_1132,Lagos,CORPORATE
+10133.0,,Lagos, retail
+10134.0,Customer_1134,Kano,retail
+10135.0,Customer_1135,Abuja,
+10136.0,Customer_1136,PH,retail
+,Customer_1137,Kano,CORPORATE
+10138.0,Customer_1138,PH,corporate
+,Customer_1139,Lagos, SME
+10140.0,Customer_1140,Kano,corporate
+10141.0,Customer_1141,Lagos,CORPORATE 
+10142.0,Customer_1142,, retail
+10143.0,Customer_1143,Kano, CORPORATE 
+10144.0,Customer_1144,PH,retail 
+10145.0,Customer_1145,Abuja, Corporate
+10146.0,Customer_1146,Lagos,
+10147.0,Customer_1147,Kano,CORPORATE  
+10148.0,,Lagos,Sme
+10149.0,Customer_1149,Kano,Corporate
+,Customer_1150,Ibadan, retail
+10151.0,Customer_1151,Ibadan,retail
+10152.0,Customer_1152,Kano,Sme
+10153.0,Customer_1153,Kano,
+10154.0,,Kano,Retail
+,Customer_1155,Ibadan,Retail 
+10156.0,Customer_1156,Ibadan,RETAIL
+10157.0,Customer_1157,Kano,Corporate 
+10158.0,Customer_1158,Kano,Corporate 
+,Customer_1159,PH,corporate
+10160.0,,Ibadan, retail
+10161.0,,Kano, retail
+10162.0,Customer_1162,Kano,RETAIL
+10163.0,Customer_1163,PH, CORPORATE 
+10164.0,Customer_1164,Abuja, Corporate
+,Customer_1165,PH,sme
+10166.0,Customer_1166,Abuja,SME 
+10167.0,Customer_1167,PH, Retail
+10168.0,Customer_1168,Ibadan,Corporate 
+10169.0,Customer_1169,Abuja,RETAIL
+10170.0,Customer_1170,Ibadan,Retail
+10171.0,,Lagos,RETAIL
+,Customer_1172,Lagos,Retail 
+10173.0,Customer_1173,Abuja,
+10174.0,Customer_1174,Kano, CORPORATE 
+10175.0,Customer_1175,PH, retail
+10176.0,Customer_1176,,CORPORATE  
+10177.0,Customer_1177,PH,Retail
+10178.0,Customer_1178,Ibadan, SME
+,Customer_1179,Kano,CORPORATE 
+10180.0,Customer_1180,Ibadan,corporate 
+,,Lagos,SME 
+10182.0,Customer_1182,Kano,Corporate
+10183.0,Customer_1183,Lagos,retail 
+10184.0,Customer_1184,Ibadan,Corporate
+10185.0,Customer_1185,Kano,CORPORATE
+10186.0,Customer_1186,Ibadan,CORPORATE  
+10187.0,Customer_1187,Abuja, Retail
+10188.0,Customer_1188,,retail 
+10189.0,Customer_1189,Ibadan,retail
+10190.0,Customer_1190,Lagos,CORPORATE  
+10191.0,Customer_1191,Lagos,
+10192.0,Customer_1192,Lagos, retail
+10193.0,Customer_1193,Abuja,Corporate 
+10194.0,Customer_1194,Ibadan,CORPORATE
+10195.0,Customer_1195,Kano,
+10196.0,Customer_1196,Ibadan,RETAIL
+10197.0,Customer_1197,Lagos,RETAIL
+,Customer_1198,Abuja,retail
+,Customer_1199,Ibadan,Retail
+10200.0,Customer_1200,Lagos,CORPORATE 
+10201.0,Customer_1201,Kano,Sme
+10202.0,Customer_1202,Lagos,
+10203.0,Customer_1203,,Corporate 
+10204.0,Customer_1204,Abuja,Sme
+10205.0,Customer_1205,Ibadan,
+10206.0,Customer_1206,Lagos,Corporate 
+10207.0,Customer_1207,Ibadan,RETAIL
+,Customer_1208,PH,RETAIL
+10209.0,Customer_1209,Abuja,retail
+10210.0,Customer_1210,Ibadan,Retail
+,Customer_1211,PH,SME 
+10212.0,Customer_1212,PH,Corporate 
+10213.0,Customer_1213,Abuja,corporate 
+10214.0,Customer_1214,Ibadan,
+10215.0,Customer_1215,Lagos,Corporate 
+10216.0,Customer_1216,Kano,
+10217.0,Customer_1217,PH,CORPORATE  
+10218.0,Customer_1218,Ibadan,RETAIL
+10219.0,Customer_1219,PH,retail
+10220.0,Customer_1220,Lagos,retail
+10221.0,Customer_1221,,
+,Customer_1222,PH,CORPORATE  
+10223.0,Customer_1223,Abuja,corporate
+10224.0,Customer_1224,Lagos, Retail
+10225.0,Customer_1225,Abuja,corporate 
+10226.0,Customer_1226,Abuja,Corporate 
+10227.0,Customer_1227,Ibadan,SME
+,Customer_1228,Abuja,retail
+10229.0,Customer_1229,PH,SME 
+10230.0,Customer_1230,Kano,SME 
+10231.0,Customer_1231,PH,
+10232.0,,Ibadan,CORPORATE
+10233.0,Customer_1233,Abuja,Retail
+10234.0,Customer_1234,Abuja, CORPORATE 
+10235.0,Customer_1235,Ibadan,sme
+10236.0,Customer_1236,PH,
+10237.0,Customer_1237,Abuja,
+10238.0,Customer_1238,Kano,
+,Customer_1239,Lagos, CORPORATE 
+10240.0,Customer_1240,Kano,retail 
+10241.0,Customer_1241,Lagos, Corporate
+10242.0,Customer_1242,Abuja, Retail
+10243.0,Customer_1243,Kano, retail
+10244.0,Customer_1244,Abuja, SME
+10245.0,Customer_1245,PH,retail
+10246.0,Customer_1246,Ibadan, SME
+10247.0,Customer_1247,,
+10248.0,Customer_1248,,retail
+10249.0,Customer_1249,Ibadan,sme
+10250.0,Customer_1250,Kano,SME 
+10251.0,Customer_1251,Lagos,retail
+10252.0,Customer_1252,,corporate
+10253.0,Customer_1253,Abuja,retail 
+,Customer_1254,Ibadan, SME
+10255.0,Customer_1255,Kano,RETAIL
+10256.0,Customer_1256,Ibadan,CORPORATE  
+10257.0,Customer_1257,Kano,sme
+10258.0,Customer_1258,PH,Retail
+10259.0,Customer_1259,Ibadan,CORPORATE  
+10260.0,Customer_1260,Kano, SME
+10261.0,Customer_1261,Kano,Retail 
+10262.0,Customer_1262,PH,CORPORATE  
+10263.0,Customer_1263,Abuja,corporate 
+10264.0,Customer_1264,Kano,retail
+10265.0,Customer_1265,PH, Retail
+10266.0,Customer_1266,, retail
+10267.0,,PH,SME 
+10268.0,Customer_1268,PH, CORPORATE 
+10269.0,Customer_1269,PH,Corporate 
+10270.0,Customer_1270,Abuja,CORPORATE
+10271.0,Customer_1271,Abuja,CORPORATE 
+10272.0,Customer_1272,Kano,
+,Customer_1273,,retail
+10274.0,,Abuja, retail
+10275.0,Customer_1275,PH,
+10276.0,Customer_1276,Ibadan, retail
+10277.0,Customer_1277,Abuja,
+,Customer_1278,Kano,Retail 
+10279.0,Customer_1279,Lagos,retail
+10280.0,,PH,Retail
+10281.0,Customer_1281,PH,RETAIL
+10282.0,Customer_1282,Kano, SME
+10283.0,Customer_1283,Kano,Sme
+10284.0,Customer_1284,Abuja,Retail
+10285.0,,Lagos,SME 
+10286.0,Customer_1286,,Sme
+10287.0,Customer_1287,PH,Retail 
+10288.0,,Abuja,CORPORATE  
+10289.0,Customer_1289,Ibadan,Retail 
+10290.0,Customer_1290,PH,RETAIL
+10291.0,Customer_1291,Ibadan,
+,Customer_1292,Lagos,CORPORATE 
+10293.0,Customer_1293,PH,retail 
+10294.0,Customer_1294,Abuja, Retail
+10295.0,Customer_1295,, retail
+10296.0,,PH, SME
+10297.0,Customer_1297,,CORPORATE
+10298.0,Customer_1298,Abuja,corporate 
+,Customer_1299,, SME
+10300.0,Customer_1300,Lagos,
+10301.0,Customer_1301,,Retail 
+10302.0,Customer_1302,PH,RETAIL
+10303.0,Customer_1303,Lagos,retail
+10304.0,Customer_1304,Kano,Corporate 
+10305.0,Customer_1305,Kano,corporate 
+,Customer_1306,,SME 
+10307.0,Customer_1307,Abuja, Retail
+10308.0,Customer_1308,Ibadan,Corporate
+10309.0,Customer_1309,Abuja,retail
+10310.0,Customer_1310,Abuja,retail 
+10311.0,Customer_1311,PH,
+10312.0,Customer_1312,Kano,Corporate
+10313.0,Customer_1313,PH,SME
+10314.0,Customer_1314,Kano, CORPORATE 
+10315.0,Customer_1315,Kano,RETAIL
+10316.0,Customer_1316,,sme
+10317.0,Customer_1317,PH,Corporate
+10318.0,Customer_1318,Abuja, Corporate
+10319.0,Customer_1319,Ibadan, CORPORATE 
+10320.0,Customer_1320,Abuja,corporate
+,Customer_1321,Kano,CORPORATE  
+10322.0,Customer_1322,Lagos,Retail 
+10323.0,Customer_1323,Lagos,Corporate 
+10324.0,Customer_1324,Lagos,corporate 
+10325.0,Customer_1325,,corporate
+10326.0,,, Corporate
+10327.0,Customer_1327,Lagos,RETAIL
+,Customer_1328,,SME 
+10329.0,Customer_1329,Ibadan,corporate
+10330.0,Customer_1330,Ibadan,retail
+10331.0,Customer_1331,Kano,retail
+10332.0,Customer_1332,, CORPORATE 
+10333.0,Customer_1333,Lagos,retail 
+10334.0,Customer_1334,Abuja,retail
+10335.0,Customer_1335,Kano,sme
+10336.0,Customer_1336,Kano,SME
+10337.0,Customer_1337,PH, Retail
+10338.0,Customer_1338,, Retail
+10339.0,Customer_1339,PH,
+10340.0,Customer_1340,Kano, Corporate
+,Customer_1341,Abuja,CORPORATE 
+10342.0,Customer_1342,Lagos,retail
+10343.0,Customer_1343,PH,Retail 
+10344.0,Customer_1344,Lagos,corporate
+10345.0,Customer_1345,Abuja,CORPORATE 
+10346.0,Customer_1346,Lagos, CORPORATE 
+10347.0,Customer_1347,PH,CORPORATE  
+10348.0,Customer_1348,Kano,
+10349.0,,,Corporate
+10350.0,Customer_1350,Ibadan, retail
+10351.0,Customer_1351,Ibadan,RETAIL
+10352.0,Customer_1352,Kano,corporate
+10353.0,Customer_1353,Kano,Retail
+10354.0,Customer_1354,,corporate
+10355.0,Customer_1355,Lagos,retail
+10356.0,Customer_1356,Ibadan,RETAIL
+,Customer_1357,Lagos,Retail
+10358.0,Customer_1358,Abuja, SME
+10359.0,Customer_1359,Kano, Retail
+10360.0,Customer_1360,Abuja, SME
+10361.0,Customer_1361,Lagos,corporate
+10362.0,Customer_1362,Lagos, Corporate
+10363.0,Customer_1363,Lagos,corporate 
+10364.0,,Lagos,
+10365.0,Customer_1365,PH, SME
+10366.0,Customer_1366,Kano,retail
+10367.0,Customer_1367,PH,Corporate
+10368.0,Customer_1368,Lagos,CORPORATE  
+10369.0,Customer_1369,Lagos,SME
+10370.0,Customer_1370,Ibadan,
+10371.0,Customer_1371,Ibadan,SME
+10372.0,Customer_1372,PH,
+10373.0,,, retail
+10374.0,,Ibadan,SME
+10375.0,Customer_1375,Lagos,Corporate 
+10376.0,Customer_1376,Lagos,retail 
+10377.0,Customer_1377,Kano,Retail 
+10378.0,Customer_1378,Lagos,retail
+10379.0,Customer_1379,Abuja,corporate 
+10380.0,Customer_1380,PH, SME
+10381.0,Customer_1381,Abuja,corporate 
+10382.0,Customer_1382,Lagos, retail
+10383.0,Customer_1383,Kano, retail
+10384.0,Customer_1384,,corporate 
+10385.0,Customer_1385,Ibadan,Sme
+10386.0,Customer_1386,Kano, retail
+,Customer_1387,Lagos,Corporate 
+10388.0,Customer_1388,PH,retail
+10389.0,Customer_1389,,
+10390.0,Customer_1390,,
+10391.0,Customer_1391,Ibadan,CORPORATE 
+10392.0,Customer_1392,Kano,RETAIL
+10393.0,Customer_1393,Kano,corporate 
+10394.0,Customer_1394,PH,RETAIL
+10395.0,Customer_1395,Abuja,RETAIL
+10396.0,Customer_1396,Kano,RETAIL
+10397.0,Customer_1397,Lagos,
+10398.0,Customer_1398,Kano,RETAIL
+10399.0,Customer_1399,Abuja,Retail
+10400.0,Customer_1400,Ibadan,sme
+10401.0,Customer_1401,PH,Sme
+10402.0,Customer_1402,Ibadan, Retail
+10403.0,,Abuja,Retail
+10404.0,Customer_1404,Lagos,
+10405.0,Customer_1405,Kano,SME
+10406.0,Customer_1406,,corporate
+10407.0,Customer_1407,PH, CORPORATE 
+10408.0,Customer_1408,Abuja, Retail
+10409.0,Customer_1409,Kano,
+10410.0,,Kano,SME 
+10411.0,,Abuja,CORPORATE 
+10412.0,Customer_1412,Ibadan,retail
+10413.0,Customer_1413,Kano,Retail
+10414.0,Customer_1414,,CORPORATE
+,Customer_1415,Kano, CORPORATE 
+10416.0,Customer_1416,Kano, SME
+10417.0,Customer_1417,Ibadan,RETAIL
+10418.0,Customer_1418,PH,Corporate
+10419.0,Customer_1419,PH, Retail
+10420.0,,PH,retail
+10421.0,Customer_1421,Abuja,Retail
+10422.0,Customer_1422,Lagos, SME
+10423.0,Customer_1423,Ibadan,Corporate 
+10424.0,Customer_1424,Abuja,CORPORATE
+10425.0,Customer_1425,Kano,CORPORATE
+10426.0,Customer_1426,Ibadan, CORPORATE 
+10427.0,Customer_1427,Abuja,Retail
+,,,Retail
+,Customer_1429,Ibadan,retail 
+10430.0,Customer_1430,PH,
+10431.0,Customer_1431,Abuja,CORPORATE
+10432.0,Customer_1432,Lagos,CORPORATE
+10433.0,Customer_1433,Lagos,retail
+10434.0,Customer_1434,PH,CORPORATE  
+10435.0,,Lagos,CORPORATE
+10436.0,Customer_1436,PH,sme
+10437.0,Customer_1437,Kano,CORPORATE  
+10438.0,Customer_1438,Ibadan,Corporate
+10439.0,Customer_1439,Ibadan,RETAIL
+10440.0,Customer_1440,Lagos,
+10441.0,Customer_1441,, retail
+10442.0,Customer_1442,PH,corporate
+10443.0,Customer_1443,Ibadan,CORPORATE 
+10444.0,Customer_1444,Lagos,retail
+10445.0,Customer_1445,Ibadan,SME 
+10446.0,Customer_1446,Ibadan,RETAIL
+10447.0,,,Corporate 
+10448.0,Customer_1448,Lagos,Sme
+10449.0,Customer_1449,Lagos,corporate
+10450.0,Customer_1450,Abuja, SME
+10451.0,Customer_1451,Lagos,Corporate 
+10452.0,Customer_1452,Ibadan, Retail
+10453.0,Customer_1453,Lagos,Corporate 
+10454.0,Customer_1454,Lagos,retail 
+10455.0,Customer_1455,,RETAIL
+10456.0,Customer_1456,Kano,
+10457.0,,Kano,RETAIL
+10458.0,Customer_1458,Kano, retail
+10459.0,Customer_1459,Ibadan,Corporate 
+,,Ibadan, Retail
+10461.0,Customer_1461,PH,Corporate
+,Customer_1462,Lagos,
+10463.0,Customer_1463,PH, SME
+10464.0,Customer_1464,Ibadan, CORPORATE 
+10465.0,Customer_1465,PH,
+10466.0,Customer_1466,,RETAIL
+10467.0,Customer_1467,Abuja,CORPORATE 
+10468.0,Customer_1468,Ibadan,retail
+,,Abuja,retail
+10470.0,Customer_1470,Abuja,Corporate
+10471.0,,Lagos,CORPORATE  
+10472.0,Customer_1472,Kano, CORPORATE 
+,Customer_1473,,Retail
+10474.0,Customer_1474,Abuja,corporate 
+10475.0,Customer_1475,Lagos,CORPORATE 
+10476.0,Customer_1476,Abuja,
+10477.0,Customer_1477,Abuja,
+10478.0,Customer_1478,PH,SME 
+,Customer_1479,Lagos,CORPORATE 
+,Customer_1480,Ibadan,Sme
+10481.0,Customer_1481,PH, CORPORATE 
+10482.0,Customer_1482,Lagos,Corporate
+10483.0,Customer_1483,Ibadan,sme
+10484.0,Customer_1484,Kano,
+10485.0,Customer_1485,Abuja,CORPORATE
+10486.0,Customer_1486,PH,corporate 
+,Customer_1487,Lagos,Corporate 
+10488.0,Customer_1488,Abuja,Sme
+10489.0,Customer_1489,Kano, Retail
+10490.0,Customer_1490,Lagos,CORPORATE  
+10491.0,Customer_1491,Abuja,SME
+10492.0,Customer_1492,Kano,CORPORATE 
+10493.0,Customer_1493,Ibadan,retail
+10494.0,Customer_1494,Kano,RETAIL
+10495.0,Customer_1495,Lagos, Corporate
+10496.0,Customer_1496,Ibadan,retail
+,Customer_1497,Lagos, CORPORATE 
+10498.0,Customer_1498,Abuja,CORPORATE
+10499.0,Customer_1499,Abuja,Sme
+10500.0,Customer_1500,Kano,SME
+10501.0,Customer_1501,Kano,Sme
+10502.0,Customer_1502,Abuja,Retail
+10503.0,Customer_1503,Abuja,Corporate 
+10504.0,Customer_1504,Abuja, retail
+10505.0,Customer_1505,PH,corporate
+,Customer_1506,Lagos,retail
+10507.0,Customer_1507,,SME
+10508.0,Customer_1508,PH,RETAIL
+10509.0,Customer_1509,Lagos,RETAIL
+10510.0,Customer_1510,Ibadan,sme
+10511.0,Customer_1511,Abuja,
+10512.0,,PH,retail 
+10513.0,Customer_1513,Abuja,SME
+10514.0,,,Corporate
+10515.0,Customer_1515,Ibadan, retail
+10516.0,Customer_1516,Ibadan,
+10517.0,Customer_1517,Ibadan,RETAIL
+10518.0,Customer_1518,Abuja,Retail
+10519.0,,Ibadan, Corporate
+10520.0,Customer_1520,PH, retail
+10521.0,Customer_1521,Lagos, Corporate
+10522.0,Customer_1522,PH,
+10523.0,Customer_1523,Kano,Retail
+10524.0,Customer_1524,Kano, Retail
+10525.0,Customer_1525,Abuja,retail 
+,Customer_1526,Ibadan,SME
+,Customer_1527,Lagos,retail 
+,Customer_1528,Abuja,RETAIL
+,Customer_1529,Kano,Retail
+,,Lagos,corporate
+10531.0,Customer_1531,Ibadan,Corporate 
+10532.0,Customer_1532,Abuja,
+10533.0,Customer_1533,Abuja,Corporate 
+10534.0,Customer_1534,PH,retail 
+10535.0,,Kano,retail 
+,Customer_1536,Ibadan,Corporate
+10537.0,Customer_1537,Kano,retail
+10538.0,Customer_1538,Ibadan,CORPORATE 
+10539.0,Customer_1539,PH,
+10540.0,Customer_1540,Ibadan, SME
+10541.0,Customer_1541,Abuja,sme
+10542.0,Customer_1542,Lagos, retail
+10543.0,,Lagos,retail
+10544.0,Customer_1544,Ibadan,CORPORATE
+10545.0,Customer_1545,Kano, retail
+10546.0,Customer_1546,,corporate
+10547.0,Customer_1547,Abuja,RETAIL
+10548.0,Customer_1548,,CORPORATE  
+10549.0,Customer_1549,Lagos, Retail
+10550.0,Customer_1550,Abuja,CORPORATE  
+10551.0,Customer_1551,Kano,SME 
+10552.0,Customer_1552,PH,corporate
+10553.0,Customer_1553,Abuja,
+10554.0,Customer_1554,Abuja,
+10555.0,Customer_1555,Lagos,Retail
+10556.0,Customer_1556,Kano, CORPORATE 
+10557.0,,Ibadan, SME
+10558.0,Customer_1558,,Corporate 
+10559.0,,Abuja,SME
+10560.0,Customer_1560,Kano,Sme
+10561.0,Customer_1561,PH, Corporate
+10562.0,Customer_1562,Ibadan,
+10563.0,Customer_1563,Lagos,RETAIL
+10564.0,Customer_1564,Kano, CORPORATE 
+10565.0,Customer_1565,Ibadan,
+10566.0,Customer_1566,Lagos, Retail
+10567.0,Customer_1567,,CORPORATE 
+10568.0,,Ibadan,CORPORATE 
+10569.0,Customer_1569,Abuja,retail
+10570.0,,PH, CORPORATE 
+10571.0,Customer_1571,Abuja,RETAIL
+10572.0,Customer_1572,,Retail 
+10573.0,Customer_1573,Kano,retail 
+10574.0,Customer_1574,Lagos,Retail
+10575.0,Customer_1575,PH,SME
+10576.0,Customer_1576,Ibadan,RETAIL
+10577.0,Customer_1577,Abuja,Corporate 
+10578.0,Customer_1578,Ibadan,Retail
+10579.0,Customer_1579,Kano,Corporate
+10580.0,Customer_1580,PH,
+10581.0,Customer_1581,,
+,Customer_1582,PH, retail
+10583.0,Customer_1583,PH,
+10584.0,Customer_1584,,CORPORATE
+10585.0,Customer_1585,Lagos, Corporate
+10586.0,,PH,CORPORATE
+10587.0,Customer_1587,Kano,sme
+10588.0,Customer_1588,Lagos,retail
+10589.0,Customer_1589,PH,Corporate 
+10590.0,Customer_1590,PH,CORPORATE
+10591.0,Customer_1591,Kano,SME 
+10592.0,Customer_1592,,Corporate
+10593.0,Customer_1593,Ibadan,Retail
+10594.0,Customer_1594,Lagos,Retail
+10595.0,Customer_1595,Abuja,Retail
+10596.0,Customer_1596,PH,retail 
+10597.0,Customer_1597,Kano, SME
+10598.0,Customer_1598,Abuja,corporate
+10599.0,Customer_1599,Abuja,
+10600.0,Customer_1600,Lagos, Corporate
+10601.0,Customer_1601,Kano,Retail
+,,Kano,retail
+10603.0,Customer_1603,Abuja,Retail 
+10604.0,Customer_1604,PH, SME
+10605.0,,Kano,Retail
+10606.0,Customer_1606,Ibadan,
+10607.0,Customer_1607,PH, Retail
+10608.0,Customer_1608,, Retail
+10609.0,Customer_1609,Ibadan,retail
+10610.0,Customer_1610,PH,
+,Customer_1611,Abuja,SME 
+10612.0,Customer_1612,PH,Retail
+10613.0,Customer_1613,Kano,corporate
+10614.0,Customer_1614,Lagos,retail
+10615.0,Customer_1615,Kano,retail
+10616.0,Customer_1616,Abuja,
+10617.0,,Ibadan,
+10618.0,Customer_1618,Ibadan,Retail
+10619.0,Customer_1619,Kano, CORPORATE 
+10620.0,Customer_1620,Ibadan,Corporate 
+10621.0,Customer_1621,,Sme
+10622.0,,Lagos, Retail
+10623.0,Customer_1623,Abuja,
+10624.0,,Kano, Corporate
+10625.0,Customer_1625,Abuja,SME
+10626.0,Customer_1626,Kano,Corporate 
+10627.0,Customer_1627,Lagos,corporate
+,,Abuja,Retail 
+10629.0,Customer_1629,Abuja, Corporate
+10630.0,Customer_1630,Ibadan,corporate 
+,Customer_1631,Abuja,RETAIL
+10632.0,Customer_1632,Lagos,Corporate 
+10633.0,,Ibadan,Sme
+10634.0,Customer_1634,Kano, Retail
+10635.0,Customer_1635,Lagos,Corporate 
+10636.0,Customer_1636,,corporate 
+,,Lagos, Corporate
+10638.0,Customer_1638,Ibadan,RETAIL
+10639.0,Customer_1639,PH, retail
+10640.0,Customer_1640,PH,Retail 
+10641.0,Customer_1641,,RETAIL
+10642.0,Customer_1642,Abuja,CORPORATE 
+10643.0,,Abuja,SME
+,Customer_1644,Lagos,sme
+10645.0,Customer_1645,, Corporate
+10646.0,Customer_1646,Lagos,Retail 
+,Customer_1647,Lagos, SME
+10648.0,Customer_1648,Ibadan,Corporate 
+10649.0,Customer_1649,Kano,CORPORATE 
+10650.0,,Ibadan, Retail
+10651.0,Customer_1651,PH,
+10652.0,Customer_1652,Lagos,RETAIL
+10653.0,Customer_1653,Ibadan,retail
+10654.0,Customer_1654,Lagos,retail
+,Customer_1655,Ibadan,Retail
+10656.0,Customer_1656,PH,RETAIL
+10657.0,Customer_1657,Lagos,SME
+10658.0,,Lagos,corporate
+10659.0,Customer_1659,Lagos, SME
+10660.0,Customer_1660,PH,RETAIL
+10661.0,Customer_1661,Ibadan,Corporate
+10662.0,Customer_1662,Lagos,CORPORATE  
+10663.0,Customer_1663,Lagos,SME
+10664.0,Customer_1664,Kano,retail
+10665.0,Customer_1665,Abuja,Corporate
+,Customer_1666,Kano,CORPORATE  
+10667.0,Customer_1667,Abuja, Retail
+10668.0,Customer_1668,Lagos, retail
+10669.0,Customer_1669,Ibadan,Sme
+10670.0,Customer_1670,PH,retail
+10671.0,,Kano,RETAIL
+10672.0,Customer_1672,PH,
+10673.0,Customer_1673,Abuja,SME
+10674.0,Customer_1674,Ibadan,sme
+10675.0,Customer_1675,Kano,
+10676.0,Customer_1676,Ibadan,CORPORATE
+10677.0,,Abuja,Retail 
+,Customer_1678,,
+10679.0,Customer_1679,Ibadan,RETAIL
+10680.0,Customer_1680,Ibadan, Retail
+10681.0,Customer_1681,PH,Corporate 
+10682.0,Customer_1682,Kano,RETAIL
+10683.0,Customer_1683,Abuja,corporate
+10684.0,Customer_1684,Kano, Retail
+10685.0,Customer_1685,Kano,Corporate 
+10686.0,Customer_1686,Abuja,CORPORATE
+10687.0,Customer_1687,Abuja,Sme
+10688.0,Customer_1688,Abuja, Retail
+10689.0,,PH,
+10690.0,Customer_1690,Kano,Retail
+10691.0,Customer_1691,Abuja,retail 
+10692.0,,PH,Sme
+10693.0,Customer_1693,Abuja,retail 
+10694.0,Customer_1694,PH,Retail
+10695.0,Customer_1695,,retail
+10696.0,Customer_1696,Lagos,SME
+10697.0,Customer_1697,PH,CORPORATE 
+10698.0,Customer_1698,Lagos,Sme
+10699.0,Customer_1699,Kano, Corporate
+10700.0,Customer_1700,Abuja,SME
+10701.0,Customer_1701,PH,corporate 
+10702.0,Customer_1702,Abuja,corporate
+10703.0,,Abuja,Retail
+10704.0,,Lagos,retail
+,Customer_1705,Lagos,Retail
+10706.0,Customer_1706,Abuja,RETAIL
+10707.0,Customer_1707,Lagos, CORPORATE 
+10708.0,Customer_1708,Lagos,CORPORATE  
+10709.0,Customer_1709,Kano,Corporate
+10710.0,Customer_1710,PH,Corporate 
+,Customer_1711,PH,Retail 
+10712.0,Customer_1712,PH,retail
+10713.0,Customer_1713,Kano,CORPORATE
+10714.0,Customer_1714,Kano,Corporate 
+10715.0,Customer_1715,Lagos,retail 
+10716.0,Customer_1716,Kano,retail 
+10717.0,Customer_1717,PH,RETAIL
+10718.0,Customer_1718,PH,sme
+10719.0,Customer_1719,,corporate
+10720.0,Customer_1720,Abuja, CORPORATE 
+10721.0,Customer_1721,Ibadan,Corporate
+10722.0,Customer_1722,Abuja,Corporate
+10723.0,Customer_1723,Lagos,Retail
+10724.0,Customer_1724,Ibadan,SME 
+10725.0,Customer_1725,Ibadan,retail 
+10726.0,Customer_1726,Abuja,Corporate
+10727.0,Customer_1727,Lagos,
+10728.0,Customer_1728,Kano,
+10729.0,Customer_1729,Lagos, retail
+10730.0,Customer_1730,Kano,Retail
+10731.0,Customer_1731,Abuja,retail 
+10732.0,,Kano,
+10733.0,Customer_1733,Ibadan,retail 
+10734.0,Customer_1734,Lagos,Retail 
+10735.0,Customer_1735,,
+10736.0,Customer_1736,,retail 
+,Customer_1737,,corporate
+10738.0,Customer_1738,Kano, SME
+10739.0,Customer_1739,,retail
+10740.0,Customer_1740,Kano,retail 
+10741.0,Customer_1741,Lagos,corporate
+10742.0,Customer_1742,PH,retail
+10743.0,Customer_1743,Kano,corporate
+,Customer_1744,,retail
+10745.0,Customer_1745,,Retail 
+10746.0,Customer_1746,, SME
+10747.0,Customer_1747,Lagos,RETAIL
+10748.0,,Kano,RETAIL
+10749.0,Customer_1749,PH,retail
+10750.0,Customer_1750,PH,Retail 
+10751.0,Customer_1751,Ibadan, Retail
+10752.0,Customer_1752,PH,RETAIL
+10753.0,Customer_1753,PH,Retail
+10754.0,Customer_1754,Ibadan,CORPORATE  
+10755.0,Customer_1755,Abuja,Corporate
+10756.0,Customer_1756,Ibadan,retail
+10757.0,Customer_1757,Ibadan,RETAIL
+10758.0,Customer_1758,Lagos,Corporate 
+,Customer_1759,Kano,SME
+10760.0,Customer_1760,Lagos,RETAIL
+10761.0,Customer_1761,Lagos,SME
+10762.0,,Kano,CORPORATE  
+10763.0,Customer_1763,Abuja,Retail
+10764.0,Customer_1764,PH,
+10765.0,Customer_1765,Ibadan,SME
+10766.0,Customer_1766,Abuja,SME 
+10767.0,Customer_1767,PH,CORPORATE  
+10768.0,Customer_1768,PH,retail
+10769.0,Customer_1769,PH,Sme
+,Customer_1770,Ibadan,CORPORATE 
+10771.0,Customer_1771,Ibadan,Retail
+10772.0,Customer_1772,Lagos,Sme
+10773.0,Customer_1773,PH, CORPORATE 
+10774.0,Customer_1774,Ibadan,CORPORATE  
+10775.0,Customer_1775,Abuja,retail
+10776.0,Customer_1776,Lagos,Corporate 
+,Customer_1777,PH,Corporate
+10778.0,Customer_1778,Abuja, retail
+10779.0,Customer_1779,Ibadan,RETAIL
+10780.0,Customer_1780,Lagos,Corporate
+10781.0,Customer_1781,PH,corporate
+10782.0,,Lagos,Retail 
+10783.0,Customer_1783,Ibadan, retail
+10784.0,Customer_1784,PH,sme
+10785.0,Customer_1785,PH,Retail
+10786.0,Customer_1786,, SME
+10787.0,Customer_1787,Abuja, CORPORATE 
+10788.0,Customer_1788,PH,Corporate 
+10789.0,Customer_1789,Lagos,Retail
+10790.0,Customer_1790,PH, CORPORATE 
+10791.0,Customer_1791,Abuja,sme
+10792.0,Customer_1792,,corporate 
+,Customer_1793,Abuja,Retail 
+10794.0,Customer_1794,Lagos, Retail
+10795.0,Customer_1795,Abuja,retail 
+10796.0,Customer_1796,Abuja,SME
+10797.0,Customer_1797,Lagos,SME
+,Customer_1798,Abuja,corporate 
+10799.0,Customer_1799,Lagos,retail 
+10800.0,Customer_1800,Kano,corporate 
+10801.0,Customer_1801,Kano,CORPORATE
+,Customer_1802,Abuja,CORPORATE  
+10803.0,Customer_1803,PH,Retail
+10804.0,Customer_1804,Lagos,Corporate
+,Customer_1805,Kano,Retail
+10806.0,Customer_1806,Ibadan,corporate 
+10807.0,Customer_1807,Ibadan,retail 
+10808.0,Customer_1808,Lagos, retail
+10809.0,Customer_1809,,SME 
+10810.0,Customer_1810,Ibadan,Corporate 
+10811.0,Customer_1811,Ibadan,SME
+10812.0,Customer_1812,Lagos,
+10813.0,Customer_1813,Abuja,Corporate 
+,Customer_1814,,SME 
+10815.0,Customer_1815,Ibadan,Retail
+10816.0,Customer_1816,PH, Corporate
+10817.0,Customer_1817,Kano,Retail
+10818.0,Customer_1818,Abuja,
+10819.0,Customer_1819,Abuja,sme
+10820.0,Customer_1820,Abuja, Retail
+10821.0,Customer_1821,Lagos, Corporate
+10822.0,,Kano,Retail
+10823.0,Customer_1823,Lagos,retail
+10824.0,Customer_1824,Abuja, retail
+10825.0,Customer_1825,PH, SME
+10826.0,Customer_1826,Lagos,Corporate 
+10827.0,Customer_1827,PH,CORPORATE 
+10828.0,Customer_1828,Abuja,Sme
+10829.0,Customer_1829,PH,RETAIL
+10830.0,Customer_1830,Lagos,retail
+10831.0,Customer_1831,,Retail
+10832.0,Customer_1832,Abuja,RETAIL
+10833.0,Customer_1833,Ibadan,corporate 
+10834.0,Customer_1834,Lagos,
+10835.0,Customer_1835,Lagos,Retail
+10836.0,,PH, SME
+10837.0,,Abuja,Corporate 
+10838.0,Customer_1838,Lagos, Retail
+10839.0,Customer_1839,Lagos,
+10840.0,Customer_1840,PH,CORPORATE
+10841.0,Customer_1841,Abuja,Retail
+10842.0,Customer_1842,PH,RETAIL
+10843.0,Customer_1843,Ibadan,corporate
+10844.0,Customer_1844,,CORPORATE 
+10845.0,Customer_1845,,retail 
+10846.0,Customer_1846,Kano,Corporate 
+10847.0,Customer_1847,Kano,CORPORATE
+10848.0,Customer_1848,Abuja,SME
+10849.0,Customer_1849,PH, Corporate
+10850.0,Customer_1850,Abuja,RETAIL
+10851.0,Customer_1851,Abuja,
+10852.0,Customer_1852,Kano,corporate 
+10853.0,Customer_1853,Kano,Retail
+,Customer_1854,Abuja,RETAIL
+10855.0,Customer_1855,Ibadan,CORPORATE 
+10856.0,Customer_1856,Ibadan, Corporate
+,Customer_1857,,RETAIL
+10858.0,Customer_1858,Ibadan,SME
+10859.0,Customer_1859,Ibadan, Corporate
+,Customer_1860,Ibadan,RETAIL
+10861.0,Customer_1861,Kano, Corporate
+10862.0,Customer_1862,PH,sme
+10863.0,Customer_1863,Lagos,retail 
+10864.0,Customer_1864,,corporate
+10865.0,Customer_1865,Abuja, Retail
+,Customer_1866,Abuja,CORPORATE
+10867.0,Customer_1867,PH,RETAIL
+10868.0,Customer_1868,Ibadan,Corporate
+10869.0,Customer_1869,Lagos, retail
+10870.0,Customer_1870,Ibadan,
+10871.0,Customer_1871,Ibadan,Corporate 
+10872.0,Customer_1872,Ibadan,retail
+10873.0,,Ibadan,Sme
+10874.0,,Abuja, Retail
+10875.0,Customer_1875,Abuja,Retail
+,Customer_1876,Ibadan, Corporate
+10877.0,Customer_1877,Lagos,retail 
+10878.0,Customer_1878,PH,corporate 
+10879.0,Customer_1879,Ibadan,
+10880.0,Customer_1880,Lagos,CORPORATE 
+10881.0,Customer_1881,Abuja,sme
+10882.0,Customer_1882,PH,SME 
+10883.0,,Lagos,Corporate 
+10884.0,Customer_1884,PH,Corporate 
+10885.0,Customer_1885,Kano, SME
+10886.0,Customer_1886,Ibadan, retail
+10887.0,,Lagos, SME
+10888.0,Customer_1888,Ibadan,
+10889.0,Customer_1889,Abuja,Sme
+,Customer_1890,Ibadan,retail
+10891.0,Customer_1891,Lagos, CORPORATE 
+,,Ibadan, SME
+,Customer_1893,Ibadan,corporate
+10894.0,Customer_1894,Lagos,Corporate 
+10895.0,Customer_1895,Abuja,Retail
+,Customer_1896,Abuja,Corporate 
+10897.0,Customer_1897,PH, SME
+,Customer_1898,Ibadan,CORPORATE 
+10899.0,Customer_1899,Ibadan,Corporate
+10900.0,Customer_1900,Ibadan,Retail
+10901.0,Customer_1901,Abuja,
+10902.0,Customer_1902,Kano,CORPORATE  
+10903.0,Customer_1903,PH,Corporate 
+10904.0,Customer_1904,PH,CORPORATE  
+10905.0,Customer_1905,PH,Sme
+10906.0,Customer_1906,Ibadan, Retail
+,Customer_1907,Kano,Corporate 
+10908.0,,Kano,Corporate 
+10909.0,Customer_1909,PH,Corporate 
+10910.0,Customer_1910,Lagos,SME
+10911.0,Customer_1911,PH, retail
+10912.0,Customer_1912,PH,CORPORATE  
+10913.0,Customer_1913,PH,RETAIL
+10914.0,Customer_1914,Kano,corporate 
+10915.0,,Ibadan, Corporate
+10916.0,Customer_1916,PH, SME
+10917.0,,Lagos,retail
+10918.0,Customer_1918,Lagos,SME 
+10919.0,Customer_1919,Lagos,retail
+10920.0,Customer_1920,Ibadan,Corporate 
+10921.0,Customer_1921,,Corporate
+10922.0,Customer_1922,Ibadan,SME
+10923.0,,Kano,Retail 
+10924.0,Customer_1924,Lagos,RETAIL
+10925.0,Customer_1925,,Retail
+10926.0,Customer_1926,Abuja, CORPORATE 
+10927.0,Customer_1927,Ibadan,Retail 
+10928.0,Customer_1928,Ibadan,retail 
+10929.0,Customer_1929,PH,corporate
+10930.0,Customer_1930,Lagos,CORPORATE  
+10931.0,Customer_1931,,retail
+10932.0,Customer_1932,Ibadan,Corporate 
+10933.0,Customer_1933,Lagos,Corporate 
+10934.0,Customer_1934,Kano,CORPORATE  
+10935.0,,Abuja,
+10936.0,,Lagos,Corporate 
+10937.0,Customer_1937,Abuja,Retail 
+10938.0,,Kano, CORPORATE 
+10939.0,,Kano,
+10940.0,Customer_1940,Lagos,Corporate 
+10941.0,Customer_1941,Abuja, SME
+10942.0,Customer_1942,Lagos,Corporate 
+10943.0,Customer_1943,Ibadan, Corporate
+10944.0,Customer_1944,,SME 
+10945.0,Customer_1945,Ibadan,corporate 
+10946.0,Customer_1946,Abuja, retail
+10947.0,Customer_1947,Lagos, retail
+10948.0,Customer_1948,,corporate 
+10949.0,Customer_1949,Abuja, SME
+10950.0,Customer_1950,Ibadan,CORPORATE  
+10951.0,Customer_1951,Kano,CORPORATE
+10952.0,Customer_1952,Lagos,SME
+,Customer_1953,Ibadan,corporate
+10954.0,Customer_1954,Abuja,RETAIL
+10955.0,Customer_1955,Lagos,Retail
+10956.0,Customer_1956,Lagos,
+10957.0,Customer_1957,Kano,retail
+10958.0,Customer_1958,Abuja,RETAIL
+10959.0,Customer_1959,Ibadan,retail
+10960.0,Customer_1960,,
+10961.0,Customer_1961,,RETAIL
+10962.0,Customer_1962,,corporate 
+10963.0,Customer_1963,Kano,RETAIL
+10964.0,Customer_1964,PH,Retail
+10965.0,,Abuja,CORPORATE 
+10966.0,Customer_1966,Ibadan,corporate
+10967.0,Customer_1967,Ibadan,retail
+10968.0,Customer_1968,Ibadan,RETAIL
+10969.0,Customer_1969,Lagos, SME
+10970.0,Customer_1970,Kano,SME
+10971.0,Customer_1971,Abuja,retail
+10972.0,,Abuja,SME
+10973.0,Customer_1973,Kano,Retail
+10974.0,Customer_1974,Ibadan, CORPORATE 
+10975.0,Customer_1975,Kano,RETAIL
+10976.0,Customer_1976,PH,Retail
+10977.0,Customer_1977,Abuja,corporate 
+,Customer_1978,Abuja,CORPORATE
+10979.0,,Lagos,corporate
+10980.0,Customer_1980,Lagos,corporate 
+10981.0,Customer_1981,PH,
+10982.0,Customer_1982,Lagos, CORPORATE 
+10983.0,Customer_1983,,Retail
+10984.0,Customer_1984,Ibadan,retail
+10985.0,Customer_1985,Lagos,sme
+10986.0,Customer_1986,Kano,retail
+10987.0,Customer_1987,Abuja, Retail
+10988.0,Customer_1988,,Corporate 
+10989.0,Customer_1989,,corporate 
+10990.0,Customer_1990,Ibadan, SME
+10991.0,,Lagos,Corporate 
+10992.0,Customer_1992,PH,CORPORATE 
+10993.0,Customer_1993,Ibadan,Retail 
+10994.0,Customer_1994,,CORPORATE
+10995.0,Customer_1995,Ibadan,Corporate
+10996.0,Customer_1996,,RETAIL
+10997.0,Customer_1997,Ibadan, Retail
+10998.0,Customer_1998,Kano, SME
+10999.0,Customer_1999,Abuja, CORPORATE 
+11000.0,Customer_2000,Ibadan,corporate 
+11001.0,Customer_2001,Lagos,Retail
+11002.0,Customer_2002,PH,Retail 
+11003.0,Customer_2003,Abuja,
+11004.0,Customer_2004,Abuja,SME
+11005.0,Customer_2005,Abuja,Retail 
+11006.0,Customer_2006,Abuja,corporate
+,Customer_2007,Ibadan,Corporate
+11008.0,Customer_2008,Ibadan,RETAIL
+11009.0,Customer_2009,Abuja, CORPORATE 
+11010.0,Customer_2010,Kano,retail 
+11011.0,Customer_2011,Kano,corporate 
+,Customer_2012,Abuja, Corporate
+11013.0,,Kano,RETAIL
+11014.0,Customer_2014,Abuja,
+11015.0,Customer_2015,Ibadan,Sme
+11016.0,Customer_2016,Abuja,Corporate 
+11017.0,Customer_2017,Abuja,Corporate
+11018.0,Customer_2018,Kano,Corporate 
+11019.0,Customer_2019,Ibadan,Retail
+11020.0,Customer_2020,Abuja,SME 
+11021.0,Customer_2021,Lagos,Corporate 
+11022.0,Customer_2022,Abuja,CORPORATE  
+11023.0,Customer_2023,Kano, Corporate
+11024.0,,Ibadan,Corporate 
+11025.0,Customer_2025,Abuja, Corporate
+11026.0,Customer_2026,Lagos,
+11027.0,Customer_2027,Abuja,RETAIL
+11028.0,Customer_2028,Kano, retail
+11029.0,Customer_2029,Abuja,
+11030.0,Customer_2030,Kano,SME
+11031.0,Customer_2031,Lagos,Retail
+11032.0,Customer_2032,PH,Corporate
+11033.0,,Kano,retail 
+11034.0,Customer_2034,Abuja,corporate
+11035.0,Customer_2035,PH,retail 
+11036.0,Customer_2036,Lagos,Corporate
+11037.0,Customer_2037,Ibadan,retail
+,Customer_2038,Lagos,Retail
+11039.0,Customer_2039,Abuja,RETAIL
+11040.0,Customer_2040,PH,SME
+11041.0,,Kano,corporate
+11042.0,Customer_2042,PH, CORPORATE 
+,Customer_2043,Ibadan,Sme
+11044.0,Customer_2044,Lagos,Sme
+11045.0,Customer_2045,Lagos,Corporate 
+11046.0,Customer_2046,Ibadan,corporate
+11047.0,Customer_2047,,CORPORATE
+11048.0,Customer_2048,,
+11049.0,Customer_2049,Kano, retail
+11050.0,Customer_2050,Kano, retail
+11051.0,Customer_2051,, retail
+11052.0,Customer_2052,Kano,corporate
+11053.0,Customer_2053,, Retail
+11054.0,Customer_2054,Ibadan,corporate 
+11055.0,Customer_2055,Kano, Retail
+11056.0,Customer_2056,PH,retail
+11057.0,Customer_2057,Lagos,retail
+,Customer_2058,Kano,RETAIL
+11059.0,,PH,Corporate 
+11060.0,Customer_2060,Kano,Retail
+,Customer_2061,Lagos, Retail
+11062.0,Customer_2062,Abuja,corporate 
+11063.0,Customer_2063,Abuja,corporate 
+11064.0,Customer_2064,,
+11065.0,Customer_2065,Lagos,RETAIL
+11066.0,Customer_2066,Kano, Corporate
+11067.0,Customer_2067,Lagos,corporate 
+11068.0,Customer_2068,PH,Sme
+11069.0,Customer_2069,PH,SME 
+11070.0,Customer_2070,Ibadan,
+11071.0,,Ibadan,retail
+11072.0,Customer_2072,Lagos,
+11073.0,Customer_2073,Abuja,RETAIL
+,Customer_2074,Ibadan,corporate 
+11075.0,Customer_2075,Lagos,retail
+11076.0,Customer_2076,,Retail 
+11077.0,Customer_2077,,
+11078.0,Customer_2078,Kano,RETAIL
+11079.0,Customer_2079,,Corporate
+11080.0,,PH, retail
+11081.0,Customer_2081,Lagos,RETAIL
+11082.0,Customer_2082,PH,Corporate 
+11083.0,Customer_2083,Kano,retail
+11084.0,Customer_2084,Ibadan,retail
+11085.0,Customer_2085,Lagos,Retail
+11086.0,Customer_2086,Abuja,Retail
+11087.0,Customer_2087,Kano,corporate 
+11088.0,Customer_2088,Abuja,
+11089.0,,Lagos,
+,Customer_2090,Lagos, Retail
+11091.0,Customer_2091,Ibadan,SME 
+11092.0,Customer_2092,Lagos, SME
+11093.0,,Kano,sme
+11094.0,Customer_2094,Abuja,Corporate 
+11095.0,Customer_2095,PH,CORPORATE
+11096.0,,Kano, Retail
+11097.0,Customer_2097,Lagos, CORPORATE 
+11098.0,Customer_2098,Lagos,retail 
+11099.0,Customer_2099,Lagos,
+11100.0,Customer_2100,Lagos,Retail 
+11101.0,,, retail
+,Customer_2102,Ibadan,
+,Customer_2103,Ibadan,SME
+11104.0,Customer_2104,PH,
+11105.0,Customer_2105,,
+,Customer_2106,PH,retail 
+11107.0,Customer_2107,Abuja,SME
+11108.0,Customer_2108,Ibadan,
+11109.0,Customer_2109,Kano,SME
+11110.0,Customer_2110,Lagos,corporate
+11111.0,Customer_2111,Ibadan,CORPORATE  
+11112.0,Customer_2112,,retail
+11113.0,Customer_2113,Lagos,RETAIL
+11114.0,Customer_2114,Kano,Sme
+,Customer_2115,Kano, retail
+11116.0,Customer_2116,Kano,
+11117.0,Customer_2117,PH,corporate
+11118.0,Customer_2118,PH, Retail
+11119.0,Customer_2119,, SME
+11120.0,Customer_2120,Ibadan,CORPORATE  
+11121.0,Customer_2121,,
+11122.0,Customer_2122,Kano,CORPORATE  
+,Customer_2123,Kano,Retail 
+11124.0,Customer_2124,Abuja,retail 
+11125.0,Customer_2125,PH,retail
+,Customer_2126,Ibadan,SME 
+,Customer_2127,PH,
+11128.0,Customer_2128,Ibadan,Corporate 
+11129.0,Customer_2129,Kano,Corporate
+11130.0,Customer_2130,Ibadan,Corporate 
+11131.0,Customer_2131,Ibadan,CORPORATE 
+11132.0,Customer_2132,Ibadan,Retail
+11133.0,Customer_2133,Lagos,Retail
+11134.0,Customer_2134,, Corporate
+11135.0,Customer_2135,Kano,Retail 
+11136.0,Customer_2136,PH,RETAIL
+11137.0,Customer_2137,Abuja,
+,Customer_2138,Kano,corporate 
+11139.0,Customer_2139,PH,retail
+11140.0,Customer_2140,,Corporate 
+11141.0,Customer_2141,Abuja,retail 
+11142.0,Customer_2142,Lagos, Retail
+11143.0,Customer_2143,PH, SME
+,Customer_2144,PH, Corporate
+11145.0,Customer_2145,Abuja,RETAIL
+11146.0,Customer_2146,Ibadan,
+11147.0,Customer_2147,Ibadan,Sme
+11148.0,Customer_2148,PH,corporate
+11149.0,,,RETAIL
+11150.0,Customer_2150,PH,SME
+11151.0,Customer_2151,Kano,RETAIL
+11152.0,Customer_2152,PH, CORPORATE 
+11153.0,Customer_2153,Abuja, Corporate
+11154.0,Customer_2154,Lagos,CORPORATE
+11155.0,Customer_2155,Abuja, CORPORATE 
+11156.0,Customer_2156,Ibadan, retail
+11157.0,Customer_2157,Ibadan, SME
+11158.0,Customer_2158,Ibadan,SME
+11159.0,Customer_2159,Ibadan,SME
+,Customer_2160,Lagos,CORPORATE
+11161.0,Customer_2161,PH,
+11162.0,Customer_2162,Ibadan,CORPORATE 
+,Customer_2163,Ibadan,RETAIL
+11164.0,Customer_2164,Abuja,
+11165.0,Customer_2165,Ibadan,SME
+11166.0,Customer_2166,Abuja,sme
+11167.0,Customer_2167,, retail
+11168.0,,Ibadan,Corporate
+11169.0,,Abuja,
+11170.0,Customer_2170,Abuja,CORPORATE  
+11171.0,Customer_2171,PH,Corporate
+11172.0,Customer_2172,Kano,SME 
+11173.0,Customer_2173,Kano,retail
+11174.0,Customer_2174,Lagos,Retail
+11175.0,Customer_2175,Ibadan,corporate
+11176.0,Customer_2176,Kano,Retail
+11177.0,Customer_2177,PH,
+11178.0,Customer_2178,Kano,Corporate 
+11179.0,Customer_2179,PH,retail
+11180.0,Customer_2180,Ibadan,Corporate
+11181.0,Customer_2181,Lagos,retail
+11182.0,Customer_2182,Ibadan,SME 
+11183.0,Customer_2183,PH,retail 
+11184.0,Customer_2184,,Sme
+11185.0,Customer_2185,Ibadan,corporate
+11186.0,Customer_2186,Kano, SME
+11187.0,Customer_2187,Ibadan, retail
+11188.0,Customer_2188,,retail
+11189.0,Customer_2189,,
+11190.0,Customer_2190,Abuja,RETAIL
+,Customer_2191,Lagos,Retail
+11192.0,Customer_2192,Kano,CORPORATE  
+11193.0,Customer_2193,,Corporate 
+11194.0,,Lagos, CORPORATE 
+11195.0,Customer_2195,,CORPORATE 
+11196.0,Customer_2196,Ibadan,corporate 
+11197.0,Customer_2197,PH, retail
+11198.0,Customer_2198,Lagos, Corporate
+11199.0,Customer_2199,Abuja,CORPORATE
+11200.0,Customer_2200,Abuja,corporate 
+11201.0,Customer_2201,Abuja,retail
+11202.0,Customer_2202,Ibadan, SME
+11203.0,Customer_2203,Abuja,
+,Customer_2204,Kano,RETAIL
+11205.0,Customer_2205,Kano,Retail
+11206.0,Customer_2206,Kano,SME
+11207.0,Customer_2207,Kano, Corporate
+11208.0,Customer_2208,,
+11209.0,,Kano,Corporate 
+11210.0,Customer_2210,Kano,Retail
+11211.0,Customer_2211,PH,
+,Customer_2212,Lagos,SME 
+11213.0,Customer_2213,PH,
+,Customer_2214,PH,sme
+11215.0,Customer_2215,Kano,retail
+11216.0,Customer_2216,Abuja,SME 
+11217.0,Customer_2217,Kano,
+11218.0,Customer_2218,Lagos, Corporate
+11219.0,Customer_2219,, SME
+11220.0,,Lagos, CORPORATE 
+11221.0,Customer_2221,Kano,retail 
+11222.0,Customer_2222,Abuja, Retail
+11223.0,,Abuja,Retail 
+11224.0,,Abuja,retail
+11225.0,Customer_2225,Lagos,RETAIL
+11226.0,Customer_2226,Ibadan,retail
+11227.0,Customer_2227,Ibadan,corporate
+11228.0,Customer_2228,Abuja,Corporate 
+11229.0,Customer_2229,Lagos, SME
+11230.0,Customer_2230,Ibadan,RETAIL
+11231.0,Customer_2231,Abuja,Corporate
+11232.0,Customer_2232,Abuja,RETAIL
+11233.0,Customer_2233,Abuja, SME
+11234.0,Customer_2234,,RETAIL
+11235.0,Customer_2235,Ibadan,CORPORATE
+11236.0,Customer_2236,Abuja,CORPORATE
+,,Abuja,CORPORATE  
+11238.0,Customer_2238,PH, SME
+11239.0,Customer_2239,Ibadan, retail
+,Customer_2240,PH, Corporate
+11241.0,Customer_2241,Abuja,CORPORATE
+11242.0,Customer_2242,,RETAIL
+11243.0,Customer_2243,Abuja,RETAIL
+11244.0,,PH,SME 
+11245.0,Customer_2245,Abuja,Corporate
+11246.0,Customer_2246,Lagos,retail 
+11247.0,Customer_2247,Ibadan, Retail
+11248.0,Customer_2248,Abuja, Retail
+11249.0,,Ibadan,Retail
+11250.0,Customer_2250,Abuja,RETAIL
+11251.0,Customer_2251,Ibadan,sme
+11252.0,Customer_2252,PH, SME
+11253.0,Customer_2253,PH,Retail
+11254.0,Customer_2254,Lagos,retail 
+,Customer_2255,Ibadan,Corporate 
+11256.0,Customer_2256,,Retail
+11257.0,Customer_2257,Abuja,retail 
+,Customer_2258,PH,RETAIL
+11259.0,Customer_2259,PH,Retail
+11260.0,Customer_2260,Lagos,
+11261.0,Customer_2261,Lagos,CORPORATE 
+11262.0,Customer_2262,PH, Corporate
+11263.0,Customer_2263,Lagos, Corporate
+11264.0,,Abuja,retail
+11265.0,Customer_2265,Lagos,SME
+11266.0,Customer_2266,Lagos,Retail 
+11267.0,Customer_2267,Abuja,Corporate 
+11268.0,Customer_2268,Lagos, retail
+11269.0,Customer_2269,Ibadan,
+11270.0,Customer_2270,Kano,RETAIL
+11271.0,,Lagos,sme
+11272.0,Customer_2272,Lagos,Retail
+11273.0,Customer_2273,PH,Corporate
+11274.0,,Kano,CORPORATE 
+11275.0,Customer_2275,PH,SME
+11276.0,Customer_2276,Kano,CORPORATE  
+11277.0,,Lagos,Retail 
+11278.0,Customer_2278,Ibadan,
+11279.0,Customer_2279,,RETAIL
+11280.0,Customer_2280,Lagos,Retail 
+11281.0,Customer_2281,Abuja,Retail 
+11282.0,Customer_2282,Abuja,Corporate 
+11283.0,Customer_2283,Lagos,
+11284.0,Customer_2284,Kano,
+,Customer_2285,Abuja,CORPORATE 
+11286.0,Customer_2286,Abuja,corporate 
+11287.0,,Kano,CORPORATE
+11288.0,Customer_2288,Kano, SME
+11289.0,Customer_2289,Kano,
+11290.0,Customer_2290,Abuja,retail
+11291.0,Customer_2291,Abuja,CORPORATE 
+11292.0,Customer_2292,Abuja,retail
+11293.0,Customer_2293,Kano,CORPORATE 
+11294.0,Customer_2294,Lagos,corporate 
+11295.0,Customer_2295,,SME
+,,Ibadan,SME
+11297.0,Customer_2297,Lagos,
+11298.0,Customer_2298,Lagos, CORPORATE 
+11299.0,Customer_2299,Ibadan,RETAIL
+11300.0,Customer_2300,Kano, Retail
+11301.0,Customer_2301,Ibadan,RETAIL
+11302.0,Customer_2302,Abuja, Retail
+11303.0,Customer_2303,Abuja,
+11304.0,Customer_2304,PH,SME
+11305.0,Customer_2305,PH,CORPORATE  
+11306.0,Customer_2306,,corporate 
+11307.0,Customer_2307,Kano,retail 
+11308.0,Customer_2308,Kano,SME 
+11309.0,Customer_2309,Lagos,
+11310.0,Customer_2310,,CORPORATE
+11311.0,Customer_2311,Abuja,CORPORATE
+11312.0,Customer_2312,PH,CORPORATE 
+11313.0,Customer_2313,Lagos,RETAIL
+11314.0,,Lagos,retail
+,,,RETAIL
+11316.0,Customer_2316,PH,RETAIL
+11317.0,Customer_2317,,SME 
+,Customer_2318,Lagos,Corporate 
+11319.0,Customer_2319,Abuja,SME
+11320.0,Customer_2320,Ibadan,
+,Customer_2321,PH,retail 
+11322.0,Customer_2322,Kano,RETAIL
+11323.0,Customer_2323,PH,RETAIL
+11324.0,Customer_2324,Lagos,SME
+11325.0,Customer_2325,PH,retail
+11326.0,Customer_2326,Ibadan,SME 
+,Customer_2327,Ibadan,sme
+11328.0,Customer_2328,Abuja,Corporate 
+11329.0,Customer_2329,,CORPORATE
+11330.0,Customer_2330,Ibadan,retail 
+11331.0,Customer_2331,Abuja,Retail 
+11332.0,Customer_2332,Ibadan,Retail 
+11333.0,Customer_2333,Ibadan, CORPORATE 
+11334.0,Customer_2334,Kano,Retail
+,Customer_2335,Abuja,Retail
+11336.0,Customer_2336,,Retail
+11337.0,Customer_2337,,CORPORATE
+11338.0,Customer_2338,Abuja,retail
+,Customer_2339,, retail
+11340.0,Customer_2340,Kano,Corporate 
+11341.0,Customer_2341,Kano, SME
+11342.0,Customer_2342,Abuja,CORPORATE  
+11343.0,,PH,Corporate 
+11344.0,Customer_2344,Kano,Sme
+11345.0,,Abuja,retail 
+11346.0,Customer_2346,Ibadan,SME 
+11347.0,Customer_2347,Kano,Retail
+11348.0,Customer_2348,Lagos,Corporate 
+11349.0,Customer_2349,PH,Corporate 
+11350.0,Customer_2350,Abuja,Retail 
+11351.0,Customer_2351,,CORPORATE
+11352.0,,Lagos,Retail
+11353.0,,Kano,Corporate 
+11354.0,Customer_2354,Kano,Corporate 
+11355.0,Customer_2355,Lagos,RETAIL
+11356.0,Customer_2356,Kano, retail
+11357.0,Customer_2357,PH,RETAIL
+11358.0,Customer_2358,Abuja, SME
+11359.0,Customer_2359,PH,corporate
+11360.0,Customer_2360,Ibadan,CORPORATE
+11361.0,Customer_2361,Lagos,Corporate 
+,Customer_2362,Kano,Corporate 
+11363.0,Customer_2363,Ibadan,RETAIL
+11364.0,Customer_2364,Lagos,Corporate 
+11365.0,Customer_2365,Ibadan,corporate 
+11366.0,Customer_2366,Ibadan,Corporate 
+11367.0,Customer_2367,Ibadan, SME
+11368.0,Customer_2368,,RETAIL
+,Customer_2369,Kano, CORPORATE 
+11370.0,Customer_2370,Abuja,retail 
+11371.0,Customer_2371,PH, CORPORATE 
+11372.0,,Kano,CORPORATE
+11373.0,,PH,
+11374.0,Customer_2374,Abuja,CORPORATE
+11375.0,Customer_2375,Ibadan,Corporate 
+11376.0,,PH,CORPORATE  
+11377.0,Customer_2377,Kano,CORPORATE 
+11378.0,Customer_2378,Lagos,Corporate 
+11379.0,,Lagos,SME 
+11380.0,Customer_2380,Abuja,CORPORATE 
+11381.0,Customer_2381,Abuja,Retail
+11382.0,,Kano,Corporate 
+11383.0,Customer_2383,PH,sme
+11384.0,Customer_2384,PH,CORPORATE 
+,Customer_2385,Kano, retail
+,,Lagos,retail
+,Customer_2387,Lagos,
+11388.0,Customer_2388,Kano, CORPORATE 
+11389.0,,Ibadan,
+11390.0,Customer_2390,Ibadan,SME
+11391.0,Customer_2391,Ibadan,Sme
+11392.0,,Kano, retail
+11393.0,Customer_2393,Kano,retail 
+11394.0,Customer_2394,Ibadan, SME
+11395.0,Customer_2395,Lagos,SME
+11396.0,Customer_2396,Kano,retail 
+11397.0,Customer_2397,Ibadan,Corporate 
+11398.0,Customer_2398,PH,RETAIL
+11399.0,Customer_2399,PH,SME 
+11400.0,Customer_2400,Kano,
+11401.0,Customer_2401,Ibadan,corporate
+11402.0,Customer_2402,Ibadan,retail
+11403.0,Customer_2403,PH,retail
+11404.0,Customer_2404,PH,Corporate
+11405.0,,Abuja,Corporate 
+11406.0,Customer_2406,Kano, CORPORATE 
+11407.0,Customer_2407,Kano, SME
+11408.0,Customer_2408,Lagos,Retail
+11409.0,,Kano,retail
+11410.0,Customer_2410,,Corporate 
+11411.0,Customer_2411,Abuja,Retail 
+,,Lagos, retail
+11413.0,Customer_2413,,retail
+,Customer_2414,Lagos,RETAIL
+11415.0,Customer_2415,PH,
+11416.0,Customer_2416,Lagos,corporate
+11417.0,Customer_2417,PH,SME
+11418.0,Customer_2418,Lagos,Corporate
+11419.0,Customer_2419,Ibadan,Corporate 
+11420.0,Customer_2420,Ibadan,Corporate
+11421.0,Customer_2421,Lagos,corporate
+11422.0,Customer_2422,Kano,Retail 
+11423.0,Customer_2423,Abuja,Retail
+11424.0,Customer_2424,Abuja,Corporate 
+11425.0,Customer_2425,Lagos,Corporate 
+11426.0,Customer_2426,Kano, Retail
+11427.0,Customer_2427,Ibadan,SME
+11428.0,Customer_2428,Kano,Corporate
+11429.0,Customer_2429,Lagos, retail
+11430.0,Customer_2430,Lagos,Retail 
+11431.0,Customer_2431,Kano,Retail
+11432.0,Customer_2432,Abuja,SME 
+11433.0,Customer_2433,PH,Corporate 
+11434.0,,Ibadan, retail
+11435.0,Customer_2435,, SME
+11436.0,Customer_2436,Abuja,corporate
+11437.0,Customer_2437,Lagos,corporate
+,Customer_2438,Kano,
+,Customer_2439,Lagos,
+,Customer_2440,PH,Corporate 
+11441.0,,,sme
+11442.0,Customer_2442,Kano,CORPORATE
+11443.0,Customer_2443,,RETAIL
+11444.0,Customer_2444,Ibadan,CORPORATE  
+11445.0,Customer_2445,PH,Sme
+11446.0,Customer_2446,Kano,Corporate 
+11447.0,Customer_2447,, retail
+11448.0,Customer_2448,Ibadan,retail
+11449.0,Customer_2449,Lagos,SME 
+11450.0,Customer_2450,Abuja,CORPORATE
+11451.0,Customer_2451,Abuja,Corporate 
+11452.0,Customer_2452,,
+11453.0,Customer_2453,Ibadan,corporate
+11454.0,Customer_2454,Lagos,corporate
+11455.0,Customer_2455,Ibadan,Retail 
+11456.0,Customer_2456,Abuja,retail
+11457.0,Customer_2457,Lagos,corporate 
+11458.0,,Ibadan,retail
+11459.0,Customer_2459,Abuja,RETAIL
+11460.0,Customer_2460,, retail
+11461.0,Customer_2461,Kano,corporate
+11462.0,Customer_2462,Abuja,sme
+11463.0,Customer_2463,Abuja,Corporate 
+11464.0,Customer_2464,Kano, SME
+11465.0,Customer_2465,Ibadan, Corporate
+11466.0,Customer_2466,,Corporate 
+11467.0,Customer_2467,PH,RETAIL
+,Customer_2468,,Retail
+11469.0,Customer_2469,PH, CORPORATE 
+11470.0,Customer_2470,Abuja,CORPORATE  
+11471.0,Customer_2471,Kano,Sme
+11472.0,Customer_2472,PH, Corporate
+11473.0,Customer_2473,Abuja,Retail
+11474.0,Customer_2474,PH,Sme
+,Customer_2475,Ibadan,SME
+11476.0,Customer_2476,Lagos,
+,Customer_2477,PH,Corporate 
+11478.0,Customer_2478,Abuja,SME 
+,Customer_2479,PH,RETAIL
+11480.0,Customer_2480,Kano, retail
+,Customer_2481,PH,Corporate 
+11482.0,Customer_2482,Kano,retail 
+11483.0,Customer_2483,PH,Corporate 
+11484.0,Customer_2484,PH,RETAIL
+11485.0,Customer_2485,Kano,retail
+11486.0,Customer_2486,Ibadan,Retail 
+11487.0,Customer_2487,Kano,Corporate
+11488.0,Customer_2488,,Sme
+11489.0,Customer_2489,PH,SME
+11490.0,Customer_2490,PH, Retail
+11491.0,,Ibadan, Retail
+11492.0,,Lagos,
+11493.0,Customer_2493,,Corporate 
+11494.0,Customer_2494,PH,Retail
+,Customer_2495,Ibadan,Corporate 
+,Customer_2496,Ibadan,retail 
+11497.0,Customer_2497,Kano, SME
+11498.0,Customer_2498,,
+11499.0,Customer_2499,Ibadan, SME
+11500.0,Customer_2500,Kano,
+11501.0,Customer_2501,Ibadan,Corporate 
+11502.0,Customer_2502,Lagos,retail
+11503.0,Customer_2503,Kano,corporate 
+11504.0,Customer_2504,Lagos, CORPORATE 
+11505.0,Customer_2505,PH,retail
+,Customer_2506,Kano,Retail 
+11507.0,Customer_2507,Lagos,
+11508.0,Customer_2508,PH,Corporate 
+11509.0,Customer_2509,PH,Sme
+11510.0,Customer_2510,,Retail 
+11511.0,Customer_2511,, Corporate
+11512.0,Customer_2512,Abuja, CORPORATE 
+11513.0,Customer_2513,Kano, Corporate
+11514.0,Customer_2514,Kano,RETAIL
+11515.0,,,Retail
+11516.0,Customer_2516,, Retail
+11517.0,Customer_2517,Lagos,corporate 
+11518.0,Customer_2518,Lagos,Retail 
+11519.0,Customer_2519,Abuja,Corporate 
+11520.0,Customer_2520,Kano,retail
+11521.0,,Kano, SME
+11522.0,Customer_2522,,Retail 
+11523.0,Customer_2523,Lagos,Corporate 
+11524.0,Customer_2524,PH,
+11525.0,Customer_2525,PH,SME 
+11526.0,Customer_2526,Lagos,CORPORATE
+11527.0,,Lagos,
+,Customer_2528,,corporate 
+11529.0,Customer_2529,Abuja, SME
+11530.0,Customer_2530,PH,Corporate
+11531.0,Customer_2531,Ibadan,corporate 
+11532.0,Customer_2532,Abuja,Retail 
+11533.0,Customer_2533,Lagos,SME
+,Customer_2534,PH,Corporate 
+11535.0,Customer_2535,Kano,Sme
+11536.0,Customer_2536,PH,corporate
+11537.0,Customer_2537,Kano,CORPORATE 
+,Customer_2538,Abuja, Retail
+11539.0,Customer_2539,Kano,Retail
+11540.0,,PH,Retail
+11541.0,,Ibadan,Corporate
+11542.0,Customer_2542,Lagos,Retail
+11543.0,Customer_2543,Lagos,
+11544.0,Customer_2544,Abuja, SME
+,Customer_2545,, CORPORATE 
+11546.0,Customer_2546,PH,Retail 
+11547.0,Customer_2547,PH,SME 
+11548.0,Customer_2548,Kano,Corporate 
+11549.0,Customer_2549,Ibadan, SME
+11550.0,Customer_2550,Kano,CORPORATE  
+11551.0,,Abuja,
+11552.0,Customer_2552,,
+11553.0,Customer_2553,Abuja,corporate
+11554.0,Customer_2554,Lagos,
+11555.0,Customer_2555,Ibadan,RETAIL
+11556.0,Customer_2556,Abuja, Retail
+11557.0,Customer_2557,PH,retail
+11558.0,Customer_2558,Ibadan, SME
+,Customer_2559,Lagos,CORPORATE 
+11560.0,Customer_2560,Abuja,CORPORATE
+,Customer_2561,Kano,SME 
+11562.0,Customer_2562,Abuja, Corporate
+11563.0,Customer_2563,,sme
+,Customer_2564,Abuja,retail
+11565.0,Customer_2565,Lagos,CORPORATE
+11566.0,Customer_2566,Kano,retail
+11567.0,Customer_2567,PH,corporate 
+11568.0,Customer_2568,PH, Retail
+11569.0,Customer_2569,PH,sme
+11570.0,Customer_2570,Ibadan, SME
+11571.0,Customer_2571,PH,
+11572.0,Customer_2572,Kano, SME
+11573.0,Customer_2573,Abuja,Corporate 
+11574.0,Customer_2574,Kano,Retail 
+11575.0,Customer_2575,PH,retail 
+11576.0,Customer_2576,Kano,corporate
+11577.0,,Lagos,corporate 
+11578.0,Customer_2578,Kano,Retail
+11579.0,Customer_2579,Abuja, SME
+11580.0,Customer_2580,PH,retail 
+11581.0,,Ibadan,Retail
+11582.0,Customer_2582,PH,corporate
+11583.0,Customer_2583,Ibadan,RETAIL
+11584.0,Customer_2584,PH,
+11585.0,Customer_2585,Kano, Retail
+11586.0,Customer_2586,Abuja,CORPORATE
+11587.0,Customer_2587,PH,Retail 
+11588.0,Customer_2588,PH,retail
+11589.0,Customer_2589,Ibadan, Corporate
+,Customer_2590,PH, CORPORATE 
+11591.0,Customer_2591,Ibadan,
+11592.0,Customer_2592,Kano,Corporate 
+11593.0,Customer_2593,Kano,
+11594.0,Customer_2594,Abuja, Retail
+11595.0,Customer_2595,Ibadan,
+11596.0,Customer_2596,Lagos,Retail 
+11597.0,,Lagos,Corporate
+11598.0,Customer_2598,,CORPORATE
+11599.0,Customer_2599,Ibadan, CORPORATE 
+11600.0,Customer_2600,Ibadan,corporate 
+11601.0,Customer_2601,Kano,sme
+11602.0,Customer_2602,PH,retail
+11603.0,Customer_2603,Kano,CORPORATE  
+,Customer_2604,Lagos,
+11605.0,Customer_2605,Kano,RETAIL
+11606.0,Customer_2606,,SME 
+11607.0,Customer_2607,Abuja,RETAIL
+11608.0,Customer_2608,Abuja,Corporate
+11609.0,Customer_2609,Abuja,Sme
+11610.0,Customer_2610,Ibadan, retail
+11611.0,Customer_2611,Abuja,CORPORATE  
+11612.0,Customer_2612,Kano,Retail 
+11613.0,Customer_2613,Kano,SME
+11614.0,,PH,corporate 
+11615.0,Customer_2615,Abuja,
+11616.0,Customer_2616,Kano,RETAIL
+11617.0,,PH,CORPORATE 
+11618.0,Customer_2618,PH,Sme
+11619.0,Customer_2619,PH,retail
+11620.0,Customer_2620,Abuja,CORPORATE 
+11621.0,Customer_2621,Lagos,retail
+11622.0,Customer_2622,Abuja, Corporate
+11623.0,Customer_2623,Ibadan,SME 
+11624.0,Customer_2624,Abuja,CORPORATE 
+11625.0,Customer_2625,Kano,retail
+,Customer_2626,Kano,Retail
+11627.0,Customer_2627,Kano, SME
+11628.0,Customer_2628,,corporate
+11629.0,Customer_2629,Abuja,
+11630.0,Customer_2630,PH,
+11631.0,Customer_2631,Lagos,corporate
+11632.0,Customer_2632,Kano,Retail
+11633.0,Customer_2633,Lagos,corporate 
+11634.0,Customer_2634,Lagos,Retail
+11635.0,Customer_2635,Abuja,retail
+11636.0,Customer_2636,Ibadan,Retail
+11637.0,Customer_2637,,
+11638.0,Customer_2638,,CORPORATE
+11639.0,Customer_2639,Ibadan,CORPORATE  
+11640.0,,Ibadan,Retail
+,Customer_2641,PH, SME
+11642.0,Customer_2642,Ibadan,Retail
+11643.0,Customer_2643,, CORPORATE 
+11644.0,Customer_2644,Ibadan,corporate
+11645.0,Customer_2645,Lagos, SME
+,Customer_2646,PH,
+11647.0,Customer_2647,Lagos, Retail
+11648.0,Customer_2648,Lagos,Corporate 
+11649.0,Customer_2649,Ibadan,SME 
+11650.0,Customer_2650,Ibadan,corporate 
+11651.0,Customer_2651,Lagos,RETAIL
+11652.0,Customer_2652,Lagos,CORPORATE  
+11653.0,Customer_2653,Ibadan,CORPORATE
+11654.0,,Abuja,retail
+11655.0,Customer_2655,PH, SME
+,Customer_2656,Ibadan,
+11657.0,Customer_2657,Kano,
+11658.0,Customer_2658,Abuja,
+11659.0,Customer_2659,Kano,Retail 
+11660.0,Customer_2660,Lagos,Sme
+11661.0,Customer_2661,Kano,retail
+11662.0,Customer_2662,Ibadan,retail
+11663.0,,Kano,sme
+11664.0,Customer_2664,PH,CORPORATE  
+11665.0,Customer_2665,Lagos,Retail 
+11666.0,Customer_2666,Lagos,RETAIL
+11667.0,Customer_2667,Lagos,
+11668.0,Customer_2668,Abuja,
+11669.0,Customer_2669,Abuja,sme
+11670.0,Customer_2670,PH, Corporate
+11671.0,Customer_2671,PH,SME
+11672.0,Customer_2672,Abuja,CORPORATE
+11673.0,Customer_2673,Lagos, retail
+11674.0,Customer_2674,Kano,
+11675.0,Customer_2675,Abuja,CORPORATE
+11676.0,,Lagos,
+11677.0,Customer_2677,PH,
+11678.0,Customer_2678,Abuja, retail
+11679.0,Customer_2679,, CORPORATE 
+11680.0,Customer_2680,Abuja,RETAIL
+11681.0,Customer_2681,Lagos,RETAIL
+11682.0,Customer_2682,Abuja,RETAIL
+11683.0,Customer_2683,Abuja, retail
+11684.0,Customer_2684,PH, retail
+11685.0,Customer_2685,PH, SME
+11686.0,Customer_2686,,sme
+11687.0,Customer_2687,,corporate
+11688.0,Customer_2688,Kano,SME
+11689.0,Customer_2689,,Sme
+11690.0,Customer_2690,PH,
+11691.0,Customer_2691,Kano,
+11692.0,Customer_2692,PH,Corporate 
+,Customer_2693,Kano,
+11694.0,Customer_2694,Ibadan,retail
+11695.0,Customer_2695,Ibadan,RETAIL
+11696.0,Customer_2696,Abuja,SME 
+,,PH,
+11698.0,Customer_2698,PH, CORPORATE 
+11699.0,Customer_2699,Lagos,RETAIL
+11700.0,Customer_2700,Lagos,retail 
+11701.0,Customer_2701,Ibadan,Corporate 
+11702.0,Customer_2702,Ibadan,retail
+11703.0,Customer_2703,Kano,Corporate 
+11704.0,Customer_2704,PH,
+11705.0,Customer_2705,Ibadan, Corporate
+11706.0,Customer_2706,PH,Corporate 
+11707.0,,Lagos,Retail
+11708.0,Customer_2708,Kano,Retail
+11709.0,,Abuja,RETAIL
+11710.0,Customer_2710,PH,sme
+11711.0,Customer_2711,Ibadan,CORPORATE
+11712.0,Customer_2712,Abuja,corporate
+11713.0,Customer_2713,,Retail 
+11714.0,Customer_2714,Kano,CORPORATE
+11715.0,,Ibadan,Retail
+11716.0,Customer_2716,Lagos,Corporate 
+,Customer_2717,Abuja, Corporate
+11718.0,Customer_2718,Lagos,corporate
+,Customer_2719,Lagos,retail 
+11720.0,Customer_2720,Ibadan,Corporate 
+11721.0,Customer_2721,PH, Retail
+11722.0,Customer_2722,Ibadan,SME
+11723.0,Customer_2723,Kano,Corporate 
+11724.0,Customer_2724,Ibadan,Retail 
+11725.0,Customer_2725,,Retail
+11726.0,Customer_2726,,
+11727.0,,Lagos, Corporate
+11728.0,Customer_2728,Lagos,corporate
+,Customer_2729,,CORPORATE  
+11730.0,Customer_2730,Ibadan, Corporate
+11731.0,Customer_2731,Lagos,SME 
+11732.0,Customer_2732,,Corporate
+11733.0,Customer_2733,Ibadan,Retail
+11734.0,Customer_2734,,CORPORATE  
+11735.0,Customer_2735,,
+,Customer_2736,Kano,CORPORATE  
+11737.0,Customer_2737,,RETAIL
+11738.0,Customer_2738,Lagos,Sme
+11739.0,Customer_2739,PH,corporate 
+11740.0,Customer_2740,Abuja,Corporate
+11741.0,,,Sme
+11742.0,Customer_2742,Ibadan,Sme
+11743.0,Customer_2743,PH,CORPORATE  
+11744.0,Customer_2744,Abuja,
+11745.0,Customer_2745,Abuja,Corporate
+,Customer_2746,Lagos,CORPORATE
+11747.0,Customer_2747,Kano,Corporate 
+11748.0,,Lagos,
+11749.0,Customer_2749,Ibadan,retail
+11750.0,Customer_2750,,CORPORATE  
+11751.0,Customer_2751,Ibadan,Retail 
+11752.0,Customer_2752,Abuja,Retail 
+11753.0,Customer_2753,Kano,corporate
+11754.0,Customer_2754,Lagos, Retail
+,Customer_2755,Kano,RETAIL
+11756.0,Customer_2756,,
+11757.0,Customer_2757,Kano,RETAIL
+11758.0,Customer_2758,Lagos,Sme
+11759.0,Customer_2759,Ibadan,CORPORATE 
+11760.0,Customer_2760,,CORPORATE
+11761.0,Customer_2761,Abuja,Retail
+11762.0,Customer_2762,PH,RETAIL
+,,, Corporate
+11764.0,,PH, SME
+11765.0,Customer_2765,Abuja,sme
+11766.0,Customer_2766,PH, CORPORATE 
+,Customer_2767,Kano,
+11768.0,Customer_2768,PH,retail
+,Customer_2769,, Corporate
+11770.0,Customer_2770,Ibadan, SME
+11771.0,Customer_2771,PH, Corporate
+11772.0,Customer_2772,Lagos,Retail
+11773.0,Customer_2773,Abuja,sme
+11774.0,Customer_2774,Abuja,CORPORATE 
+11775.0,Customer_2775,Kano,retail 
+,Customer_2776,Kano,
+11777.0,Customer_2777,Lagos,CORPORATE  
+11778.0,Customer_2778,,Corporate 
+11779.0,Customer_2779,PH,Corporate 
+11780.0,Customer_2780,, Retail
+11781.0,Customer_2781,Ibadan,CORPORATE
+11782.0,Customer_2782,PH, CORPORATE 
+11783.0,Customer_2783,Abuja, SME
+11784.0,Customer_2784,Lagos,SME 
+11785.0,Customer_2785,Lagos,retail
+11786.0,Customer_2786,Abuja,CORPORATE 
+11787.0,Customer_2787,Abuja, Corporate
+11788.0,,Kano, SME
+,Customer_2789,Lagos,CORPORATE  
+11790.0,Customer_2790,Lagos,Corporate 
+,Customer_2791,,Retail
+11792.0,Customer_2792,Kano,CORPORATE 
+,,Abuja,Retail
+11794.0,Customer_2794,Kano,corporate 
+11795.0,Customer_2795,Kano,sme
+11796.0,Customer_2796,Kano,Sme
+11797.0,,Lagos,RETAIL
+11798.0,Customer_2798,Ibadan, retail
+11799.0,Customer_2799,Lagos,CORPORATE
+11800.0,Customer_2800,Lagos,RETAIL
+11801.0,Customer_2801,Ibadan,Corporate 
+11802.0,Customer_2802,,Corporate 
+11803.0,Customer_2803,Abuja,Corporate 
+11804.0,Customer_2804,Lagos,Retail
+11805.0,,Abuja,retail
+11806.0,Customer_2806,Lagos,CORPORATE 
+11807.0,Customer_2807,Ibadan,corporate
+11808.0,Customer_2808,PH,retail
+11809.0,Customer_2809,PH,Retail 
+11810.0,Customer_2810,PH,Retail
+11811.0,Customer_2811,,sme
+11812.0,Customer_2812,,RETAIL
+11813.0,Customer_2813,Abuja,Retail
+11814.0,Customer_2814,Ibadan, Retail
+11815.0,Customer_2815,Ibadan,Retail
+11816.0,Customer_2816,Lagos,Sme
+,Customer_2817,Abuja,corporate 
+11818.0,Customer_2818,PH,CORPORATE
+11819.0,Customer_2819,Kano,CORPORATE
+11820.0,Customer_2820,Lagos,
+,Customer_2821,Abuja, CORPORATE 
+11822.0,Customer_2822,PH,Corporate 
+,Customer_2823,PH,retail
+,Customer_2824,PH,SME
+11825.0,Customer_2825,Ibadan,Retail
+,Customer_2826,PH,
+11827.0,Customer_2827,Ibadan,Retail
+11828.0,Customer_2828,Abuja,CORPORATE
+11829.0,Customer_2829,PH,Retail
+,Customer_2830,Ibadan,corporate
+11831.0,Customer_2831,Kano, Corporate
+11832.0,Customer_2832,PH,corporate
+11833.0,Customer_2833,Kano, SME
+11834.0,Customer_2834,Lagos,retail
+11835.0,Customer_2835,,Retail 
+11836.0,Customer_2836,Ibadan,Sme
+,Customer_2837,Abuja, Retail
+11838.0,Customer_2838,Ibadan,retail
+11839.0,Customer_2839,PH,Corporate 
+11840.0,,Abuja,Corporate
+11841.0,Customer_2841,Lagos, CORPORATE 
+11842.0,Customer_2842,Lagos,retail
+11843.0,,Abuja,Corporate 
+11844.0,Customer_2844,Abuja,Corporate
+11845.0,Customer_2845,Ibadan,Retail 
+11846.0,Customer_2846,Kano,
+11847.0,Customer_2847,Kano, CORPORATE 
+11848.0,Customer_2848,Abuja, CORPORATE 
+11849.0,Customer_2849,Kano,SME
+11850.0,Customer_2850,Lagos,Retail
+11851.0,Customer_2851,Abuja, Corporate
+11852.0,Customer_2852,PH,Retail
+,Customer_2853,,CORPORATE
+11854.0,Customer_2854,Abuja, Retail
+,,Ibadan,Corporate 
+11856.0,Customer_2856,Lagos,Corporate 
+11857.0,Customer_2857,,Corporate
+,Customer_2858,Lagos,corporate 
+11859.0,,Ibadan, Corporate
+11860.0,Customer_2860,Ibadan,corporate 
+11861.0,Customer_2861,PH,Retail
+11862.0,Customer_2862,Lagos,Retail
+11863.0,,Lagos,retail 
+11864.0,Customer_2864,PH,Retail 
+11865.0,,PH,Retail
+11866.0,Customer_2866,Kano,RETAIL
+11867.0,,Kano,RETAIL
+11868.0,Customer_2868,Abuja, SME
+11869.0,Customer_2869,Lagos,
+11870.0,Customer_2870,PH,SME
+11871.0,Customer_2871,PH,retail
+11872.0,Customer_2872,Ibadan,SME 
+11873.0,Customer_2873,Ibadan, Corporate
+,Customer_2874,Kano,CORPORATE 
+11875.0,Customer_2875,Ibadan,SME
+11876.0,,Abuja,RETAIL
+11877.0,Customer_2877,Ibadan,Retail 
+11878.0,Customer_2878,Ibadan,retail
+11879.0,Customer_2879,Lagos, retail
+11880.0,Customer_2880,Abuja,
+11881.0,Customer_2881,Ibadan,Corporate
+11882.0,,Ibadan,retail
+,Customer_2883,PH,Corporate
+11884.0,Customer_2884,Kano,Corporate 
+,Customer_2885,Lagos,RETAIL
+11886.0,Customer_2886,PH,
+11887.0,Customer_2887,PH, CORPORATE 
+11888.0,Customer_2888,Ibadan,
+,Customer_2889,Lagos, Retail
+11890.0,Customer_2890,PH,retail
+11891.0,Customer_2891,Ibadan,retail 
+11892.0,Customer_2892,Ibadan,CORPORATE 
+11893.0,Customer_2893,Abuja,
+,Customer_2894,Lagos,
+11895.0,Customer_2895,Kano,corporate
+11896.0,,Ibadan,CORPORATE
+11897.0,Customer_2897,Ibadan,retail
+11898.0,Customer_2898,PH,corporate 
+11899.0,Customer_2899,Lagos, retail
+11900.0,Customer_2900,PH,Sme
+11901.0,Customer_2901,Kano, retail
+11902.0,Customer_2902,Abuja,retail
+11903.0,Customer_2903,Abuja,
+11904.0,Customer_2904,Ibadan,Sme
+,Customer_2905,Ibadan,sme
+,Customer_2906,PH,SME
+11907.0,Customer_2907,Ibadan,Retail 
+11908.0,Customer_2908,Kano,Corporate 
+11909.0,,Lagos,retail
+11910.0,Customer_2910,Kano,retail
+11911.0,Customer_2911,Lagos,sme
+11912.0,Customer_2912,,CORPORATE
+11913.0,Customer_2913,Ibadan,Retail 
+11914.0,Customer_2914,Kano,SME 
+11915.0,Customer_2915,,retail 
+11916.0,Customer_2916,Lagos,Retail 
+11917.0,Customer_2917,Kano,Retail 
+11918.0,Customer_2918,PH,CORPORATE
+,Customer_2919,Ibadan, SME
+11920.0,Customer_2920,Abuja,corporate
+11921.0,Customer_2921,Ibadan,RETAIL
+11922.0,Customer_2922,Abuja,RETAIL
+11923.0,Customer_2923,Lagos, Corporate
+11924.0,Customer_2924,,CORPORATE 
+11925.0,Customer_2925,Kano,RETAIL
+11926.0,Customer_2926,Abuja,Corporate 
+11927.0,,Kano,SME 
+11928.0,Customer_2928,Ibadan,RETAIL
+11929.0,Customer_2929,Lagos,Corporate 
+11930.0,Customer_2930,,CORPORATE
+,Customer_2931,Abuja,sme
+11932.0,Customer_2932,Kano,
+11933.0,Customer_2933,PH, SME
+11934.0,Customer_2934,, CORPORATE 
+11935.0,Customer_2935,PH,RETAIL
+11936.0,Customer_2936,, retail
+11937.0,Customer_2937,Abuja,CORPORATE
+11938.0,Customer_2938,PH,retail 
+11939.0,Customer_2939,Lagos,
+11940.0,Customer_2940,Abuja, CORPORATE 
+11941.0,,Abuja,CORPORATE 
+11942.0,,Ibadan, CORPORATE 
+11943.0,Customer_2943,Abuja,RETAIL
+11944.0,Customer_2944,Abuja,SME
+11945.0,Customer_2945,Kano,Corporate
+11946.0,Customer_2946,Kano,CORPORATE 
+11947.0,,Kano, retail
+11948.0,Customer_2948,PH, SME
+11949.0,Customer_2949,Lagos, SME
+11950.0,Customer_2950,PH,Retail
+11951.0,Customer_2951,Kano,corporate
+11952.0,Customer_2952,Ibadan,Sme
+,Customer_2953,Abuja,SME
+11954.0,Customer_2954,,sme
+11955.0,Customer_2955,PH, retail
+11956.0,Customer_2956,Ibadan,CORPORATE  
+11957.0,Customer_2957,Kano,RETAIL
+11958.0,Customer_2958,Kano,Retail
+11959.0,Customer_2959,Kano,
+11960.0,Customer_2960,PH,CORPORATE 
+,Customer_2961,PH,CORPORATE  
+11962.0,Customer_2962,Ibadan,corporate
+11963.0,Customer_2963,,
+11964.0,Customer_2964,PH,sme
+,Customer_2965,PH, CORPORATE 
+11966.0,Customer_2966,,corporate 
+11967.0,Customer_2967,,Corporate
+11968.0,Customer_2968,Kano,corporate 
+11969.0,Customer_2969,Abuja,
+11970.0,Customer_2970,Kano,Retail
+11971.0,Customer_2971,Lagos,corporate 
+11972.0,,Ibadan,CORPORATE  
+11973.0,Customer_2973,PH,Corporate 
+11974.0,,Lagos,retail 
+11975.0,Customer_2975,Ibadan,
+11976.0,Customer_2976,Kano,CORPORATE 
+11977.0,Customer_2977,,Retail 
+11978.0,Customer_2978,Lagos,Corporate
+,Customer_2979,Ibadan, SME
+11980.0,Customer_2980,Abuja,sme
+11981.0,Customer_2981,Abuja,CORPORATE
+11982.0,Customer_2982,PH,Sme
+11983.0,Customer_2983,Ibadan, Retail
+11984.0,,Abuja,Corporate 
+,,Lagos, Retail
+11986.0,,,RETAIL
+11987.0,Customer_2987,PH,retail
+11988.0,Customer_2988,Abuja, CORPORATE 
+,Customer_2989,Ibadan,RETAIL
+11990.0,Customer_2990,Ibadan,sme
+11991.0,Customer_2991,Lagos,corporate 
+11992.0,Customer_2992,PH, Retail
+11993.0,,Lagos,SME
+11994.0,Customer_2994,Ibadan,retail
+11995.0,Customer_2995,Ibadan,Retail
+11996.0,Customer_2996,Kano,retail
+11997.0,Customer_2997,PH,Corporate 
+11998.0,Customer_2998,PH,retail
+11999.0,Customer_2999,Abuja,SME 
+12000.0,Customer_3000,Kano,retail
+12001.0,Customer_3001,Ibadan,Retail
+12002.0,Customer_3002,Ibadan,Corporate
+12003.0,Customer_3003,Ibadan,
+12004.0,Customer_3004,Abuja,RETAIL
+12005.0,,Abuja,SME
+12006.0,Customer_3006,PH,CORPORATE
+12007.0,Customer_3007,Kano,CORPORATE 
+12008.0,Customer_3008,Ibadan,RETAIL
+12009.0,Customer_3009,Lagos,Retail
+12010.0,Customer_3010,Abuja,CORPORATE
+12011.0,Customer_3011,Ibadan,CORPORATE
+12012.0,Customer_3012,Lagos,retail 
+,Customer_3013,Abuja,
+12014.0,Customer_3014,Kano,Retail
+12015.0,,Ibadan,
+12016.0,Customer_3016,Ibadan,Corporate 
+12017.0,Customer_3017,PH, SME
+12018.0,Customer_3018,Ibadan,RETAIL
+12019.0,Customer_3019,Kano,
+12020.0,Customer_3020,Kano,sme
+,Customer_3021,Lagos,CORPORATE  
+12022.0,Customer_3022,Lagos,retail 
+12023.0,Customer_3023,Lagos,
+12024.0,Customer_3024,,retail 
+12025.0,Customer_3025,Ibadan, retail
+12026.0,Customer_3026,Abuja, retail
+12027.0,Customer_3027,Lagos,retail
+12028.0,Customer_3028,Lagos, SME
+12029.0,Customer_3029,PH,RETAIL
+12030.0,Customer_3030,Abuja,retail
+12031.0,,PH,corporate
+12032.0,Customer_3032,Kano,sme
+12033.0,Customer_3033,Kano, retail
+12034.0,Customer_3034,Lagos,CORPORATE 
+12035.0,Customer_3035,Lagos,Retail 
+12036.0,Customer_3036,PH, CORPORATE 
+,Customer_3037,Ibadan,RETAIL
+12038.0,Customer_3038,Lagos,
+12039.0,Customer_3039,PH,Retail
+12040.0,Customer_3040,Abuja,Retail
+12041.0,Customer_3041,,sme
+,Customer_3042,, SME
+12043.0,Customer_3043,Lagos, CORPORATE 
+12044.0,Customer_3044,Lagos,Corporate 
+12045.0,,Ibadan,Sme
+12046.0,Customer_3046,PH,
+,Customer_3047,Ibadan,Sme
+12048.0,Customer_3048,PH,SME 
+12049.0,Customer_3049,Lagos,Corporate 
+12050.0,Customer_3050,Lagos,CORPORATE  
+12051.0,Customer_3051,Kano,CORPORATE
+12052.0,Customer_3052,Ibadan,retail 
+,Customer_3053,Lagos,SME 
+12054.0,Customer_3054,Abuja,Corporate 
+12055.0,Customer_3055,Kano,retail 
+12056.0,,Lagos,
+12057.0,Customer_3057,Kano,corporate 
+12058.0,Customer_3058,PH,Corporate
+12059.0,Customer_3059,PH,Sme
+12060.0,Customer_3060,Ibadan,retail 
+12061.0,Customer_3061,Abuja,Sme
+12062.0,Customer_3062,Ibadan,Sme
+12063.0,Customer_3063,Lagos, SME
+,Customer_3064,Kano,SME 
+,Customer_3065,Kano,Corporate
+12066.0,Customer_3066,Abuja,RETAIL
+,Customer_3067,PH, SME
+12068.0,Customer_3068,PH,SME
+,,Lagos,Retail
+12070.0,Customer_3070,,Retail
+12071.0,Customer_3071,Ibadan,SME
+,Customer_3072,Ibadan, SME
+12073.0,Customer_3073,Kano,CORPORATE
+,Customer_3074,Lagos,retail
+12075.0,Customer_3075,Lagos,RETAIL
+12076.0,Customer_3076,Ibadan, retail
+12077.0,Customer_3077,,CORPORATE
+12078.0,Customer_3078,Abuja,CORPORATE 
+12079.0,Customer_3079,Abuja,
+12080.0,Customer_3080,,SME
+12081.0,Customer_3081,Abuja,Corporate 
+12082.0,,Abuja,Sme
+12083.0,,PH,corporate
+12084.0,Customer_3084,Abuja,RETAIL
+12085.0,,Abuja,corporate
+12086.0,,Kano,SME 
+12087.0,Customer_3087,,Corporate 
+,Customer_3088,Ibadan,CORPORATE
+12089.0,Customer_3089,Lagos,Retail
+12090.0,Customer_3090,Kano,retail 
+12091.0,Customer_3091,Kano,retail
+12092.0,Customer_3092,Kano,CORPORATE  
+12093.0,Customer_3093,Abuja, SME
+12094.0,,Ibadan,retail
+12095.0,Customer_3095,Kano,RETAIL
+12096.0,,Abuja,sme
+12097.0,Customer_3097,Abuja,CORPORATE 
+12098.0,Customer_3098,Kano,CORPORATE 
+12099.0,Customer_3099,Ibadan,SME 
+12100.0,,Abuja, Corporate
+12101.0,Customer_3101,PH,retail 
+12102.0,Customer_3102,Kano,
+12103.0,,Lagos, retail
+12104.0,Customer_3104,,corporate 
+12105.0,Customer_3105,Lagos,corporate 
+12106.0,Customer_3106,Lagos,Sme
+12107.0,Customer_3107,Kano,sme
+,Customer_3108,Lagos,CORPORATE
+12109.0,Customer_3109,PH,Corporate
+12110.0,Customer_3110,Abuja,RETAIL
+12111.0,Customer_3111,,corporate
+12112.0,Customer_3112,Ibadan,Corporate
+12113.0,Customer_3113,Ibadan,sme
+12114.0,Customer_3114,Lagos,Corporate
+12115.0,Customer_3115,Kano,RETAIL
+12116.0,Customer_3116,Kano,CORPORATE 
+,Customer_3117,Kano,Corporate 
+12118.0,Customer_3118,PH,Sme
+12119.0,Customer_3119,Lagos,SME 
+12120.0,Customer_3120,Abuja,corporate 
+12121.0,Customer_3121,, CORPORATE 
+12122.0,Customer_3122,Abuja,CORPORATE  
+12123.0,Customer_3123,Abuja,
+12124.0,Customer_3124,PH,Corporate 
+12125.0,Customer_3125,,Corporate
+12126.0,Customer_3126,,RETAIL
+12127.0,Customer_3127,PH,Retail
+12128.0,Customer_3128,Ibadan, Retail
+12129.0,Customer_3129,Abuja,CORPORATE  
+12130.0,Customer_3130,Ibadan,retail 
+12131.0,,Ibadan,CORPORATE 
+12132.0,Customer_3132,PH, Corporate
+12133.0,Customer_3133,Ibadan,CORPORATE  
+12134.0,Customer_3134,PH,corporate 
+12135.0,Customer_3135,Lagos,Retail
+12136.0,,Lagos,Retail
+12137.0,Customer_3137,Lagos,Retail
+12138.0,Customer_3138,PH,CORPORATE  
+12139.0,Customer_3139,Lagos,Retail 
+12140.0,Customer_3140,Ibadan,sme
+12141.0,Customer_3141,Lagos,RETAIL
+12142.0,Customer_3142,Kano,retail 
+12143.0,Customer_3143,PH,corporate 
+12144.0,Customer_3144,Lagos,Corporate 
+12145.0,Customer_3145,Kano, retail
+12146.0,Customer_3146,Kano,corporate 
+12147.0,Customer_3147,Kano,retail
+12148.0,Customer_3148,Kano, retail
+12149.0,Customer_3149,PH,SME
+12150.0,Customer_3150,Kano,CORPORATE
+12151.0,,Abuja,CORPORATE
+,Customer_3152,Kano,CORPORATE  
+12153.0,Customer_3153,Lagos, SME
+12154.0,Customer_3154,PH,
+12155.0,Customer_3155,Abuja,corporate
+12156.0,Customer_3156,Kano, retail
+12157.0,Customer_3157,Lagos,SME 
+12158.0,,,Corporate 
+12159.0,Customer_3159,Ibadan,SME 
+12160.0,Customer_3160,Kano, Corporate
+12161.0,Customer_3161,PH,CORPORATE  
+12162.0,Customer_3162,PH,SME 
+12163.0,Customer_3163,Abuja,corporate
+12164.0,,Lagos, Retail
+12165.0,Customer_3165,PH, retail
+12166.0,Customer_3166,Ibadan,Corporate
+12167.0,Customer_3167,Abuja,Corporate 
+12168.0,Customer_3168,Lagos,
+12169.0,Customer_3169,Kano,sme
+12170.0,Customer_3170,Ibadan, Retail
+12171.0,Customer_3171,Ibadan,Sme
+,Customer_3172,Ibadan, retail
+12173.0,Customer_3173,Lagos, retail
+12174.0,Customer_3174,Abuja, SME
+,Customer_3175,PH,retail
+12176.0,Customer_3176,PH,Corporate 
+12177.0,,Abuja,Corporate 
+12178.0,Customer_3178,,CORPORATE
+12179.0,Customer_3179,Kano,
+12180.0,Customer_3180,Kano,RETAIL
+12181.0,Customer_3181,Ibadan,CORPORATE
+12182.0,Customer_3182,,
+12183.0,Customer_3183,Kano,RETAIL
+12184.0,Customer_3184,Abuja,CORPORATE
+12185.0,,, CORPORATE 
+12186.0,Customer_3186,PH,CORPORATE  
+12187.0,Customer_3187,, Corporate
+12188.0,,Lagos,SME
+12189.0,Customer_3189,Kano,
+,Customer_3190,Kano, retail
+12191.0,Customer_3191,Kano,CORPORATE
+,Customer_3192,,retail 
+12193.0,Customer_3193,Kano, CORPORATE 
+12194.0,Customer_3194,Kano,Retail
+12195.0,Customer_3195,PH, Corporate
+12196.0,,Abuja,CORPORATE
+12197.0,Customer_3197,Lagos, retail
+12198.0,Customer_3198,Kano,CORPORATE 
+12199.0,Customer_3199,Abuja,CORPORATE
+12200.0,Customer_3200,Lagos,SME 
+12201.0,Customer_3201,PH, retail
+12202.0,Customer_3202,Lagos,CORPORATE 
+,Customer_3203,Ibadan,RETAIL
+12204.0,Customer_3204,Abuja,Retail
+12205.0,Customer_3205,, SME
+12206.0,Customer_3206,Abuja,sme
+12207.0,Customer_3207,Lagos,RETAIL
+12208.0,Customer_3208,Ibadan,Corporate 
+12209.0,Customer_3209,Ibadan,Corporate
+12210.0,Customer_3210,Ibadan,SME 
+12211.0,Customer_3211,PH,SME 
+12212.0,Customer_3212,Ibadan,
+12213.0,Customer_3213,Kano,corporate
+12214.0,Customer_3214,PH, Retail
+12215.0,Customer_3215,Kano,Corporate 
+12216.0,Customer_3216,Lagos,corporate 
+12217.0,Customer_3217,Lagos,Corporate 
+12218.0,Customer_3218,Lagos,
+,Customer_3219,PH, retail
+12220.0,Customer_3220,Abuja,CORPORATE  
+12221.0,Customer_3221,Lagos,
+12222.0,Customer_3222,Abuja,Corporate 
+12223.0,Customer_3223,PH,RETAIL
+12224.0,Customer_3224,Lagos,retail 
+12225.0,Customer_3225,Abuja,Retail 
+12226.0,Customer_3226,Abuja,Corporate 
+12227.0,Customer_3227,Lagos,retail
+12228.0,Customer_3228,Kano,retail
+12229.0,Customer_3229,Abuja,
+12230.0,Customer_3230,Kano,corporate
+12231.0,Customer_3231,Ibadan, SME
+12232.0,Customer_3232,,SME 
+12233.0,Customer_3233,PH, Retail
+12234.0,Customer_3234,Ibadan,retail 
+12235.0,Customer_3235,,SME 
+12236.0,Customer_3236,Kano,Corporate
+12237.0,,,Corporate 
+12238.0,Customer_3238,Ibadan,Corporate
+12239.0,,Lagos,CORPORATE  
+12240.0,Customer_3240,Kano,retail
+12241.0,Customer_3241,PH,CORPORATE  
+,Customer_3242,,CORPORATE 
+12243.0,Customer_3243,Lagos,Sme
+12244.0,Customer_3244,PH,Sme
+12245.0,Customer_3245,Lagos,RETAIL
+12246.0,,PH, retail
+12247.0,Customer_3247,Lagos,Retail 
+12248.0,,Ibadan,CORPORATE  
+12249.0,Customer_3249,Lagos,SME 
+12250.0,Customer_3250,,RETAIL
+12251.0,Customer_3251,Ibadan,
+12252.0,Customer_3252,Ibadan, SME
+12253.0,Customer_3253,Abuja, CORPORATE 
+,Customer_3254,Abuja,
+12255.0,Customer_3255,Abuja,
+,Customer_3256,Abuja,corporate 
+12257.0,Customer_3257,Lagos,SME
+12258.0,,Ibadan,
+,Customer_3259,Kano,SME
+12260.0,Customer_3260,Lagos,RETAIL
+12261.0,Customer_3261,Kano, SME
+12262.0,Customer_3262,PH, Retail
+12263.0,,Lagos,Retail
+12264.0,Customer_3264,Kano,Corporate 
+12265.0,Customer_3265,PH, CORPORATE 
+12266.0,Customer_3266,Kano,Corporate
+12267.0,Customer_3267,Ibadan,Corporate
+,Customer_3268,Abuja,SME 
+12269.0,Customer_3269,Abuja,CORPORATE  
+12270.0,,Abuja,
+12271.0,Customer_3271,Ibadan, retail
+12272.0,Customer_3272,Lagos,
+12273.0,Customer_3273,, SME
+12274.0,Customer_3274,Lagos,RETAIL
+12275.0,Customer_3275,Kano,Sme
+12276.0,,Lagos,
+12277.0,Customer_3277,PH,CORPORATE 
+12278.0,Customer_3278,PH,CORPORATE  
+12279.0,Customer_3279,Ibadan,
+12280.0,Customer_3280,PH,Retail 
+12281.0,,Lagos,Sme
+12282.0,Customer_3282,Abuja, SME
+12283.0,Customer_3283,Lagos,SME
+12284.0,Customer_3284,Kano,retail 
+12285.0,Customer_3285,Lagos, Retail
+12286.0,Customer_3286,Abuja,Retail
+12287.0,Customer_3287,Kano,SME
+,Customer_3288,Abuja,retail
+12289.0,Customer_3289,PH,retail 
+,,Lagos,retail
+,,,RETAIL
+12292.0,Customer_3292,Ibadan,SME
+12293.0,,, Retail
+12294.0,Customer_3294,,corporate
+12295.0,Customer_3295,Ibadan,RETAIL
+12296.0,,,Retail
+12297.0,Customer_3297,Kano,CORPORATE  
+12298.0,Customer_3298,Lagos,retail
+,Customer_3299,,corporate 
+,Customer_3300,Ibadan,CORPORATE
+12301.0,Customer_3301,Ibadan,Corporate 
+12302.0,Customer_3302,Kano,SME 
+12303.0,Customer_3303,Lagos, SME
+12304.0,Customer_3304,Lagos,Retail
+12305.0,Customer_3305,Abuja,retail 
+12306.0,Customer_3306,Lagos, Retail
+12307.0,Customer_3307,PH,sme
+12308.0,Customer_3308,Lagos,
+,Customer_3309,Abuja,RETAIL
+12310.0,Customer_3310,PH,retail
+12311.0,Customer_3311,Ibadan, SME
+,Customer_3312,Abuja,RETAIL
+12313.0,Customer_3313,Ibadan,Corporate 
+12314.0,Customer_3314,Lagos,retail 
+12315.0,,,retail 
+12316.0,Customer_3316,Ibadan,corporate 
+12317.0,Customer_3317,Abuja,CORPORATE  
+12318.0,Customer_3318,Lagos,retail
+,Customer_3319,Abuja,Corporate
+12320.0,Customer_3320,Abuja, SME
+12321.0,,Abuja, Corporate
+12322.0,Customer_3322,Ibadan,retail
+12323.0,,Ibadan,Sme
+12324.0,Customer_3324,PH,Retail 
+12325.0,Customer_3325,Ibadan, Retail
+12326.0,Customer_3326,Lagos,Corporate
+12327.0,Customer_3327,Abuja, SME
+12328.0,Customer_3328,Abuja,SME
+12329.0,Customer_3329,Abuja,sme
+,Customer_3330,, Retail
+,Customer_3331,Lagos, SME
+12332.0,Customer_3332,Lagos,CORPORATE  
+,Customer_3333,,Corporate 
+,Customer_3334,Ibadan,corporate
+12335.0,Customer_3335,Kano,Corporate 
+12336.0,Customer_3336,Kano,SME 
+12337.0,,,RETAIL
+12338.0,Customer_3338,Kano,CORPORATE
+12339.0,Customer_3339,Ibadan,Corporate 
+12340.0,Customer_3340,Abuja,sme
+12341.0,,Lagos,SME 
+12342.0,Customer_3342,Ibadan,corporate 
+12343.0,Customer_3343,Abuja,Retail
+12344.0,Customer_3344,Lagos,corporate 
+12345.0,Customer_3345,,Retail
+,Customer_3346,PH,
+12347.0,Customer_3347,Kano,corporate
+12348.0,Customer_3348,Lagos,Retail 
+12349.0,Customer_3349,Abuja, Corporate
+12350.0,Customer_3350,Kano, Corporate
+12351.0,Customer_3351,Lagos,Retail
+12352.0,Customer_3352,,retail 
+12353.0,Customer_3353,Ibadan,corporate 
+12354.0,Customer_3354,Abuja,SME
+12355.0,Customer_3355,Ibadan,Corporate 
+12356.0,Customer_3356,Kano, SME
+12357.0,Customer_3357,Abuja,
+,Customer_3358,Ibadan,
+12359.0,Customer_3359,PH, CORPORATE 
+12360.0,,Lagos,retail
+12361.0,Customer_3361,Lagos, Corporate
+12362.0,Customer_3362,Kano,Corporate
+12363.0,Customer_3363,PH,Retail 
+12364.0,,Ibadan,Retail 
+12365.0,Customer_3365,PH,CORPORATE 
+,Customer_3366,PH,retail
+12367.0,Customer_3367,Kano,Sme
+12368.0,Customer_3368,Ibadan,CORPORATE
+12369.0,Customer_3369,Lagos,Corporate 
+12370.0,Customer_3370,Abuja,SME 
+12371.0,Customer_3371,Ibadan,CORPORATE
+12372.0,Customer_3372,PH,Retail
+12373.0,Customer_3373,Kano,
+12374.0,,Kano,
+12375.0,Customer_3375,Lagos, CORPORATE 
+12376.0,Customer_3376,Ibadan,RETAIL
+12377.0,Customer_3377,Abuja,CORPORATE  
+12378.0,Customer_3378,PH,CORPORATE 
+12379.0,Customer_3379,PH,sme
+12380.0,Customer_3380,Abuja, SME
+12381.0,Customer_3381,Ibadan,Corporate 
+12382.0,Customer_3382,Abuja,Corporate
+12383.0,Customer_3383,Lagos,
+12384.0,Customer_3384,Lagos,retail
+12385.0,Customer_3385,PH,Corporate
+12386.0,Customer_3386,PH,Corporate
+,Customer_3387,, retail
+12388.0,Customer_3388,Ibadan, CORPORATE 
+12389.0,Customer_3389,Abuja,Corporate 
+12390.0,Customer_3390,, CORPORATE 
+12391.0,Customer_3391,Ibadan, CORPORATE 
+12392.0,Customer_3392,Kano,RETAIL
+12393.0,Customer_3393,PH,Retail
+12394.0,Customer_3394,PH,Retail
+12395.0,Customer_3395,PH,CORPORATE
+12396.0,Customer_3396,Lagos, Corporate
+12397.0,Customer_3397,PH,Retail 
+12398.0,,Ibadan,
+,Customer_3399,Ibadan,Retail 
+,,Ibadan,RETAIL
+12401.0,Customer_3401,Kano,retail 
+12402.0,Customer_3402,Abuja,corporate 
+12403.0,Customer_3403,Ibadan, SME
+12404.0,Customer_3404,Abuja, SME
+12405.0,,Abuja,Retail
+12406.0,,Lagos,corporate 
+12407.0,Customer_3407,PH,corporate
+12408.0,Customer_3408,PH, CORPORATE 
+12409.0,Customer_3409,Abuja,Retail
+12410.0,Customer_3410,Ibadan,CORPORATE
+12411.0,Customer_3411,Ibadan,
+12412.0,Customer_3412,PH,Sme
+12413.0,,Kano,retail 
+,Customer_3414,Lagos, Corporate
+12415.0,Customer_3415,Kano,
+12416.0,Customer_3416,Kano,Corporate
+12417.0,,Abuja,CORPORATE  
+12418.0,Customer_3418,PH,CORPORATE  
+12419.0,Customer_3419,, Corporate
+12420.0,Customer_3420,,corporate 
+12421.0,Customer_3421,Abuja,retail
+12422.0,Customer_3422,Ibadan,
+12423.0,Customer_3423,Abuja,retail
+12424.0,Customer_3424,Kano,
+12425.0,Customer_3425,Lagos,corporate 
+12426.0,Customer_3426,Lagos,RETAIL
+12427.0,Customer_3427,PH,RETAIL
+12428.0,Customer_3428,Kano,Retail
+12429.0,Customer_3429,Abuja,CORPORATE 
+12430.0,Customer_3430,Kano,corporate
+12431.0,Customer_3431,Abuja,Corporate
+12432.0,Customer_3432,Abuja,CORPORATE
+12433.0,Customer_3433,PH,retail
+12434.0,Customer_3434,Ibadan,SME
+12435.0,Customer_3435,Ibadan,
+12436.0,Customer_3436,Abuja,Corporate 
+12437.0,Customer_3437,,RETAIL
+12438.0,,Ibadan,RETAIL
+12439.0,Customer_3439,Kano,Sme
+12440.0,Customer_3440,Abuja,RETAIL
+12441.0,,Abuja, Retail
+12442.0,Customer_3442,,CORPORATE  
+12443.0,Customer_3443,Ibadan,Sme
+12444.0,Customer_3444,Abuja,retail
+12445.0,Customer_3445,Ibadan,corporate
+12446.0,Customer_3446,Ibadan,RETAIL
+12447.0,Customer_3447,Ibadan,corporate 
+12448.0,Customer_3448,Ibadan,Sme
+12449.0,Customer_3449,PH,retail
+12450.0,,Ibadan, retail
+12451.0,,, SME
+12452.0,Customer_3452,PH,CORPORATE 
+12453.0,Customer_3453,Lagos,CORPORATE  
+12454.0,Customer_3454,,RETAIL
+12455.0,Customer_3455,,RETAIL
+12456.0,,Abuja,sme
+12457.0,Customer_3457,PH,Retail
+12458.0,Customer_3458,Kano,RETAIL
+12459.0,Customer_3459,Lagos,CORPORATE
+12460.0,,Lagos,RETAIL
+12461.0,,PH,corporate
+12462.0,Customer_3462,Lagos,CORPORATE 
+12463.0,Customer_3463,Abuja,retail
+12464.0,Customer_3464,Ibadan,Sme
+12465.0,Customer_3465,Ibadan, CORPORATE 
+12466.0,Customer_3466,Kano,Corporate 
+12467.0,Customer_3467,Ibadan,sme
+12468.0,Customer_3468,,Corporate
+,Customer_3469,Abuja,Sme
+12470.0,Customer_3470,Ibadan,Retail
+12471.0,,Lagos, SME
+12472.0,Customer_3472,Ibadan, retail
+12473.0,Customer_3473,Lagos, Corporate
+12474.0,Customer_3474,Abuja, CORPORATE 
+12475.0,Customer_3475,,SME
+12476.0,Customer_3476,Abuja,Retail
+,Customer_3477,,Retail
+12478.0,Customer_3478,Lagos,CORPORATE
+12479.0,Customer_3479,Ibadan,Retail
+12480.0,Customer_3480,Ibadan, Retail
+12481.0,Customer_3481,Kano,Sme
+12482.0,,Kano,SME 
+12483.0,Customer_3483,Ibadan,corporate 
+12484.0,Customer_3484,PH,
+12485.0,Customer_3485,Lagos, retail
+12486.0,Customer_3486,Abuja,SME 
+12487.0,Customer_3487,Ibadan,Corporate 
+12488.0,Customer_3488,Abuja,retail
+12489.0,Customer_3489,Lagos,RETAIL
+12490.0,Customer_3490,Abuja,Corporate 
+12491.0,Customer_3491,Abuja, SME
+12492.0,Customer_3492,Abuja,SME 
+,Customer_3493,Lagos,
+12494.0,Customer_3494,PH,
+12495.0,Customer_3495,Kano,
+12496.0,Customer_3496,Kano, Retail
+12497.0,Customer_3497,Ibadan,Corporate 
+12498.0,Customer_3498,Kano, Corporate
+12499.0,Customer_3499,, retail
+,Customer_3500,Abuja,Retail
+12501.0,Customer_3501,PH,CORPORATE  
+12502.0,Customer_3502,Abuja,Corporate 
+12503.0,Customer_3503,Kano,CORPORATE
+12504.0,,Ibadan,CORPORATE
+12505.0,Customer_3505,Lagos,
+,,Lagos,Corporate
+12507.0,Customer_3507,Lagos,corporate
+12508.0,Customer_3508,Ibadan,
+12509.0,Customer_3509,Ibadan, SME
+12510.0,Customer_3510,Abuja,SME
+12511.0,Customer_3511,, Corporate
+12512.0,Customer_3512,PH, retail
+12513.0,Customer_3513,Ibadan,retail 
+12514.0,Customer_3514,Ibadan,Corporate 
+12515.0,Customer_3515,Ibadan,SME 
+,Customer_3516,Kano,Sme
+12517.0,,Abuja,Corporate 
+12518.0,Customer_3518,Kano,Sme
+12519.0,Customer_3519,Abuja,RETAIL
+12520.0,Customer_3520,Ibadan,CORPORATE
+12521.0,,Abuja,Retail
+12522.0,Customer_3522,Kano,CORPORATE
+12523.0,,Ibadan,Retail
+12524.0,Customer_3524,Abuja, CORPORATE 
+12525.0,Customer_3525,Abuja,
+,Customer_3526,PH,Retail
+12527.0,Customer_3527,Ibadan,retail
+12528.0,Customer_3528,Kano,Retail
+12529.0,Customer_3529,Kano,Corporate 
+12530.0,Customer_3530,, Retail
+12531.0,Customer_3531,,retail
+12532.0,Customer_3532,Abuja,RETAIL
+12533.0,Customer_3533,Abuja,Sme
+12534.0,Customer_3534,Ibadan,Retail 
+12535.0,Customer_3535,PH,retail
+12536.0,Customer_3536,,retail 
+12537.0,Customer_3537,Ibadan, Retail
+,,,corporate 
+12539.0,Customer_3539,Kano, CORPORATE 
+12540.0,Customer_3540,Kano, Retail
+12541.0,Customer_3541,PH,corporate 
+,Customer_3542,,retail
+12543.0,Customer_3543,Lagos,Retail
+12544.0,Customer_3544,Ibadan,CORPORATE
+12545.0,Customer_3545,,corporate 
+12546.0,Customer_3546,Lagos,Sme
+,Customer_3547,PH,Sme
+12548.0,Customer_3548,Kano, retail
+,Customer_3549,Ibadan,corporate 
+12550.0,Customer_3550,Lagos,CORPORATE  
+12551.0,Customer_3551,Kano,Corporate 
+12552.0,Customer_3552,Lagos,Retail
+12553.0,,,CORPORATE 
+12554.0,Customer_3554,, SME
+12555.0,Customer_3555,Abuja,Corporate 
+,Customer_3556,Lagos,Retail 
+12557.0,Customer_3557,Ibadan,Corporate 
+,Customer_3558,Ibadan,retail
+,Customer_3559,, CORPORATE 
+12560.0,Customer_3560,Abuja,Sme
+12561.0,Customer_3561,Ibadan,RETAIL
+12562.0,Customer_3562,Ibadan,
+12563.0,Customer_3563,Ibadan,sme
+12564.0,,Ibadan,
+,Customer_3565,PH,
+12566.0,Customer_3566,PH,corporate
+12567.0,Customer_3567,PH,Retail 
+12568.0,Customer_3568,Lagos,
+12569.0,Customer_3569,Kano,CORPORATE
+12570.0,Customer_3570,Ibadan,Retail
+12571.0,Customer_3571,Ibadan,RETAIL
+12572.0,Customer_3572,,
+,Customer_3573,,RETAIL
+12574.0,,PH,CORPORATE  
+12575.0,Customer_3575,PH,retail 
+,Customer_3576,Lagos,CORPORATE 
+12577.0,Customer_3577,Lagos,
+12578.0,Customer_3578,Ibadan, SME
+12579.0,Customer_3579,,Corporate
+12580.0,Customer_3580,Kano,retail 
+12581.0,,PH,corporate 
+12582.0,Customer_3582,,CORPORATE
+12583.0,Customer_3583,Abuja,retail
+12584.0,Customer_3584,Abuja,
+12585.0,Customer_3585,Lagos,Retail 
+12586.0,Customer_3586,PH,RETAIL
+12587.0,Customer_3587,Ibadan,corporate
+12588.0,Customer_3588,Ibadan,retail
+12589.0,Customer_3589,PH,Sme
+12590.0,Customer_3590,Lagos, SME
+12591.0,Customer_3591,Kano,CORPORATE 
+12592.0,Customer_3592,Kano,Retail
+12593.0,Customer_3593,Lagos,SME 
+12594.0,Customer_3594,Lagos,
+12595.0,Customer_3595,Ibadan,Retail
+12596.0,Customer_3596,PH,Retail
+12597.0,Customer_3597,Lagos,Retail
+12598.0,Customer_3598,PH, SME
+12599.0,Customer_3599,Abuja,corporate
+12600.0,Customer_3600,PH, Corporate
+12601.0,Customer_3601,Lagos,corporate 
+12602.0,Customer_3602,Abuja,SME
+12603.0,Customer_3603,Ibadan,SME 
+12604.0,,Abuja,Retail
+12605.0,Customer_3605,Ibadan,Retail
+12606.0,Customer_3606,Abuja,
+12607.0,Customer_3607,,Corporate 
+12608.0,Customer_3608,Abuja,Corporate
+12609.0,Customer_3609,PH,SME 
+12610.0,Customer_3610,Lagos,CORPORATE  
+12611.0,,Abuja,CORPORATE  
+12612.0,Customer_3612,Abuja, retail
+12613.0,Customer_3613,Abuja,sme
+12614.0,Customer_3614,Lagos,
+12615.0,Customer_3615,Ibadan,Corporate 
+12616.0,Customer_3616,Abuja, CORPORATE 
+,Customer_3617,PH,retail
+12618.0,Customer_3618,Ibadan,SME
+12619.0,Customer_3619,Kano, retail
+12620.0,Customer_3620,Abuja, retail
+12621.0,Customer_3621,Abuja,SME 
+12622.0,Customer_3622,Abuja,Retail
+12623.0,Customer_3623,Lagos, SME
+12624.0,Customer_3624,Kano,Corporate 
+12625.0,Customer_3625,Kano, Retail
+12626.0,Customer_3626,Lagos,SME 
+12627.0,Customer_3627,Lagos,Sme
+12628.0,Customer_3628,Lagos,Corporate
+12629.0,Customer_3629,PH,retail
+12630.0,Customer_3630,PH,RETAIL
+12631.0,Customer_3631,Abuja,corporate
+,Customer_3632,PH,
+12633.0,Customer_3633,,Corporate 
+12634.0,Customer_3634,Lagos,retail
+12635.0,Customer_3635,Lagos,sme
+12636.0,Customer_3636,Abuja, retail
+12637.0,Customer_3637,PH,corporate 
+12638.0,Customer_3638,Ibadan,corporate
+12639.0,Customer_3639,Abuja,RETAIL
+12640.0,Customer_3640,PH,
+12641.0,Customer_3641,Kano, Retail
+12642.0,Customer_3642,Kano,Retail
+12643.0,Customer_3643,Kano,CORPORATE 
+12644.0,Customer_3644,Lagos,RETAIL
+12645.0,Customer_3645,PH,corporate
+12646.0,Customer_3646,Kano, retail
+12647.0,Customer_3647,Abuja, CORPORATE 
+12648.0,Customer_3648,Lagos,
+12649.0,Customer_3649,Ibadan,retail 
+12650.0,Customer_3650,Lagos,
+12651.0,Customer_3651,Kano, retail
+12652.0,Customer_3652,Lagos,SME 
+12653.0,Customer_3653,PH, retail
+,Customer_3654,PH,CORPORATE
+12655.0,Customer_3655,Lagos,retail 
+12656.0,Customer_3656,PH,Corporate
+12657.0,Customer_3657,Ibadan,Retail
+12658.0,,Lagos,CORPORATE 
+12659.0,Customer_3659,Lagos,SME 
+12660.0,Customer_3660,Ibadan,retail
+12661.0,Customer_3661,PH,corporate
+12662.0,Customer_3662,Lagos,retail
+12663.0,Customer_3663,Lagos,Sme
+12664.0,Customer_3664,Abuja,Corporate
+12665.0,Customer_3665,PH,corporate 
+,Customer_3666,Kano, retail
+,Customer_3667,,RETAIL
+12668.0,Customer_3668,Lagos,Corporate 
+12669.0,,PH,
+12670.0,Customer_3670,Kano,Retail 
+12671.0,,Ibadan,sme
+,,Abuja,
+12673.0,Customer_3673,PH,sme
+12674.0,Customer_3674,Lagos,CORPORATE  
+12675.0,Customer_3675,Kano,Retail
+12676.0,Customer_3676,PH, Corporate
+12677.0,Customer_3677,Ibadan,corporate 
+12678.0,Customer_3678,Ibadan, CORPORATE 
+12679.0,Customer_3679,Lagos,Corporate
+12680.0,Customer_3680,Ibadan,RETAIL
+12681.0,Customer_3681,,corporate
+12682.0,Customer_3682,Abuja,retail 
+12683.0,Customer_3683,Abuja,SME 
+12684.0,Customer_3684,Lagos,retail
+12685.0,Customer_3685,Lagos,corporate
+12686.0,Customer_3686,PH,RETAIL
+12687.0,Customer_3687,Ibadan,CORPORATE
+12688.0,Customer_3688,Abuja,sme
+12689.0,Customer_3689,,RETAIL
+12690.0,Customer_3690,Ibadan,CORPORATE  
+12691.0,Customer_3691,Lagos,Corporate
+12692.0,Customer_3692,,
+12693.0,Customer_3693,PH,RETAIL
+12694.0,Customer_3694,Lagos,Corporate
+12695.0,Customer_3695,Kano, retail
+12696.0,Customer_3696,Lagos,CORPORATE 
+,Customer_3697,Ibadan,Retail
+12698.0,Customer_3698,Kano, Retail
+12699.0,,,
+12700.0,Customer_3700,Abuja, SME
+12701.0,Customer_3701,Kano,
+12702.0,,,CORPORATE  
+12703.0,Customer_3703,Kano,SME
+12704.0,,Abuja, Retail
+12705.0,Customer_3705,Ibadan,CORPORATE
+,Customer_3706,Lagos,CORPORATE
+,Customer_3707,,Retail
+12708.0,,Lagos,retail 
+12709.0,Customer_3709,PH,CORPORATE
+12710.0,Customer_3710,Ibadan,
+12711.0,Customer_3711,Kano,Retail
+12712.0,Customer_3712,, SME
+12713.0,Customer_3713,Lagos, retail
+12714.0,Customer_3714,PH,Corporate
+12715.0,Customer_3715,Kano,SME
+,Customer_3716,Kano,corporate
+12717.0,Customer_3717,Kano,corporate 
+12718.0,Customer_3718,Abuja, Corporate
+12719.0,Customer_3719,Abuja,
+12720.0,Customer_3720,Kano,Retail 
+12721.0,Customer_3721,Abuja,Corporate 
+12722.0,Customer_3722,Ibadan,Retail
+12723.0,Customer_3723,Abuja, Retail
+,Customer_3724,Ibadan,Corporate
+12725.0,,Lagos,
+12726.0,Customer_3726,Lagos,
+12727.0,Customer_3727,Ibadan,
+12728.0,Customer_3728,Abuja,corporate 
+12729.0,Customer_3729,Ibadan,RETAIL
+12730.0,,Ibadan,CORPORATE  
+12731.0,Customer_3731,Ibadan,RETAIL
+12732.0,Customer_3732,,
+12733.0,Customer_3733,Lagos,CORPORATE  
+12734.0,Customer_3734,, retail
+12735.0,Customer_3735,Ibadan,corporate
+,Customer_3736,Ibadan, Retail
+12737.0,Customer_3737,PH,corporate
+12738.0,Customer_3738,Kano,corporate
+,Customer_3739,Ibadan,retail 
+12740.0,Customer_3740,Lagos,CORPORATE  
+12741.0,,Ibadan,
+12742.0,Customer_3742,PH,Sme
+12743.0,Customer_3743,PH,Sme
+12744.0,Customer_3744,PH,SME
+12745.0,Customer_3745,Kano,
+12746.0,Customer_3746,Lagos,retail
+12747.0,Customer_3747,Kano,RETAIL
+12748.0,Customer_3748,Abuja, Corporate
+12749.0,Customer_3749,Abuja,corporate
+12750.0,Customer_3750,Kano,Sme
+,Customer_3751,Lagos,Sme
+12752.0,Customer_3752,Kano, SME
+,Customer_3753,Kano,Retail 
+,Customer_3754,Kano,SME
+12755.0,Customer_3755,PH,Corporate 
+12756.0,Customer_3756,Ibadan, Retail
+12757.0,Customer_3757,Kano,
+12758.0,Customer_3758,Lagos,Corporate 
+12759.0,Customer_3759,Ibadan,
+,Customer_3760,PH,Corporate 
+12761.0,Customer_3761,Kano,Retail
+12762.0,Customer_3762,Lagos,RETAIL
+12763.0,Customer_3763,Kano,SME
+12764.0,Customer_3764,Abuja,Corporate
+,Customer_3765,Lagos,corporate
+12766.0,Customer_3766,PH, retail
+12767.0,Customer_3767,Kano, SME
+12768.0,Customer_3768,PH, CORPORATE 
+12769.0,Customer_3769,,sme
+12770.0,Customer_3770,Lagos,
+12771.0,Customer_3771,Lagos,CORPORATE
+12772.0,Customer_3772,Abuja,
+12773.0,Customer_3773,Ibadan,Corporate 
+12774.0,Customer_3774,Ibadan,CORPORATE 
+12775.0,Customer_3775,,retail
+,Customer_3776,Ibadan,Sme
+12777.0,Customer_3777,PH,Retail
+12778.0,Customer_3778,PH,retail 
+12779.0,Customer_3779,Kano,Retail
+12780.0,Customer_3780,,
+,Customer_3781,Ibadan,
+12782.0,Customer_3782,PH,SME
+12783.0,Customer_3783,Abuja,Corporate 
+12784.0,Customer_3784,Kano,SME 
+12785.0,Customer_3785,,sme
+12786.0,Customer_3786,Abuja,retail 
+12787.0,Customer_3787,Kano,RETAIL
+12788.0,Customer_3788,Ibadan,retail
+12789.0,,Lagos,corporate
+12790.0,Customer_3790,Abuja,Corporate
+,Customer_3791,PH,
+12792.0,Customer_3792,Kano,RETAIL
+12793.0,Customer_3793,Abuja,Retail 
+12794.0,Customer_3794,Abuja,
+12795.0,Customer_3795,Kano,CORPORATE  
+12796.0,Customer_3796,PH,retail
+,Customer_3797,PH,retail
+12798.0,Customer_3798,PH,RETAIL
+12799.0,,PH,Corporate 
+12800.0,Customer_3800,,corporate
+12801.0,Customer_3801,Ibadan, CORPORATE 
+12802.0,Customer_3802,Lagos,corporate 
+12803.0,Customer_3803,Lagos,CORPORATE
+12804.0,Customer_3804,, retail
+12805.0,Customer_3805,PH,SME
+12806.0,Customer_3806,Lagos, Retail
+12807.0,Customer_3807,Lagos,retail
+12808.0,Customer_3808,Lagos,retail
+12809.0,Customer_3809,Lagos,CORPORATE
+,Customer_3810,Ibadan,corporate 
+12811.0,Customer_3811,Kano,CORPORATE 
+12812.0,Customer_3812,Kano,corporate
+12813.0,Customer_3813,Ibadan,Retail
+12814.0,,Lagos,
+12815.0,Customer_3815,PH, CORPORATE 
+12816.0,Customer_3816,Abuja,CORPORATE
+12817.0,Customer_3817,Lagos, retail
+12818.0,Customer_3818,,SME
+12819.0,Customer_3819,Abuja,Corporate 
+12820.0,Customer_3820,Lagos,Sme
+12821.0,Customer_3821,Lagos,retail
+12822.0,Customer_3822,Abuja,retail
+,Customer_3823,Lagos,Corporate
+12824.0,Customer_3824,Ibadan,CORPORATE  
+12825.0,Customer_3825,Ibadan,RETAIL
+12826.0,Customer_3826,,CORPORATE
+12827.0,Customer_3827,Abuja,CORPORATE 
+12828.0,Customer_3828,PH,Retail
+12829.0,Customer_3829,Ibadan,Corporate
+12830.0,Customer_3830,PH,Sme
+12831.0,Customer_3831,,CORPORATE  
+12832.0,Customer_3832,Ibadan, Corporate
+12833.0,,PH,SME
+12834.0,Customer_3834,Kano,RETAIL
+12835.0,Customer_3835,Lagos,retail
+12836.0,Customer_3836,Ibadan,RETAIL
+12837.0,Customer_3837,Ibadan,corporate 
+12838.0,Customer_3838,Abuja,
+12839.0,Customer_3839,PH,retail 
+12840.0,Customer_3840,Kano, retail
+12841.0,Customer_3841,Abuja, CORPORATE 
+12842.0,,Abuja,CORPORATE  
+12843.0,Customer_3843,Abuja, retail
+12844.0,Customer_3844,Kano,RETAIL
+12845.0,Customer_3845,Kano, Retail
+12846.0,Customer_3846,Lagos,Retail 
+12847.0,Customer_3847,Lagos,SME
+,Customer_3848,Ibadan,Retail
+12849.0,Customer_3849,Ibadan,
+12850.0,Customer_3850,Kano,sme
+12851.0,Customer_3851,Lagos,CORPORATE  
+12852.0,Customer_3852,, Retail
+,Customer_3853,Kano,RETAIL
+,Customer_3854,Ibadan, SME
+12855.0,Customer_3855,Kano,retail
+12856.0,Customer_3856,Kano,SME 
+12857.0,Customer_3857,,
+,Customer_3858,Abuja,retail
+12859.0,Customer_3859,,RETAIL
+12860.0,Customer_3860,Ibadan,retail
+,Customer_3861,Abuja,Corporate
+12862.0,Customer_3862,Abuja,retail
+12863.0,Customer_3863,Ibadan,RETAIL
+12864.0,Customer_3864,PH,sme
+12865.0,,,retail 
+12866.0,Customer_3866,Abuja,Sme
+12867.0,Customer_3867,Abuja,CORPORATE  
+12868.0,Customer_3868,Kano,retail 
+12869.0,Customer_3869,Ibadan,corporate 
+12870.0,Customer_3870,Kano,Retail
+12871.0,Customer_3871,PH,Retail 
+12872.0,Customer_3872,PH,CORPORATE  
+12873.0,Customer_3873,PH,SME 
+12874.0,Customer_3874,Ibadan,SME
+12875.0,Customer_3875,PH,Retail
+12876.0,,Ibadan,CORPORATE 
+12877.0,Customer_3877,Lagos,RETAIL
+12878.0,Customer_3878,Kano,
+12879.0,Customer_3879,Ibadan,SME
+12880.0,Customer_3880,Ibadan,Retail 
+12881.0,Customer_3881,Lagos,
+12882.0,Customer_3882,PH,retail
+,Customer_3883,Lagos, SME
+12884.0,Customer_3884,Kano,corporate 
+12885.0,Customer_3885,Kano, Retail
+12886.0,Customer_3886,Abuja,retail
+,Customer_3887,PH, retail
+12888.0,Customer_3888,PH,CORPORATE
+,Customer_3889,Kano,Retail
+12890.0,Customer_3890,Abuja,Retail
+12891.0,Customer_3891,Ibadan,Corporate 
+12892.0,Customer_3892,,RETAIL
+12893.0,Customer_3893,Ibadan, Retail
+12894.0,,Ibadan,Retail 
+12895.0,,Abuja,
+12896.0,Customer_3896,Kano,retail
+12897.0,Customer_3897,PH,retail
+12898.0,,Abuja,Corporate 
+,Customer_3899,Abuja, retail
+12900.0,,Lagos,
+,Customer_3901,Kano, CORPORATE 
+12902.0,,Kano,SME
+12903.0,Customer_3903,Kano,
+12904.0,Customer_3904,Lagos, retail
+12905.0,,PH, Corporate
+12906.0,Customer_3906,Kano,CORPORATE  
+12907.0,Customer_3907,Abuja,SME 
+12908.0,Customer_3908,PH,
+12909.0,Customer_3909,Kano,retail 
+12910.0,Customer_3910,Kano,RETAIL
+12911.0,Customer_3911,Ibadan,SME 
+,Customer_3912,Ibadan,Corporate
+12913.0,,Kano,retail
+12914.0,,Lagos,sme
+12915.0,Customer_3915,Kano,retail
+12916.0,Customer_3916,PH,RETAIL
+12917.0,Customer_3917,Kano, CORPORATE 
+12918.0,Customer_3918,Kano,RETAIL
+12919.0,Customer_3919,Ibadan,CORPORATE
+12920.0,Customer_3920,PH,CORPORATE
+12921.0,,Kano, Corporate
+12922.0,Customer_3922,Abuja, SME
+12923.0,Customer_3923,Lagos,Retail
+12924.0,Customer_3924,, CORPORATE 
+12925.0,Customer_3925,Abuja, retail
+12926.0,Customer_3926,Ibadan,
+12927.0,Customer_3927,Kano, SME
+12928.0,Customer_3928,PH,retail
+,,Ibadan,RETAIL
+12930.0,Customer_3930,Ibadan, CORPORATE 
+12931.0,Customer_3931,Lagos,Retail
+12932.0,Customer_3932,Abuja, Corporate
+12933.0,,PH,sme
+12934.0,,Ibadan,Corporate 
+12935.0,Customer_3935,Kano,
+12936.0,Customer_3936,PH,
+12937.0,Customer_3937,PH,Sme
+12938.0,Customer_3938,Kano,CORPORATE  
+12939.0,Customer_3939,PH,
+12940.0,Customer_3940,Lagos,retail
+12941.0,Customer_3941,Lagos, Corporate
+12942.0,Customer_3942,Lagos,retail 
+12943.0,Customer_3943,PH,retail
+12944.0,Customer_3944,,Retail
+12945.0,Customer_3945,Lagos,CORPORATE 
+12946.0,Customer_3946,Ibadan,Corporate 
+12947.0,Customer_3947,Abuja,corporate
+12948.0,Customer_3948,,CORPORATE
+12949.0,Customer_3949,PH,CORPORATE
+12950.0,Customer_3950,Kano,
+12951.0,Customer_3951,Abuja,SME 
+12952.0,,Ibadan,CORPORATE  
+12953.0,Customer_3953,Kano,CORPORATE  
+12954.0,Customer_3954,Kano,Retail
+12955.0,Customer_3955,Abuja, Retail
+12956.0,Customer_3956,Lagos,Corporate 
+12957.0,,PH,RETAIL
+12958.0,Customer_3958,Kano,Sme
+12959.0,Customer_3959,,retail 
+12960.0,Customer_3960,Ibadan,RETAIL
+12961.0,Customer_3961,Kano,Retail
+12962.0,Customer_3962,Ibadan,CORPORATE
+12963.0,Customer_3963,Lagos,Corporate
+12964.0,Customer_3964,Kano,SME 
+12965.0,Customer_3965,Lagos,CORPORATE 
+12966.0,Customer_3966,PH,RETAIL
+,Customer_3967,Ibadan,CORPORATE
+12968.0,Customer_3968,Ibadan, Corporate
+12969.0,Customer_3969,Lagos,corporate 
+12970.0,Customer_3970,Lagos, Corporate
+12971.0,Customer_3971,PH,Corporate
+12972.0,,PH, Corporate
+12973.0,Customer_3973,Lagos,sme
+12974.0,Customer_3974,Kano,retail
+12975.0,Customer_3975,PH, CORPORATE 
+12976.0,Customer_3976,PH,Retail 
+12977.0,Customer_3977,Kano,SME 
+12978.0,Customer_3978,PH,
+12979.0,Customer_3979,,Corporate
+12980.0,Customer_3980,Abuja,sme
+12981.0,Customer_3981,Kano, Retail
+12982.0,Customer_3982,Ibadan,CORPORATE
+12983.0,Customer_3983,PH,retail 
+,Customer_3984,Lagos, CORPORATE 
+12985.0,Customer_3985,Abuja,Corporate 
+12986.0,Customer_3986,Abuja, retail
+,Customer_3987,Ibadan, retail
+12988.0,Customer_3988,Lagos,retail 
+12989.0,,Abuja,sme
+,Customer_3990,Kano, retail
+12991.0,Customer_3991,Kano, Retail
+12992.0,Customer_3992,Abuja, CORPORATE 
+12993.0,Customer_3993,Kano,retail
+12994.0,Customer_3994,Lagos, retail
+12995.0,Customer_3995,Ibadan, CORPORATE 
+12996.0,Customer_3996,Lagos,CORPORATE 
+12997.0,Customer_3997,, Retail
+,Customer_3998,,Corporate
+12999.0,Customer_3999,,sme
+12282.0,Customer_3282,Abuja, SME
+,Customer_2641,PH, SME
+11179.0,Customer_2179,PH,retail
+12671.0,,Ibadan,sme
+10191.0,Customer_1191,Lagos,
+9716.0,Customer_716,Abuja,Retail 
+10182.0,Customer_1182,Kano,Corporate
+12786.0,Customer_3786,Abuja,retail 
+11383.0,Customer_2383,PH,sme
+12328.0,Customer_3328,Abuja,SME
+11765.0,Customer_2765,Abuja,sme
+12267.0,Customer_3267,Ibadan,Corporate
+10927.0,Customer_1927,Ibadan,Retail 
+11424.0,Customer_2424,Abuja,Corporate 
+10441.0,Customer_1441,, retail
+11274.0,,Kano,CORPORATE 
+9568.0,Customer_568,,retail
+11974.0,,Lagos,retail 
+12994.0,Customer_3994,Lagos, retail
+11365.0,Customer_2365,Ibadan,corporate 
+10819.0,Customer_1819,Abuja,sme
+12369.0,Customer_3369,Lagos,Corporate 
+10129.0,Customer_1129,Kano,Corporate
+10235.0,Customer_1235,Ibadan,sme
+9197.0,Customer_197,Kano,Sme
+12770.0,Customer_3770,Lagos,
+11807.0,Customer_2807,Ibadan,corporate
+12285.0,Customer_3285,Lagos, Retail
+11188.0,Customer_2188,,retail
+12293.0,,, Retail
+9727.0,Customer_727,Kano, retail
+10180.0,Customer_1180,Ibadan,corporate 
+11879.0,Customer_2879,Lagos, retail
+10514.0,,,Corporate
+11927.0,,Kano,SME 
+12825.0,Customer_3825,Ibadan,RETAIL
+10374.0,,Ibadan,SME
+11710.0,Customer_2710,PH,sme
+9320.0,Customer_320,PH,retail
+11234.0,Customer_2234,,RETAIL
+10049.0,Customer_1049,Lagos,Corporate
+12437.0,Customer_3437,,RETAIL
+9435.0,,PH,retail
+12342.0,Customer_3342,Ibadan,corporate 
+12056.0,,Lagos,
+12871.0,Customer_3871,PH,Retail 
+,Customer_2906,PH,SME
+,Customer_3889,Kano,Retail
+,Customer_2961,PH,CORPORATE  
+,Customer_1529,Kano,Retail
+9212.0,,Abuja, Corporate
+10448.0,Customer_1448,Lagos,Sme
+9384.0,Customer_384,Kano,SME 
+9148.0,Customer_148,Abuja, Corporate
+10916.0,Customer_1916,PH, SME
+10297.0,Customer_1297,,CORPORATE
+10739.0,Customer_1739,,retail
+10263.0,Customer_1263,Abuja,corporate 
+9108.0,Customer_108,Lagos, CORPORATE 
+12578.0,Customer_3578,Ibadan, SME
+9890.0,Customer_890,Ibadan, Corporate
+12991.0,Customer_3991,Kano, Retail
+11556.0,Customer_2556,Abuja, Retail
+11999.0,Customer_2999,Abuja,SME 
+11521.0,,Kano, SME
+9439.0,Customer_439,Ibadan,CORPORATE
+,Customer_3559,, CORPORATE 
+,Customer_2495,Ibadan,Corporate 
+10283.0,Customer_1283,Kano,Sme
+9996.0,Customer_996,Lagos,CORPORATE  
+12544.0,Customer_3544,Ibadan,CORPORATE
+12676.0,Customer_3676,PH, Corporate
+11721.0,Customer_2721,PH, Retail
+9383.0,Customer_383,Ibadan,SME 
+11340.0,Customer_2340,Kano,Corporate 
+9017.0,Customer_17,Lagos, SME
+9624.0,Customer_624,,Retail
+9630.0,Customer_630,,Corporate
+11045.0,Customer_2045,Lagos,Corporate 
+10622.0,,Lagos, Retail
+11047.0,Customer_2047,,CORPORATE
+11289.0,Customer_2289,Kano,
+12503.0,Customer_3503,Kano,CORPORATE
+11397.0,Customer_2397,Ibadan,Corporate 
+,Customer_1647,Lagos, SME
+12029.0,Customer_3029,PH,RETAIL
+9826.0,Customer_826,Lagos,CORPORATE 
+,Customer_1211,PH,SME 
+11609.0,Customer_2609,Abuja,Sme
+9674.0,,Kano,sme
+9856.0,,,CORPORATE
+,Customer_637,Abuja,Retail 
+10034.0,Customer_1034,,CORPORATE  
+9872.0,Customer_872,Abuja,corporate 
+12137.0,Customer_3137,Lagos,Retail
+10993.0,Customer_1993,Ibadan,Retail 
+9902.0,Customer_902,Kano,retail
+10746.0,Customer_1746,, SME
+11390.0,Customer_2390,Ibadan,SME
+10332.0,Customer_1332,, CORPORATE 
+10093.0,Customer_1093,Kano,Corporate
+,Customer_3765,Lagos,corporate
+9510.0,Customer_510,Ibadan, Retail
+10949.0,Customer_1949,Abuja, SME
+12032.0,Customer_3032,Kano,sme
+12139.0,Customer_3139,Lagos,Retail 
+10973.0,Customer_1973,Kano,Retail
+11239.0,Customer_2239,Ibadan, retail
+11523.0,Customer_2523,Lagos,Corporate 
+12276.0,,Lagos,
+10396.0,Customer_1396,Kano,RETAIL
+,Customer_3697,Ibadan,Retail
+,,PH,corporate
+9782.0,Customer_782,PH,corporate 
+10264.0,Customer_1264,Kano,retail
+12532.0,Customer_3532,Abuja,RETAIL
+9813.0,Customer_813,,Retail
+10952.0,Customer_1952,Lagos,SME
+9332.0,Customer_332,Lagos,Corporate 
+12094.0,,Ibadan,retail
+9445.0,Customer_445,PH, Corporate
+,Customer_582,Abuja,
+10521.0,Customer_1521,Lagos, Corporate
+11738.0,Customer_2738,Lagos,Sme
+11519.0,Customer_2519,Abuja,Corporate 
+9194.0,Customer_194,Ibadan, Retail
+,Customer_1107,Kano,retail
+10817.0,Customer_1817,Kano,Retail
+9273.0,Customer_273,PH,
+11725.0,Customer_2725,,Retail
+9997.0,Customer_997,Ibadan,corporate 
+9887.0,Customer_887,Abuja,RETAIL
+12752.0,Customer_3752,Kano, SME
+10257.0,Customer_1257,Kano,sme
+11812.0,Customer_2812,,RETAIL
+10984.0,Customer_1984,Ibadan,retail
+,Customer_3493,Lagos,
+12626.0,Customer_3626,Lagos,SME 
+11539.0,Customer_2539,Kano,Retail
+,Customer_3724,Ibadan,Corporate
+11899.0,Customer_2899,Lagos, retail
+10433.0,Customer_1433,Lagos,retail
+11982.0,Customer_2982,PH,Sme
+10224.0,Customer_1224,Lagos, Retail
+9419.0,Customer_419,Abuja,SME 
+12927.0,Customer_3927,Kano, SME
+9736.0,Customer_736,Lagos, Retail
+10251.0,Customer_1251,Lagos,retail
+12616.0,Customer_3616,Abuja, CORPORATE 
+10787.0,Customer_1787,Abuja, CORPORATE 
+10651.0,Customer_1651,PH,
+11952.0,Customer_2952,Ibadan,Sme
+9951.0,Customer_951,Kano,SME 
+12408.0,Customer_3408,PH, CORPORATE 
+12353.0,Customer_3353,Ibadan,corporate 
+9652.0,Customer_652,Ibadan,retail
+10059.0,,Lagos, CORPORATE 
+12378.0,Customer_3378,PH,CORPORATE 
+9414.0,Customer_414,Abuja,Corporate
+10516.0,Customer_1516,Ibadan,
+10663.0,Customer_1663,Lagos,SME
+12722.0,Customer_3722,Ibadan,Retail
+10368.0,Customer_1368,Lagos,CORPORATE  
+10630.0,Customer_1630,Ibadan,corporate 
+12073.0,Customer_3073,Kano,CORPORATE
+11560.0,Customer_2560,Abuja,CORPORATE
+12907.0,Customer_3907,Abuja,SME 
+11966.0,Customer_2966,,corporate 
+12820.0,Customer_3820,Lagos,Sme
+12610.0,Customer_3610,Lagos,CORPORATE  
+9992.0,Customer_992,Ibadan,
+12365.0,Customer_3365,PH,CORPORATE 
+,Customer_1101,PH,RETAIL
+12307.0,Customer_3307,PH,sme
+9557.0,Customer_557,, CORPORATE 
+12834.0,Customer_3834,Kano,RETAIL
+9687.0,Customer_687,Lagos, Retail
+11159.0,Customer_2159,Ibadan,SME
+11474.0,Customer_2474,PH,Sme
+12087.0,Customer_3087,,Corporate 
+12431.0,Customer_3431,Abuja,Corporate
+9145.0,Customer_145,Abuja,
+9747.0,Customer_747,Kano,CORPORATE
+10667.0,Customer_1667,Abuja, Retail
+12266.0,Customer_3266,Kano,Corporate
+12536.0,Customer_3536,,retail 
+11977.0,Customer_2977,,Retail 
+12852.0,Customer_3852,, Retail
+12482.0,,Kano,SME 
+11132.0,Customer_2132,Ibadan,Retail
+,Customer_2817,Abuja,corporate 
+11494.0,Customer_2494,PH,Retail
+12942.0,Customer_3942,Lagos,retail 
+11754.0,Customer_2754,Lagos, Retail
+11660.0,Customer_2660,Lagos,Sme
+9680.0,Customer_680,Kano, Corporate
+9935.0,Customer_935,Kano,corporate
+,Customer_3259,Kano,SME
+12703.0,Customer_3703,Kano,SME
+12222.0,Customer_3222,Abuja,Corporate 
+,Customer_2090,Lagos, Retail
+11698.0,Customer_2698,PH, CORPORATE 
+11526.0,Customer_2526,Lagos,CORPORATE
+11114.0,Customer_2114,Kano,Sme
+10141.0,Customer_1141,Lagos,CORPORATE 
+10918.0,Customer_1918,Lagos,SME 
+11407.0,Customer_2407,Kano, SME
+11772.0,Customer_2772,Lagos,Retail
+10508.0,Customer_1508,PH,RETAIL
+12566.0,Customer_3566,PH,corporate
+11847.0,Customer_2847,Kano, CORPORATE 
+9719.0,Customer_719,Lagos,Corporate 
+11300.0,Customer_2300,Kano, Retail
+10785.0,Customer_1785,PH,Retail
+9583.0,Customer_583,Kano,CORPORATE 
+10513.0,Customer_1513,Abuja,SME
+10176.0,Customer_1176,,CORPORATE  
+9007.0,,Lagos,Retail
+9109.0,Customer_109,Lagos,SME
+10674.0,Customer_1674,Ibadan,sme
+,Customer_3853,Kano,RETAIL
+11263.0,Customer_2263,Lagos, Corporate
+10119.0,Customer_1119,Lagos, Corporate
+9025.0,Customer_25,Abuja, Corporate
+12892.0,Customer_3892,,RETAIL
+9764.0,Customer_764,Kano,Retail 
+12052.0,Customer_3052,Ibadan,retail 
+12611.0,,Abuja,CORPORATE  
+12857.0,Customer_3857,,
+12484.0,Customer_3484,PH,
+9731.0,Customer_731,Ibadan,
+12252.0,Customer_3252,Ibadan, SME
+12581.0,,PH,corporate 
+11332.0,Customer_2332,Ibadan,Retail 
+9084.0,Customer_84,Kano, Retail
+11427.0,Customer_2427,Ibadan,SME
+10406.0,Customer_1406,,corporate
+12922.0,Customer_3922,Abuja, SME
+12729.0,Customer_3729,Ibadan,RETAIL
+11921.0,Customer_2921,Ibadan,RETAIL
+10717.0,Customer_1717,PH,RETAIL
+,Customer_3654,PH,CORPORATE
+9591.0,Customer_591,PH,CORPORATE 
+11445.0,Customer_2445,PH,Sme
+11633.0,Customer_2633,Lagos,corporate 
+12601.0,Customer_3601,Lagos,corporate 
+9606.0,Customer_606,Abuja,retail 
+10135.0,Customer_1135,Abuja,
+11537.0,Customer_2537,Kano,CORPORATE 
+12653.0,Customer_3653,PH, retail
+11501.0,Customer_2501,Ibadan,Corporate 
+10219.0,Customer_1219,PH,retail
+12120.0,Customer_3120,Abuja,corporate 
+,Customer_2953,Abuja,SME
+11054.0,Customer_2054,Ibadan,corporate 
+9193.0,Customer_193,Ibadan,SME 
+10591.0,Customer_1591,Kano,SME 
+10035.0,Customer_1035,Ibadan,Corporate 
+11798.0,Customer_2798,Ibadan, retail
+9982.0,Customer_982,Abuja,corporate
+12920.0,Customer_3920,PH,CORPORATE
+11368.0,Customer_2368,,RETAIL
+10932.0,Customer_1932,Ibadan,Corporate 
+11437.0,Customer_2437,Lagos,corporate
+10796.0,Customer_1796,Abuja,SME
+10964.0,Customer_1964,PH,Retail
+9597.0,Customer_597,Abuja,retail
+11786.0,Customer_2786,Abuja,CORPORATE 
+9688.0,,Ibadan,Corporate 
+9489.0,Customer_489,Abuja, CORPORATE 
+12159.0,Customer_3159,Ibadan,SME 
+11915.0,Customer_2915,,retail 
+9514.0,Customer_514,Lagos,corporate 
+10243.0,Customer_1243,Kano, retail
+12738.0,Customer_3738,Kano,corporate
+10811.0,Customer_1811,Ibadan,SME
+,Customer_1292,Lagos,CORPORATE 
+12881.0,Customer_3881,Lagos,
+11145.0,Customer_2145,Abuja,RETAIL
+11567.0,Customer_2567,PH,corporate 
+9269.0,Customer_269,PH,retail 
+11998.0,Customer_2998,PH,retail
+12045.0,,Ibadan,Sme
+11992.0,Customer_2992,PH, Retail
+12773.0,Customer_3773,Ibadan,Corporate 
+12517.0,,Abuja,Corporate 
+11418.0,Customer_2418,Lagos,Corporate
+9829.0,Customer_829,Abuja,Retail
+10604.0,Customer_1604,PH, SME
+9032.0,Customer_32,Lagos,
+11907.0,Customer_2907,Ibadan,Retail 
+9429.0,Customer_429,Kano,Retail 
+,Customer_441,Lagos,CORPORATE
+9824.0,Customer_824,Lagos,Sme
+11829.0,Customer_2829,PH,Retail
+9243.0,Customer_243,Kano,sme
+9987.0,Customer_987,Abuja,retail
+12089.0,Customer_3089,Lagos,Retail
+10355.0,Customer_1355,Lagos,retail
+9480.0,,Kano,Corporate
+12727.0,Customer_3727,Ibadan,
+12245.0,Customer_3245,Lagos,RETAIL
+12966.0,Customer_3966,PH,RETAIL
+9497.0,,Ibadan,SME 
+,Customer_2853,,CORPORATE
+,Customer_1798,Abuja,corporate 
+11209.0,,Kano,Corporate 
+12835.0,Customer_3835,Lagos,retail
+10923.0,,Kano,Retail 
+10921.0,Customer_1921,,Corporate
+10384.0,Customer_1384,,corporate 
+10542.0,Customer_1542,Lagos, retail
+9315.0,,Ibadan,retail
+,Customer_2590,PH, CORPORATE 
+,Customer_453,Abuja,Corporate 
+9945.0,,Lagos,
+10763.0,Customer_1763,Abuja,Retail
+9893.0,,Abuja,RETAIL
+12390.0,Customer_3390,, CORPORATE 
+9374.0,Customer_374,,corporate
+10751.0,Customer_1751,Ibadan, Retail
+9708.0,Customer_708,Lagos, Corporate
+12591.0,Customer_3591,Kano,CORPORATE 
+11184.0,Customer_2184,,Sme
+10376.0,Customer_1376,Lagos,retail 
+11592.0,Customer_2592,Kano,Corporate 
+12890.0,Customer_3890,Abuja,Retail
+,Customer_12,Ibadan,CORPORATE
+,Customer_3152,Kano,CORPORATE  
+11018.0,Customer_2018,Kano,Corporate 
+11876.0,,Abuja,RETAIL
+11978.0,Customer_2978,Lagos,Corporate
+,Customer_3887,PH, retail
+11601.0,Customer_2601,Kano,sme
+9394.0,Customer_394,Abuja,retail
+9665.0,Customer_665,Ibadan,Retail
+11532.0,Customer_2532,Abuja,Retail 
+12392.0,Customer_3392,Kano,RETAIL
+11432.0,Customer_2432,Abuja,SME 
+11502.0,Customer_2502,Lagos,retail
+10936.0,,Lagos,Corporate 
+9107.0,Customer_107,PH,retail 
+10361.0,Customer_1361,Lagos,corporate
+9311.0,Customer_311,Kano,
+,Customer_3414,Lagos, Corporate
+11586.0,Customer_2586,Abuja,CORPORATE
+,Customer_3190,Kano, retail
+,Customer_1737,,corporate
+11172.0,Customer_2172,Kano,SME 
+12450.0,,Ibadan, retail
+12096.0,,Abuja,sme
+,Customer_3791,PH,
+,Customer_2824,PH,SME
+9450.0,Customer_450,PH,SME
+12772.0,Customer_3772,Abuja,
+12301.0,Customer_3301,Ibadan,Corporate 
+11356.0,Customer_2356,Kano, retail
+9546.0,Customer_546,Lagos,retail
+10236.0,Customer_1236,PH,
+9604.0,Customer_604,Abuja,sme
+9493.0,Customer_493,Lagos,CORPORATE 
+11946.0,Customer_2946,Kano,CORPORATE 
+10090.0,Customer_1090,Lagos,Corporate 
+9851.0,Customer_851,PH, Corporate
+11379.0,,Lagos,SME 
+11060.0,Customer_2060,Kano,Retail
+,Customer_94,Abuja,Corporate
+9730.0,,Abuja,corporate
+12209.0,Customer_3209,Ibadan,Corporate
+12771.0,Customer_3771,Lagos,CORPORATE
+,Customer_3203,Ibadan,RETAIL
+10833.0,Customer_1833,Ibadan,corporate 
+12235.0,Customer_3235,,SME 
+11284.0,Customer_2284,Kano,
+12177.0,,Abuja,Corporate 
+,Customer_2826,PH,
+10905.0,Customer_1905,PH,Sme
+12976.0,Customer_3976,PH,Retail 
+12244.0,Customer_3244,PH,Sme
+11405.0,,Abuja,Corporate 
+12310.0,Customer_3310,PH,retail
+9042.0,Customer_42,Kano,Retail
+12321.0,,Abuja, Corporate
+9929.0,Customer_929,Lagos,Retail
+11232.0,Customer_2232,Abuja,RETAIL
+12449.0,Customer_3449,PH,retail
+12665.0,Customer_3665,PH,corporate 
+12819.0,Customer_3819,Abuja,Corporate 
+12423.0,Customer_3423,Abuja,retail
+10471.0,,Lagos,CORPORATE  
+9495.0,Customer_495,Abuja,corporate 
+10298.0,Customer_1298,Abuja,corporate 
+11208.0,Customer_2208,,
+,Customer_2789,Lagos,CORPORATE  
+9062.0,Customer_62,Kano,Retail 
+11804.0,Customer_2804,Lagos,Retail
+10600.0,Customer_1600,Lagos, Corporate
+11654.0,,Abuja,retail
+10755.0,Customer_1755,Abuja,Corporate
+9367.0,Customer_367,PH,
