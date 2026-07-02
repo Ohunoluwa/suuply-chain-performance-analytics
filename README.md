@@ -17,8 +17,7 @@ The goal was to track three things: how much money the company is making, how fa
 
 # About the Data
 
-The data used in this project isn't real — it's a made-up e-commerce dataset that I built myself using Python to look and behave like real sales data. I deliberately added common problems you'd see in real-world data, like missing information, incorrectly formatted numbers, messy dates, and delivery times that don't make sense. This let me test whether my cleaning process could actually catch and fix these kinds of issues.
-
+This project utilizes a **synthetic e-commerce dataset**. This dataset was custom-generated using Python (Pandas) to simulate a real-world, raw transactional environment. It intentionally includes business problems such as missing values, decimal artifacts, date formatting errors, and impossible wait-time outliers—to rigorously test the resilience and cleansing capabilities of the SQL ETL pipeline.
 
 # How the Data Was Cleaned and Organized (Medallion Approach)
 
